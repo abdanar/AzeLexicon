@@ -16,6 +16,7 @@ azerbaijani-wordlist/
 │   └── azerbaijani.txt       # Plain text word list (UTF-8)
 ├── LICENSE
 └── README.md
+```
 
 ## Current Status
 
