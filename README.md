@@ -10,7 +10,7 @@ A comprehensive collection of Azerbaijani words in plain text format, designed a
 ## Repository Structure
 
 ```text
-azerbaijani-wordlist/
+azerbaijani-words/
 ├── data/
 │   └── azerbaijani-words.txt
 ├── LICENSE
