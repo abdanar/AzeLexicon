@@ -12,7 +12,8 @@ A comprehensive collection of Azerbaijani words in plain text format, designed a
 ```text
 azerbaijani-words/
 ├── data/
-│   └── azerbaijani-words.txt
+│   |── azerbaijani-words.txt
+|   |── azerbaijani-hyph.txt
 ├── LICENSE
 └── README.md
 ```
