@@ -6,7 +6,6 @@
 
 A comprehensive collection of Azerbaijani words in plain text format, designed as a foundational resource for **hyphenation, natural language processing (NLP), spell checking, and computational linguistics research**.
 
----
 
 ## Repository Structure
 
@@ -20,9 +19,10 @@ azerbaijani-wordlist/
 
 ## Current Status
 
-- Contains Azerbaijani words in `data/azerbaijani.txt`.
+- Contains **120K Azerbaijani words** in `data/azerbaijani.txt`.
 - Words are **UTF-8 encoded** and include all special Azerbaijani characters: `ə, ı, ö, ü, ş, ç, ğ`.
 - Suitable for **text processing** and as input for **hyphenation pattern creation**.
+
 
 ## Future Plans
 
