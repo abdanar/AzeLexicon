@@ -1,1 +1,1 @@
-# azerbaijani-words
+# List Of Azerbaijani Words
