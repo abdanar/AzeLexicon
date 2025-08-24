@@ -12,7 +12,7 @@ A comprehensive collection of Azerbaijani words in plain text format, designed a
 ```text
 azerbaijani-wordlist/
 ├── data/
-│   └── azerbaijani-words.txt       # Plain text word list (UTF-8)
+│   └── azerbaijani-words.txt
 ├── LICENSE
 └── README.md
 ```
