@@ -1,5 +1,4 @@
-Aa 
-aba ( məh.) 
+aba 
 abad  
 abadan  
 abadanlıq  
@@ -10,20 +9,20 @@ abadlaşdırmaq
 abadlaşma  
 abadlaşmaq  
 abadlıq  
-abadlıq -quruculuq  
-abajur  
+abadlıq-quruculuq  
+abajur 
 abajurlu  
-abandon (iqt.) 
-abasbəyi, armud  
-abazin ( -lər) 
+abandon 
+abasbəyi  
+abazin 
 abaziya  
 abbası  
 abbasılıq  
-abbasi ( -lər)  (tar.) 
-abbat  
+abbasi 
+abbat 
 abbatlıq  
 abdal  
-abdali ( -lər) 
+abdali
 abdallaşma  
 abdallaşmaq  
 abdəst  
@@ -31,15 +30,16 @@ abdəstxana
 abdəstli  
 abdəstlik  
 abdəstsiz  
-abdominal ( tib.) 
+abdominal
 abduksiya  
 abduktor  
 abgərdan  
 ab-hava  
-ab-havalı  abxaz ( -lar) 
+ab-havalı  
+abxaz
 abxazca  
 abı 
-abıca ( zool. ) 
+abıca 
 abılıq  
 abır 
 abır-həya  
@@ -54,21 +54,21 @@ abırlandırmaq
 abırlanma  
 abırlanmaq  
 abırlı  
-abırlı -həyalı  
-abırlı -ismətli  
+abırlı-həyalı  
+abırlı-ismətli  
 abırlılıq  
 abırsız  
-abırsız -abırsız  
+abırsız-abırsız  
 abırsızca  
 abırsızcasına  
-abırsız -həyasız  
-abırsız -ismətsiz  
+abırsız-həyasız  
+abırsız-ismətsiz  
 abırsızlıq  
 abıtəhər  
 abid 
 abidcəsinə  
 abidə  
-abidə -bulaq  
+abidə-bulaq  
 abidəətrafı  
 abidəqoyma  
 abidəli  
@@ -76,9 +76,10 @@ abidəsiz
 abidəyanı  
 abidləşmə  
 abidləşmək  
-abidlik  abi-həyat  
+abidlik  
+abi-həyat  
 abi-kövsər  
-abiogenez (biol.) 
+abiogenez
 abionim  
 abiotik  
 abiotrofiya  
@@ -89,27 +90,27 @@ abqoralı
 abqoralıq  
 abqorasız  
 ablastika  
-ablativ ( dilç.) 
+ablativ
 ablaut  
 ablefariya  
 ablepsiya  
-ablyasiya (coğr. ) 
+ablyasiya
 abonement  
 abonent  
 aborigen  
 abort  
 abortiv  
-abortivlik (bot.) 
-abortsanq (tib.) 
+abortivlik
+abortsanq
 abraxiya  
 abraziv  
 abrazivlik  
-abraziv -maye  
-abraziya (geol. ) 
-abreviasiya (dilç.) 
-abreviatur (dilç.) 
+abraziv-maye  
+abraziya
+abreviasiya
+abreviatur
 abrikotin  
-abroqasiya (hüq.) 
+abroqasiya
 absans  
 absent  
 absenteizm  
@@ -117,11 +118,9 @@ absentizm
 abses  
 absesektomiya  
 absesoqrafiya    
-  aba - absesoqrafiya  
- 28 abs acg acı 
-absida (memar. ) 
-absis (riyaz. ) 
-absolyut ( fəls.) 
+absida
+absis
+absolyut 
 absolyutizm  
 absolyutluq  
 absorbent  
@@ -129,7 +128,7 @@ absorber
 absorbsiometr  
 absorbsiometriya  
 absorbsiya  
-absorbsiyaedi ci 
+absorbsiyaedici 
 abstinensiya  
 abstraksionizm  
 abstraksiya  
@@ -143,7 +142,7 @@ abstraktlaşmaq
 abstraktlıq  
 absurd  
 absurdluq  
-abuliya (tib.) 
+abuliya
 abunə  
 abunəçi  
 abzas  
@@ -153,13 +152,14 @@ abzaslanma
 abzas lanmaq  
 ac 
 ac-acına  
-acar ( -lar) 
+acar
 acarca  
 ac-çılpaq  
 acdırma  
 acdırmaq  
 acgödən  
-acgöz  acgözcəsinə  
+acgöz  
+acgözcəsinə  
 acgözlük  
 acı 
 acı-acı 
@@ -177,14 +177,14 @@ acıdillilik
 acıxəmrə    
 acıq 
 acıqca  
-acıqıcı ( bot.) 
+acıqıcı
 acıq-qıcıq  
 acıqlandırma  
 acıqlandırmaq  
 acıqlanma  
 acıqlanmaq  
 acıqlı  
-acıqlı -acıqlı  
+acıqlı-acıqlı  
 acıqlılıq  
 acıquşəppəyi  
 acılama  
@@ -199,8 +199,9 @@ acılaşma
 acılaşmaq  
 acılatma  
 acılatmaq  
-acılı  acılı-ağrılı  
-acılıca (bot.) 
+acılı  
+acılı-ağrılı  
+acılıca
 acılıq  
 acılıqotu  
 acılı-şirinli  
@@ -209,7 +210,7 @@ acımaq
 acımsov  
 acımtıl  
 acımtıllıq  
-acımtıl -şirin 
+acımtıl-şirin 
 acınacaq  
 acınacaqlı  
 acındırıcı  
@@ -222,10 +223,10 @@ acıpaxla
 acıpaxlalı  
 acıpencər  
 acıpencərli  
-acışa -acışa  
-acışdıra -acışdıra  
+acışa-acışa  
+acışdıra-acışdıra  
 acışdırıcı  
-acışdır ma 
+acışdırma 
 acışdırmaq  
 acışma  
 acışmaq  
@@ -240,11 +241,9 @@ acıtmalıq
 acıtmasız  
 acıyonca  
 acıyovşan  
-absida  - acıyovşan    
- 29 acı açd açı 
 acı-zəhrimar  
 acı-zəqqum  
-acika ( kul.) 
+acika
 aciz 
 aciz-aciz 
 acizanə  
@@ -282,7 +281,8 @@ açarlanma
 açarlanmaq  
 açarlı  
 açarsız  
-açdırılma  açdırılmaq  
+açdırılma  
+açdırılmaq  
 açdırma  
 açdırmaq  
 açdırtma  
@@ -322,7 +322,8 @@ açıqdan
 açıqdan -açığa  
 açıqfikirli  
 açıqfikirlilik  
-açıqgöz  açıqgözlü  
+açıqgöz  
+açıqgözlü  
 açıqgözlülük  
 açıq-qara 
 açıq-qəhvəyi  
@@ -343,36 +344,34 @@ açıqürək
 açıqürəkli  
 açıqürəklilik  
 açıq-yaşıl  
-açılar -açılmaz  
+açılar-açılmaz  
 açılı qalmaq  
-açılıb -bağlanma  
-açılıb -bağlanmaq  
-açılıb -örtülmə  
-açılıb -örtülmək  
-açılıb -tökülmə  
-açılıb -tökülmək  
-açılıb -yığılma  
-açılıb -yığılmaq  
+açılıb-bağlanma  
+açılıb-bağlanmaq  
+açılıb-örtülmə  
+açılıb-örtülmək  
+açılıb-tökülmə  
+açılıb-tökülmək  
+açılıb-yığılma  
+açılıb-yığılmaq  
 açılım  
 açılımlı  
 açılış  
-açılışa -açılışa  
-açılışdan -açılışa  
+açılışa-açılışa  
+açılışdan-açılışa  
 açılışma  
 açılışmaq  
 açılma  
 açılmaq  
 açılmaz     
-  acı-zəhrimar  - açılmaz  
- 30 açı ada add 
-açılsabah (bot.) 
+açılsabah
 açım  
 açırım  
 açış 
 açma  
 açmaq  
-açma -yığma  
-açma -yumma  
+açma-yığma  
+açma-yumma  
 ad 
 ada 
 adacıq  
@@ -390,8 +389,8 @@ adaxlı
 adaxlıbazlıq  
 adaxlılıq  
 adaiçi  
-adajio ( mus.) 
-adaq ( məh. ) 
+adajio 
+adaq
 adalı  
 adam  
 adamağladan  
@@ -405,19 +404,20 @@ adambaşına
 adamboyu  
 adamcanlı  
 adamcanlılıq  
-adamcasına   adamcığaz  
+adamcasına   
+adamcığaz  
 adamcıq  
 adamcıl  
 adamcıllıq  
 adamçaşdıran  
-adam -gün (iqt.) 
+adam-gün
 adamincidən  
-adamkökü (bot.) 
+adamkökü
 adamlı  
 adamlıq  
 adamoynadan  
 adamöldürən  
-adam -saat (iqt.) 
+adam-saat
 adamsatan  
 adamsevməz  
 adamsevməzlik  
@@ -430,33 +430,34 @@ adamyeyən
 adaptasiya  
 adapter  
 adaptiv  
-adaptogen ( -lər) 
+adaptogen
 adasız  
 adaş 
 adaşlıq  
 adayanı  
 adbaad  
-adda -budda  
-adda -budd alıq 
+adda-budda  
+adda-buddalıq 
 addəyişmə  
 addım  
-addım -addım  
+addım-addım  
 addımbaaddım  
-addımbasdı, oyun  
+addımbasdı
 addımbaşı  
 addımlama  
-addımlamaq   addımlatma  
+addımlamaq   
+addımlatma  
 addımlatmaq  
 addımlı  
 addımlıq  
 addımölçən  
-addison ( tib.) 
+addison
 additiv  
 additivlik  
 adduksiya  
 adekvat  
 adekvatlıq  
-adenoid ( -lər) 
+adenoid
 adenoma  
 adenovirus  
 adentiya  
@@ -470,7 +471,7 @@ adətkərdə
 adətsiz  
 adıçəkilən  
 adıgedən  
-adıgey ( -lər) 
+adıgey
 adıgeycə  
 adına günü 
 adi 
@@ -486,13 +487,12 @@ adiləşmə
 adiləşmək  
 adilik  
 adillik   
-açılsaba h - adillik     
- 31 adi adv aer 
-adinamiya (tib.) 
+açılsaba
+adinamiya
 adqoydu  
 adqoyma  
 adlama  
-adlamac, çayiçi yol  
+adlamac
 adlamaq  
 adlandırılma  
 adlandırılmaq  
@@ -503,18 +503,18 @@ adlanmaq
 adlatma  
 adlatmaq  
 adlı 
-adlıq (dilç.) 
+adlıq
 adlı-sanlı  
 administrasiya  
 administrativ  
-administrat or 
+administrator 
 administratorluq  
 admiral  
 admiralitet  
 admirallıq  
-admiral -mühəndis  
-adonis (bot.) 
-adoptasiya ( hüq.) 
+admiral-mühəndis  
+adonis
+adoptasiya 
 adrenalin  
 adrenoreseptor  
 adres  
@@ -524,14 +524,15 @@ ad-san
 ad-sanlı  
 adsız  
 adsızlıq  
-adsız -sansız  
+adsız-sansız  
 adsorber  
 adsorbsiya  
 adsorbsiyaedici  
-advalor   adventist  
+advalor   
+adventist  
 adventizm  
-adverbial (dilç.) 
-adverbiallaşma (dilç.) 
+adverbial
+adverbiallaşma 
 advermə  
 adyal  
 adyalüzü  
@@ -543,7 +544,7 @@ adyutant
 adyutantlıq  
 aerasiya  
 aero 
-aerob (biol.) 
+aerob
 aerobağlama  
 aeroballistik  
 aeroballistika  
@@ -559,7 +560,7 @@ aerodinamik
 aerodinamika  
 aerodrom  
 aerofiltr  
-aerofit ( -lər) ( bot.) 
+aerofit
 aerofizik  
 aerofizika  
 aerofon  
@@ -568,12 +569,13 @@ aerofotoçəkiliş
 aerofotokadr  
 aerofotokamera  
 aerofotoqrafiya  
-aerofotometr   aerogen (tib.) 
+aerofotometr   
+aerogen
 aerogeologiya  
 aerogeoloji  
 aeroxizək  
 aeroiqlim  
-aeroion ( -lar) 
+aeroion
 aerokadr  
 aerokəşfiyyat  
 aerokinoaparat  
@@ -594,7 +596,7 @@ aeromexanik
 aeromexanika  
 aeromexaniki  
 aerometr  
-aerometri k 
+aerometrik 
 aeromorfoz  
 aeronaviqasiya  
 aeronavt  
@@ -609,13 +611,11 @@ aerosinoptika
 aerosolyari  
 aerostansiya  
 aerostat    
-  adinamiya  - aerostat  
- 32 aer ağ ağa 
 aerostatika  
 aerosüzgəc  
 aeroşəkil  
 aerotaxometr  
-aerotan k 
+aerotank 
 aeroterapevtik  
 aeroterapiya  
 aerotermik  
@@ -623,7 +623,7 @@ aerovağzal
 aerozol  
 afaziologiya  
 afaziya  
-afeli (astr.) 
+afeli
 afemiya  
 aferezis  
 afərin  
@@ -638,37 +638,38 @@ afiyət
 aforizm  
 aforizmli  
 aforizmsiz  
-afrikalı ( -lar) 
+afrikalı
 afrikantrop  
-afroamerikalı ( -lar) 
+afroamerikalı
 afrosentrik  
 afrosentrizm  
 aftafa  
-aftafa -ləyən  
+aftafa-ləyən  
 aftafalı  
 aftafasız  
 agah  
 agahlıq  
 agent  
-agent -bank (iqt.)  
-agentlik  ağ 
+agent-bank  
+agentlik  
+ağ 
 ağa 
 ağabacı  
 ağac 
 ağacabənzər  
-ağac-ağac, oyun  
+ağac-ağac 
 ağacasına  
-ağacatma, oyun  
+ağacatma 
 ağacbasdıran  
 ağacbasdırma  
 ağacdeşən  
 ağacdələn  
-ağacdələnkimi ( -lər) (zool.) 
+ağacdələnkimi
 ağacdoğrama  
 ağacdoğrayan  
 ağacəkmə  
-ağacəri ( -lər) 
-ağacgəmirən ( -lər) 
+ağacəri 
+ağacgəmirən
 ağacişləmə  
 ağackəpənəyi  
 ağacqıran  
@@ -683,15 +684,16 @@ ağaclaşmaq
 ağaclı  
 ağaclıq  
 ağacmişarlayan  
-ağacovan ( zool. ) 
+ağacovan
 ağacoyan  
-ağacoym a  
+ağacoyma  
 ağacsaqqızı  
 ağacsız  
 ağacsızlıq  
 ağacşəkilli   
 ağactəmizləmə  
-ağactəmizləyən   ağactəmizləyici  
+ağactəmizləyən   
+ağactəmizləyici  
 ağac-uğac  
 ağacvari  
 ağacyonan  
@@ -699,15 +701,15 @@ ağacyonma
 ağaçalan  
 ağaçalar  
 ağadadaş  
-ağadayı ( bot.) 
+ağadayı 
 ağadostu  
-ağaəmi ( bot.) 
-ağagörməz ( bot.) 
+ağaəmi
+ağagörməz
 ağalanma  
 ağalanmaq  
-ağalı -bəyli  
+ağalı-bəyli  
 ağalıq  
-ağan ənə 
+ağanənə 
 ağa-nökər  
 ağappaq  
 ağarantı  
@@ -730,10 +732,9 @@ ağatəbiət
 ağatəbiətli  
 ağayana  
 ağayanalıq   
-ağayıl, qoyun sürüsü  
-ağbağır, qorxaq  
-aerostatika  – ağbağır     
- 33 ağb ağç ağı 
+ağayıl
+ağbağır  
+aerostatika
 ağbağırlıq  
 ağbalıq  
 ağban  
@@ -752,10 +753,10 @@ ağbənizlik
 ağbığ  
 ağbığlı  
 ağbirçək  
-ağbirçək -qarabirçək  
+ağbirçək-qarabirçək  
 ağbirçəkli  
 ağbirçəklik  
-ağboğaz ( zool. ) 
+ağboğaz
 ağca 
 ağcaqanad  
 ağcaqanadlı  
@@ -766,16 +767,17 @@ ağcaqayınlıq
 ağcaqovaq  
 ağcaqovaqlı  
 ağcaqovaqlıq  
-ağcalıq ( tib.) 
+ağcalıq
 ağcamatan  
 ağcamaya  
 ağcasız  
-ağciyər, qorxaq  
+ağciyər
 ağciyərlik  
-ağciyər -mədə  
-ağciyər -ürək 
-ağçağ  ağçağlıq  
-ağçoğan ( bot.) 
+ağciyər-mədə  
+ağciyər-ürək 
+ağçağ  
+ağçağlıq  
+ağçoğan
 ağçoğanlı  
 ağçoğanlıq  
 ağdaban  
@@ -785,14 +787,14 @@ ağdaş
 ağdaşlı  
 ağdaşsız  
 ağdərili  
-ağdiş ( zool. ) 
-ağəldərə ( bot.) 
-ağgilə ( bot.) 
+ağdiş
+ağəldərə
+ağgilə
 ağgiləli  
-ağgöbək ( bot.) 
+ağgöbək
 ağgödən  
 ağgöz  
-ağgözcük ( -lər) 
+ağgözcük
 ağgözlük  
 ağgün  
 ağgünlü  
@@ -814,12 +816,13 @@ ağıllandırılma
 ağıllandırılmaq  
 ağıllandırma   
 ağıllandırmaq  
-ağıllanma  ağıllanmaq  
+ağıllanma  
+ağıllanmaq  
 ağıllı  
-ağıllı -ağıllı  
-ağıllı -başlı  
+ağıllı-ağıllı  
+ağıllı-başlı  
 ağıllıca  
-ağıllı -kamallı  
+ağıllı-kamallı  
 ağıllılıq  
 ağılsız  
 ağılsızca  
@@ -855,8 +858,6 @@ ağırlaşdırılma
 ağırlaşdırılmaq  
 ağırlaşdırma  
 ağırlaşdırmaq       
- ağbağırlıq - ağırlaşdırmaq  
- 34 ağı ağı ağl 
 ağırlaşma  
 ağırlaşmaq  
 ağırlatma  
@@ -864,12 +865,12 @@ ağırlatmaq
 ağırlıq  
 ağırlıqqaldıran  
 ağırlıqqaldırma  
-ağırlı -yüngüllü  
+ağırlı-yüngüllü  
 ağırsanbal  
 ağırsanballı  
 ağır-səngin  
 ağır-sənginlik  
-ağırsönən  əhəng  
+ağırsönən  
 ağırtaxtalı  
 ağırtəbiət  
 ağırtəbiətli  
@@ -884,37 +885,38 @@ ağırzəhmli
 ağırzəhmətli  
 ağısız  
 ağız 
-ağızabaxan ( dan.) 
+ağızabaxan 
 ağız-ağız 
 ağız-ağıza  
 ağızbaağız  
 ağız-burun  
 ağızcıq  
-ağızdan, şifahi  
+ağızdan 
 ağızdolusu  
 ağıziçi  
 ağızlama  
 ağızlamaq  
 ağızlaşma  
 ağızlaşmaq  
-ağızlı  ağızlıq  
+ağızlı  
+ağızlıq  
 ağızotu  
 ağızsız  
 ağızsızlıq  
 ağızucu  
 ağızyummaz  
-ağkalmık ( -lar) 
-ağkirpik ( bot.) 
+ağkalmık 
+ağkirpik
 ağköynək  
 ağköynəkli  
 ağqanad  
 ağqanadlı  
 ağ-qara 
-ağqılçıq, düyü  
+ağqılçıq  
 ağ-qırmızı  
 ağqızıl  
 ağqovaq  
-ağqoyunlu ( -lar) 
+ağqoyunlu 
 ağquyruq  
 ağquyruqlu  
 ağlabatan  
@@ -935,12 +937,13 @@ ağlamsınma
 ağlamsınmaq  
 ağlar  
 ağlarcasına  
-ağlar -gülər  
+ağlar-gülər  
 ağlarot  
-ağlasığan  ağlasığışan  
+ağlasığan  
+ağlasığışan  
 ağlasığmaz  
 ağlasığmazlıq  
-ağlaşa -ağlaşa  
+ağlaşa-ağlaşa  
 ağlaşdırma  
 ağlaşdırmaq  
 ağlaşma  
@@ -950,12 +953,12 @@ ağlatdırmaq
 ağlatma  
 ağlatmaq  
 ağlauyar  
-ağlaya -ağlaya  
+ağlaya-ağlaya  
 ağlayan  
-ağlayıb -sıtqama  
-ağlayıb -sıtqamaq  
-ağlayıb -sızlama  
-ağlayıb -sızlamaq  
+ağlayıb-sıtqama  
+ağlayıb-sıtqamaq  
+ağlayıb-sızlama  
+ağlayıb-sızlamaq  
 ağlayıcı  
 ağlayış  
 ağlı-bozlu  
@@ -970,16 +973,14 @@ ağlı-qırmızılı
 ağlı-sarılı  
 ağlıyüngül  
 ağlıyüngüllük  
-ağmaq ( məh. ) 
+ağmaq 
 ağmala  
 ağmatan  
 ağmaya  
 ağnabat  
-ağnağaz ( məh. ) 
+ağnağaz 
 ağnağazlıq  
 ağnaq  
-ağırlaşma  - ağna q  
- 35 ağn ağs ağy 
 ağnama  
 ağnamaq  
 ağnaşma  
@@ -999,13 +1000,13 @@ ağrıkəsici
 ağrıkəsmə  
 ağrı-qada  
 ağrılı  
-ağrılı -acılı 
+ağrılı-acılı 
 ağrıma  
 ağrımaq  
 ağrısız  
 ağrısızlaşdırıcı  
 ağrısızlaşdırılma  
-ağrısızlaşdır ılmaq  
+ağrısızlaşdırılmaq  
 ağrısızlaşdırma  
 ağrısızlaşdırmaq  
 ağrısızlaşma  
@@ -1018,16 +1019,17 @@ ağrıvericilik
 ağsaç  
 ağsaçlı  
 ağsaqqal  
-ağsaqqal -qarasaqqal  
+ağsaqqal-qarasaqqal  
 ağsaqqallı  
-ağsaqqallıq  ağsifət  
+ağsaqqallıq  
+ağsifət  
 ağsifətli  
-ağsol ( zool. ) 
+ağsol 
 ağsöyüd  
-ağsunqur ( -lar) 
-ağşın, ağbəniz  
+ağsunqur
+ağşın
 ağtəhər  
-ağtərə (bot.) 
+ağtərə 
 ağtikan  
 ağtikanlı  
 ağtikanlıq  
@@ -1036,7 +1038,7 @@ ağtorpaqlı
 ağtük  
 ağtüklü  
 ağtüklülük  
-ağu, zəhər  
+ağu
 ağulama  
 ağulamaq  
 ağulanma  
@@ -1059,8 +1061,9 @@ ağyanız
 ağyanızlıq  
 ağyarpaq  
 ağyarpaqlı  
-ağyol (astr.) 
-ağyonca  ağyoncalıq  
+ağyol
+ağyonca  
+ağyoncalıq  
 ağyunlu  
 ağyunluq  
 ağzıaçıq  
@@ -1077,17 +1080,17 @@ ağzıbütövlük
 ağzıbütün  
 ağzıbütünlük  
 ağzıdağınıq  
-ağzıdağınıql ıq 
+ağzıdağınıqlıq 
 ağzıdolu  
 ağzıdualı  
 ağzıəyri  
 ağzıəyrilik  
-ağzıgen ( dan.) 
+ağzıgen 
 ağzıgöyçək  
 ağzıkəsərli  
 ağzıkəsərlilik  
 ağzıkəsərsiz  
-ağzıköpüklü ( dan.) 
+ağzıköpüklü
 ağzıqanlı  
 ağzıqara  
 ağzıpərtöv  
@@ -1100,9 +1103,7 @@ ağzıyarıq
 ağzıyastı  
 ağzıyava  
 ağzıyavalıq  
-ağzıyekə   
- ağna ma - ağzıyekə  
- 36 ağz ahı axı 
+ağzıyekə
 ağzıyekəlik  
 ağzıyelli  
 ağzıyellilik  
@@ -1121,7 +1122,7 @@ ahəngdarlaşdırmaq
 ahəngdarlaşma  
 ahəngdarlaşmaq  
 ahəngdarlıq  
-ahəngl əndirmə  
+ahəngləndirmə  
 ahəngləndirmək  
 ahənglənmə  
 ahənglənmək    
@@ -1134,7 +1135,7 @@ ahənglilik
 ahəngsiz  
 ahəngsizlik  
 ahəstə  
-ahəstə -ahəstə  
+ahəstə-ahəstə  
 ahəstəcə   
 ahəstəlik  
 ah-fəğan  
@@ -1143,7 +1144,8 @@ ahıl
 ahıllanma  
 ahıllanmaq  
 ahıllaşma  
-ahıllaşmaq   ahıllıq  
+ahıllaşmaq   
+ahıllıq  
 ah-nalə 
 ahu 
 ahubaxış  
@@ -1161,12 +1163,12 @@ axar
 axar-baxar  
 axar-baxarlı  
 axarlı  
-axarlı -baxarlı  
+axarlı-baxarlı  
 axarlıq  
 axarlılıq  
 axarsız  
 axarsızlıq  
-axay ( -lar) 
+axay
 axça 
 axçalı  
 axçasız  
@@ -1183,7 +1185,8 @@ axın-axın
 axınlı  
 axınölçən  
 axınsız  
-axıntı  axıntılı  
+axıntı  
+axıntılı  
 axır 
 axır-axır 
 axır-aqibət  
@@ -1214,7 +1217,7 @@ axirətsiz
 axirətsizlik  
 axma  
 axmaq  
-axmaq -axmaq  
+axmaq-axmaq  
 axmaqca  
 axmaqcasına  
 axmaqlama  
@@ -1224,24 +1227,22 @@ axmaqlaşmaq
 axmaqlıq  
 axmaz  
 axromatik    
-ağzıyekəlik - axromatik  
- 37 axr axt ail 
 axromatika  
-axromatin ( biol.) 
+axromatin
 axromatizm  
-axroniya ( dilç.) 
+axroniya
 axsaq  
 axsaqlıq  
-axsaqulaq ( kul.) 
+axsaqulaq
 axsama  
 axsamaq  
 axsar  
 axsarlıq  
 axsatma  
 axsatmaq  
-axsaya -axsaya  
+axsaya-axsaya  
 axşam  
-axşam -axşam  
+axşam-axşam  
 axşamayaxın  
 axşambazarı  
 axşamçağı  
@@ -1250,7 +1251,7 @@ axşamqabağı
 axşamlama  
 axşamlamaq  
 axşamlıq  
-axşam -sabah  
+axşam-sabah  
 axşam-səhər  
 axşamtərəfi  
 axşamüstü  
@@ -1266,15 +1267,16 @@ axtalatdırma
 axtalatdırmaq  
 axtalatma  
 axtalatmaq  
-axtalıq  axtara -axtara  
+axtalıq  
+axtara-axtara  
 axtarıcı  
 axtarıcılıq  
-axtarılan (riyaz. ) 
+axtarılan
 axtarılma  
 axtarılmaq  
 axtarış  
 axtarışçı  
-axtar ış-kəşfiyyat  
+axtarış-kəşfiyyat  
 axtarışlı  
 axtarışma  
 axtarışmaq  
@@ -1306,55 +1308,54 @@ ailəcanlılıq
 ailədaxili  
 ailədar  
 ailədarlıq  
-ailəli  ailəlik  
+ailəli  
+ailəlik  
 ailə-məişət  
 ailəpərəst  
 ailəpərəstlik  
 ailəsiz  
 ailəsizlik  
 ailəvi  
-ajio (iqt.) 
+ajio
 ajio-konto  
 ajiotaj  
-ajur (iqt.) 
+ajur
 akademik  
-akademik -katib  
+akademik-katib  
 akademiya  
 akademiyalararası  
 akademizm  
-akant (bot.) 
-akarisi d (-lər) 
+akant
+akarisid
 akasiya  
 akasiyalıq  
 akatafaziya  
 akın 
 akınlıq  
-akineziya (tib.) 
-akionim ( dilç.) 
+akineziya
+akionim
 akkad  
 akkomodasiya  
 akklimatlaşma  
 akklimatlaşmaq  
-akkompanement (mus.) 
+akkompanement 
 akkord  
 akkordeon  
 akkordeonçu  
 akkordeonçuluq  
 akkreditasiya  
 akkreditə  
-akkreditiv (iqt.) 
+akkreditiv 
 akkresiya  
-akku mulyasiya  
+akkumulyasiya  
 akkumulyator  
 akkuzativ  
- axromatik a - akkuzativ  
- 38 akl aks akt 
 aklimaks  
 akmeist  
 akmeizm  
-a-konto (iqt.) 
+a-konto
 akr 
-akridin ( kim.) 
+akridin
 akril 
 akrilon  
 akrobat  
@@ -1365,7 +1366,7 @@ akrofobiya
 akrofonetik  
 akronim  
 akrostik  
-akroteza (dilç.) 
+akroteza
 akrotiri 
 akselbant  
 akselerasiya  
@@ -1381,15 +1382,16 @@ aksentologiya
 aksentoloji  
 aksentoloq  
 aksentsiz  
-aksept ( iqt.) 
-akseptant ( hüq.) 
+aksept
+akseptant
 akseptor  
-aksessiya ( hüq.) 
+aksessiya
 aksesuar  
 aksidensiya  
-aksiolog iya 
+aksiologiya 
 aksiologizm  
-aksioloji   aksiom  
+aksioloji   
+aksiom  
 aksiomatik  
 aksiomatika  
 aksiometr  
@@ -1403,14 +1405,14 @@ aksonometrik
 aksonometriya  
 akt 
 aktant  
-aktinium ( kim.) 
+aktinium
 aktinometr  
 aktinometrik  
 aktinometriya  
 aktiv  
 aktivasiya  
 aktivator  
-aktiv ləşdirici  
+aktivləşdirici  
 aktivləşdirilmə  
 aktivləşdirilmək  
 aktivləşdirmə  
@@ -1424,12 +1426,13 @@ aktlaşdırma
 aktlaşdırmaq  
 aktrisa  
 aktrisalıq  
-aktrisa -müğənni 
+aktrisa-müğənni 
 aktual  
-aktualizator (dilç.) 
+aktualizator
 aktualizm  
 aktuallaşdırma  
-aktuallaşd ırmaq  aktuallaşma  
+aktuallaşdırmaq  
+aktuallaşma  
 aktuallaşmaq  
 aktuallıq  
 aktuar  
@@ -1439,8 +1442,8 @@ aktuator
 aktyor  
 aktyorcasına  
 aktyorluq  
-aktyor -müğənni  
-aktyor -rejissor  
+aktyor-müğənni  
+aktyor-rejissor  
 aktyorsayağı  
 akula  
 akustik  
@@ -1453,7 +1456,7 @@ akvabildinq
 akvakultura  
 akvalanq  
 akvalanqçı  
-akvama rin (miner. ) 
+akvamarin
 akvametr  
 akvametriya  
 akvamədəniyyət  
@@ -1470,15 +1473,13 @@ akvatel
 akvatoriya  
 akveduk  
 akvizisiya    
-aklimaks - akvizisiya   
- 39 akv aqr aqr 
 akvizitor  
-aqama ( -lar) ( bot.) 
+aqama
 aqamiya  
 aqat 
 aqatis  
 aqav dili 
-aqava  (bot.) 
+aqava 
 aqibət  
 aqibətli  
 aqibətsiz  
@@ -1491,32 +1492,33 @@ aqlay
 aqlikon  
 aqlomerasiya  
 aqlomerat  
-aqlomerat çı 
+aqlomeratçı 
 aqloporit  
-aqlütinasiya (dilç.) 
+aqlütinasiya
 aqlütinativ  
-aqlütinativ -flektiv  
+aqlütinativ-flektiv  
 aqnostik  
 aqnostiklik  
-aqnosti sizm ( fəls.) 
-aqnostogen, süхur 
-aqnoziya (tib.) 
+aqnostisizm
+aqnostogen
+aqnoziya
 aqogika  
 aqorafobiya  
 aqrafiya  
 aqrammatik  
 aqrammatizm  
-aqranulosit ( -lər) 
+aqranulosit
 aqranulositoz  
 aqrar  
-aqrar -əmək  
-aqrar -xammal  
-aqrar -iqtisadi  
-aqrar -islahat  aqrar -istehsal  
-aqrar -kənd  
-aqrar -sənaye  
-aqrar -sığorta  
-aqrar -texnik i 
+aqrar-əmək  
+aqrar-xammal  
+aqrar-iqtisadi  
+aqrar-islahat  
+aqrar-istehsal  
+aqrar-kənd  
+aqrar-sənaye  
+aqrar-sığorta  
+aqrar-texniki 
 aqravasiya  
 aqreqasiya  
 aqreqat  
