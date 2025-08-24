@@ -1,8 +1,8 @@
 # Azerbaijani Word List
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/abdanar/azerbaijani-word)
-![GitHub issues](https://img.shields.io/github/issues/abdanar/azerbaijani-word)
-![License](https://img.shields.io/github/license/abdanar/azerbaijani-word)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/abdanar/azerbaijani-words)
+![GitHub issues](https://img.shields.io/github/issues/abdanar/azerbaijani-words)
+![License](https://img.shields.io/github/license/abdanar/azerbaijani-words)
 
 A comprehensive collection of Azerbaijani words in plain text format, designed as a foundational resource for **hyphenation, natural language processing (NLP), spell checking, and computational linguistics research**.
 
