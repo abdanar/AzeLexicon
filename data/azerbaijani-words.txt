@@ -1554,7 +1554,8 @@ aqrofiziki
 aqrofobiya  
 aqrofon  
 aqrofurol  
-aqroiqlim  aqroiqlimşünas  
+aqroiqlim  
+aqroiqlimşünas  
 aqroiqlimşünaslıq  
 aqro-innovativ  
 aqrokabinet  
@@ -1582,21 +1583,19 @@ aqromüxtəliflik
 aqronəzarət  
 aqronim  
 aqronom  
-aqronom -entomoloq  
-aqronom -gülçü  
+aqronom-entomoloq  
+aqronom-gülçü  
 aqronomik  
 aqronomiya  
 aqronomluq  
-aqronom -mexanizator  
-aqronom -meliorator  
-aqronom -tərəvəzçi  
-aqronom -toxumçu  
-aqronom -üzümçü  
+aqronom-mexanizator  
+aqronom-meliorator  
+aqronom-tərəvəzçi  
+aqronom-toxumçu  
+aqronom-üzümçü  
 aqropark  
 aqrorayon  
 aqrosahə    
- akvizitor  - aqrosahə  
- 40 aqr ala ala 
 aqrosenoz  
 aqrosənaye  
 aqroşəhər  
@@ -1614,32 +1613,33 @@ ala
 ala-ağ 
 ala-ala 
 ala-babat  
-alabaxta ( zool. ) 
+alabaxta 
 alabalıq  
 alabaş  
 alabaşlı  
-alabaydaq, rüsvayçı  (məh.) 
+alabaydaq
 ala-bəzək  
 ala-bəzəkli  
 ala-bəzəklik  
-alabəzgək ( zool. ) 
-alabıtraq, bitki 
+alabəzgək
+alabıtraq
 alabıtraqlıq  
 ala-bişmiş  
 alaboyun  
 ala-boz 
-alabuğa ( zool. ) 
+alabuğa
 ala-bula 
 ala-bulalıq  
 ala-bulanıq  
-alaca ( zool. ) 
-alacadamaq ( zool. )  
+alaca
+alacadamaq
 alacadimdik  
 alacagülü  
 alacaq  
-alacaqanad  alacaqlı  
-alacaqlı -verəcəkli  
-alaca q-verəcək  
+alacaqanad  
+alacaqlı  
+alacaqlı-verəcəkli  
+alacaq-verəcək 
 alacalandırma  
 alacalandırmaq  
 alacalanma  
@@ -1657,12 +1657,12 @@ ala-çiylik
 aladağ  
 ala-dəymiş  
 aladodaq  
-alaf, heyvan yemi  
-alafa, baş örtüyü  
+alaf
+alafa
 alaflama  
 alaflamaq  
 alaflanma  
-alaflanma q 
+alaflanmaq 
 alafsız  
 alafsızlıq  
 alagöz  
@@ -1677,11 +1677,12 @@ alakeş
 ala-key 
 ala-keylik  
 ala-kölgə  
-ala-kölgəlik  ala-könül  
-alakülük (zool. ) 
-alakülüng,  bitki 
+ala-kölgəlik  
+ala-könül  
+alakülük
+alakülüng
 alaq 
-alaqanad (zool. ) 
+alaqanad
 alaqanqal  
 alaqanqallı  
 alaqanqallıq  
@@ -1714,26 +1715,24 @@ alalanma
 alalanmaq  
 alalı 
 alalıq 
-alaliya (tib.) 
-alan ( -lar) 
-alana, qozlu meyvə qurusu  
+alaliya
+alan 
+alana
 ala-nəm  
-aqrosenoz  - ala-nəm  
- 41 ala alb alç 
 ala-nəmlik  
 alanin  
 alapaça  
-alapars ( zool. ) 
+alapars
 alapələng  
-alapələngi, rəng 
-alapısraq  (bot.) 
+alapələngi
+alapısraq
 ala-pörtü  
 alar-almaz  
 alarmizm  
 ala-seyrək  
 alaşa  
-alaşıq -dolaşı q 
-a-laşma  (dilç.) 
+alaşıq-dolaşıq 
+a-laşma 
 ala-tala 
 ala-toran  
 ala-toranlıq  
@@ -1745,7 +1744,7 @@ ala-yarımçıqlıq
 ala-yetişmiş  
 alayonca  
 alayoncalıq  
-alaz ( məh. ) 
+alaz
 alazlama  
 alazlamaq  
 alazlanma  
@@ -1753,16 +1752,17 @@ alazlanmaq
 albalı  
 albalılı  
 albalılıq  
-alban ( -lar) 
+alban
 albanca  
-albatros (zool. ) 
+albatros
 albedo  
-albinizm (biol.) 
-albinos (biol.) 
+albinizm
+albinos
 albom  
-albom -kataloq  albom -kitab  
-albom -monoqrafiya  
-albom -plakat  
+albom-kataloq  
+albom-kitab  
+albom-monoqrafiya  
+albom-plakat  
 albuxara  
 albumin  
 alca 
@@ -1798,10 +1798,11 @@ alçaqtezlikli
 alçaqtəbiətli  
 alçaqtəpəli  
 alçaqtəpəlik  
-alçaqtəzy iq 
+alçaqtəzyiq 
 alçaqtəzyiqli  
-alçaqvolt  alçaqvoltlu  
-alçalan ( dilç.) 
+alçaqvolt
+alçaqvoltlu  
+alçalan
 alçaldıcı  
 alçaldılma  
 alçaldılmaq  
@@ -1836,13 +1837,11 @@ aldanma
 aldanmaq  
 aldatma  
 aldatmaq  
-aldehid ( -lər) 
+aldehid
 aldı-qaçdı  
 aldırılma  
 aldırılmaq  
-aldırma   
-ala-nəmlik  - aldırma  
- 42 ald alı alı 
+aldırma
 aldırmaq  
 aldırtma  
 aldırtmaq  
@@ -1856,14 +1855,14 @@ alebastrlanma
 alebastrlanmaq  
 alebastrlı  
 alebastrsız  
-aleksandrit  (miner. ) 
+aleksandrit
 aleksiya  
-aleut ( -lar) 
+aleut
 aleutca  
 al-əlvan  
 al-əlvanlıq  
 aləm  
-aləm -aşkar  
+aləm-aşkar  
 alət 
 alətçi  
 alətçilik  
@@ -1873,24 +1872,25 @@ alfametr
 alfa-radiometr  
 alfa-spektr  
 alfa-spektrometr  
-alfa-şüa ( -lar) 
+alfa-şüa
 alfa-terapiya  
 alfa-zərrəcik  
 alfons  
 alfonsluq  
 alfresko  
 algezimetr  
-algisid ( -lər) 
+algisid
 alhaal  
 al-hiylə  
-alıb-qaytarma  alıb-qaytarmaq  
+alıb-qaytarma  
+alıb-qaytarmaq  
 alıb-satma  
 alıb-satmaq  
 alıb-vermə  
 alıb-vermək  
 alıcı 
 alıcılıq 
-alıq, çul 
+alıq
 alıq-alıq 
 alıqlama  
 alıqlamaq  
@@ -1904,8 +1904,8 @@ alım-verim
 alın 
 alınaltı  
 alın-gicgah  
-alınıb -satılma  
-alınıb -satılmaq  
+alınıb-satılma  
+alınıb-satılmaq  
 alınlı  
 alınlıq  
 alınma  
@@ -1921,11 +1921,12 @@ alışdırılma
 alışdırılmaq  
 alışdırma  
 alışdırmaq  
-alışıb -odlanma  
-alışıb -odlanmaq  
-alışıb -verişmə  alışıb -verişmək  
-alışıb -yanma  
-alışıb -yanmaq  
+alışıb-odlanma  
+alışıb-odlanmaq  
+alışıb-verişmə 
+alışıb-verişmək  
+alışıb-yanma  
+alışıb-yanmaq 
 alışıq  
 alışqan  
 alışqanlıq  
@@ -1939,17 +1940,17 @@ alış-verişçi
 alış-verişli  
 alış-verişsiz  
 ali 
-alibi (hüq.) 
+alibi
 alicənab  
 alicənabcasına  
-alicənablıq  
+alicənablıq
 alilik  
 alim 
 alimanə  
 alimcəsinə  
 aliment  
-alimentar ( tib.) 
-alimentasiya (hüq.) 
+alimentar
+alimentasiya 
 alimentçi  
 aliməkan  
 aliməqam  
@@ -1959,13 +1960,11 @@ alim-geoloq
 alimlik  
 alinəsəb  
 alinəsəblik  
-alizarin, süni boya  
-alkal d 
-alkalimetriya ( kim.) 
-alkaloid ( -lər) ( kim.) 
-alkan (bot.)   
-aldırmaq  - alkan   
- 43 alk all all 
+alizarin
+alkald 
+alkalimetriya
+alkaloid
+alkan
 alkoqol  
 alkoqolçu  
 alkoqolik  
@@ -1974,39 +1973,40 @@ alkoqollu
 alkoqolsuz  
 al-qan 
 alqı 
-alqılı -satqılı  
+alqılı-satqılı  
 al-qırmızı  
 alqı-satqı  
 alqı-satqılı  
 alqı-satqısız  
 alqış  
-alqış -qarğış 
+alqış-qarğış 
 alqışlama  
 alqışlamaq  
 alqışlanma  
 alqışlanmaq  
 alqışlatma  
 alqışlatmaq  
-alqonkin, qəbilə  
-alqoritm (riyaz. ) 
+alqonkin
+alqoritm 
 alqoritmik  
 alqoritmləşdirmə  
 alqoritmləşdirmək  
 Allah  
 allahlıq  
-allahpayı, sədəqə  
+allahpayı
 allahpərəst  
 allahpərəstlik  
 allahsevər  
 allahsevərlik  
 allahsız  
-allahsızcas ına 
+allahsızcasına 
 allahsızlıq  
-Allah -taala  
+Allah-taala  
 allahtərəfi  
 allahverən  
-allanma, bəzənmə  
-allanmaq   allantois ( tib.) 
+allanma 
+allanmaq   
+allantois
 allaşdırılma  
 allaşdırılmaq  
 allaşdırma  
@@ -2016,8 +2016,8 @@ allaşmaq
 alleqorik  
 alleqoriya  
 alleqorizm  
-alleqretto (mus.) 
-alleqro (mus.) 
+alleqretto 
+alleqro
 allergen  
 allergik  
 allergiya  
@@ -2036,7 +2036,7 @@ allı-şallı
 alliterasiya  
 alloantigen  
 alloantigenli  
-alloemik ( dilç.)  
+alloemik 
 alloemiya  
 alloetnonim  
 allofon  
@@ -2044,39 +2044,40 @@ allofonik
 allofraza  
 allogenotip  
 alloxton  
-alloqraf (dilç.) 
-alloleks (dilç.) 
-allologiya  alloloq (dilç.)  
-allomorf (dilç.) 
+alloqraf
+alloleks
+allologiya  
+alloloq 
+allomorf 
 allomorflu  
 allonim  
 allopat  
 allopatik  
 allopatiya  
 allopatrik  
-allosem (dilç.) 
-allotrop ( geol. ) 
+allosem 
+allotrop 
 allotropik  
-allotropiya ( kim.) 
+allotropiya 
 allotrof  
-allüvial ( coğr. ) 
-allüziya ( ədəb. ) 
+allüvial 
+allüziya
 alma  
-alma -armud  
-alma -armudluq  
+alma-armud  
+alma-armudluq  
 almacıq  
-almacıq -alın 
+almacıq-alın 
 almacıqaltı  
-almacıq -əng 
-almacıq -gicgah  
-almacıq -üz 
+almacıq-əng 
+almacıq-gicgah  
+almacıq-üz 
 almaçiçəyi  
 almagüvəsi  
 almaq  
 almaqurdu  
 almalı  
 almalıq  
-alman ( -lar) 
+alman
 almanax  
 almanca  
 almandilli  
@@ -2086,9 +2087,7 @@ almanpərəst
 almanpərəstlik  
 almayanaq  
 almayanaqlı  
-almaz   
- alkoqol  - almaz  
- 44 alm alt alt 
+almaz
 almazabənzər  
 almazlı  
 al-narıncı  
@@ -2115,11 +2114,11 @@ alovlu
 alovluluq  
 alovsaçan  
 alovsuz  
-alp, igid 
+alp
 alpaqa  
-alpaut ( -lar) 
+alpaut
 alpenştok  
-alpinari ( bot.) 
+alpinari
 alpinist  
 alpinistlik  
 alpinizm  
@@ -2129,24 +2128,25 @@ alsız
 alsız-hiyləsiz  
 al-şal 
 alt 
-altağız (zool.) altaist  
+altağız
+altaist  
 alt-alta 
 altar 
-altaylı ( -lar) 
+altaylı
 altayşünas  
-altayşü naslıq  
+altayşünaslıq  
 altbölmə  
 altdakı  
-altdan -altdan  
-altdan -üstdən  
-altdan -yuxarı  
-alterasiya (mus.) 
+altdan-altdan  
+altdan-üstdən  
+altdan-yuxarı  
+alterasiya
 alternasiya  
-alternat (hüq.) 
+alternat
 alternativ  
 alternativli  
 alternativsiz  
-alternator ( tex.) 
+alternator
 altı 
 altıaçıq  
 altıaçılan  
@@ -2154,7 +2154,7 @@ altıadamlıq
 altı-altı 
 altıavarlı  
 altıayaq  
-altıayaqlı ( -lar) (zool.) 
+altıayaqlı
 altıaylıq  
 altıbarmaq  
 altıbarmaqlı  
@@ -2169,14 +2169,15 @@ altıcildli
 altıcildlik  
 altıçıxışlı  
 altıdüymə  
-altıgirişli  altıgünlük  
+altıgirişli  
+altıgünlük  
 altıhəftəlik  
 altıillik  
 altıkorpuslu  
 altıkünc  
 altıkünclü  
 altıqanad  
-altıqanad lı 
+altıqanadlı 
 altıqat  
 altıqatlı  
 altıləçəkli  
@@ -2185,8 +2186,8 @@ altılüləli
 altımanatlıq  
 altımərtəbə  
 altımərtəbəli  
-altımisralı  
-altıncı, 6 -cı, VI  
+altımisralı
+altıncı
 altınəfərlik  
 altıpərli  
 altırəqəmli  
@@ -2198,7 +2199,7 @@ altıtarlalı
 altıtarlalıq  
 altıtərəfli  
 altıüzlü  
-altıva lentli  
+altıvalentli  
 altızolaqlı  
 altimetr  
 altqovluq  
@@ -2208,14 +2209,12 @@ altlıqlı
 altlıqsız  
 altmış  
 altmışca  
-altmışıncı, 60 -cı, LX  
+altmışıncı
 altmışillik  
-almazabənzər  - altmışillik   
- 45 alt ama amf 
 altmışlıq   
 altmışyaşlı  
 alto 
-altproqram (inform. ) 
+altproqram
 altruist  
 altruistlik  
 altruizm  
@@ -2239,8 +2238,8 @@ alüminiumçu
 alüminiumlu  
 alüminiumsuz  
 alümoplast  
-alveol ( -lar) 
-alveollu -borulu  
+alveol
+alveollu-borulu  
 alveolar  
 alver  
 alverçi  
@@ -2252,25 +2251,26 @@ alyans
 al-yaşıl  
 amac  
 amal  
-amalqama  amalqamasiya  
+amalqama  
+amalqamasiya  
 amallı  
 amalsız  
 aman  
 amanabənd  
 amanabəndlik  
-aman -aman  
+aman-aman  
 amansız  
 amansızca  
 amansızcasına  
 amansızlıq  
 amansızlıqla  
-aman -zaman  
-amarant ( bot.) 
-amazon ( -lar) 
+aman-zaman  
+amarant
+amazon
 amazonka  
 ambalaj  
 ambisiya  
-ambisiya lı 
+ambisiyalı 
 ambisiyalılıq  
 ambisiyasız  
 ambisiyasızlıq  
@@ -2280,67 +2280,66 @@ ambivalentlik
 ambulans  
 ambulator  
 ambulatoriya  
-ambulator -poliklinika  
+ambulator-poliklinika  
 amenoreya  
 amensalizm  
 amensiya  
-amerikalı ( -lar) 
-amerikan ( -lar) 
+amerikalı
+amerikan
 amerikanizm  
 amerikansayağı  
 amerikapərəst  
 amerikapərəstlik  
 amerikasayağı  
-ametist (miner. ) 
-ametropiya  amfiarktik  
+ametist
+ametropiya  
+amfiarktik  
 amfiatlantik  
 amfibiya  
 amfiblastula  
-amfibol ( -lar) (miner. ) 
-amfibol -asbest  
-amfidiploid ( -lər) ( bot.) 
+amfibol
+amfibol-asbest  
+amfidiploid
 amfisenoz  
 amfiteatr  
-amfiteza (dilç.) 
-amfium ( -lar) 
+amfiteza 
+amfium
 amfoter  
 amfoterlik  
-amhar ( -lar) 
+amhar
 amharca  
-amid ( -lər) 
+amid
 amidobenzol  
-amidaz ( -lar) 
+amidaz
 amil 
 amilasetat  
 amilbenzol  
 amilnitrat  
 amilnitrit  
-amilofil ( -lər), bitki  
-amiloidoz ( tib.) 
+amilofil
+amiloidoz
 amilopektin  
 amilaz  
 amimiya  
 amin  
-amin ( -lər) 
-aminazin  
-aminspirt ( -lər) 
-aminşəkər ( -lər) 
-aminturşu ( -lar) 
+amin
+aminazin
+aminspirt
+aminşəkər
+aminturşu
 amir 
 amiranə  
 amiranəlik  
 amirlik  
 amital  
-amitoz (biol.) 
-amma  
- altmışlıq  - amma   
- 46 amm ana ana 
-ammofos, gübrə  
+amitoz
+amma
+ammofos
 ammonal  
 ammonit  
-ammonium ( kim.) 
+ammonium
 ammonyak  
-amneziya  (tib.) 
+amneziya
 amnistiya  
 amoral  
 amoralizm  
@@ -2352,30 +2351,31 @@ amortizasiya
 amortizasiyalı  
 amortizator  
 amöb  
-ampel ( -lər), bitki 
+ampel
 ampeloqrafiya  
 ampelometriya  
-amper ( fiz.) 
+amper
 amperaj  
 amperlik  
 ampermetr  
-amper -saat 
-amper -saniyə  
-amper -sarğı  
-amper -tərəzi  
-ampir (memar. ) 
+amper-saat 
+amper-saniyə  
+amper-sarğı  
+amper-tərəzi  
+ampir
 amplidin  
 amplifikasiya  
-amplitud (fiz.) 
-amplitud -tezlik  
-amplua ( inc.) 
+amplitud
+amplitud-tezlik  
+amplua
 ampul  
-amputasiya (tib.) 
-amredita ( dilç.) 
+amputasiya
+amredita
 amulet  
 an 
 ana 
-ana-ata  anaayrı  
+ana-ata  
+anaayrı
 ana-bacı 
 ana-bala 
 anabaptist  
@@ -2383,8 +2383,8 @@ anabaptistlik
 anabaptizm  
 anabazin  
 anabir  
-anabioz (biol.) 
-anabolizm ( tib.) 
+anabioz
+anabolizm
 anac 
 anacan  
 anaclanma  
@@ -2395,28 +2395,29 @@ anaclıq
 anadanbir  
 anadangəlmə  
 anadanögey  
-anadil (zool. ) 
-anadiplosis (dilç.) 
-anaerob ( -lar) 
-anafaza (bot.) 
+anadil
+anadiplosis
+anaerob
+anafaza
 anafema  
-anafora (ədəb. ) 
+anafora
 anaxronik  
 anaxronizm  
 anaxtar  
-anakonda (zool.) 
+anakonda
 ana-qız 
-anaqram ( dilç.) 
+anaqram
 analaşma  
 analaşmaq  
-analgin ( əcz.) 
+analgin
 analı  
-analı -atalı 
-analı -balalı  
+analı-atalı 
+analı-balalı  
 analıq  
 analitik  
-analitika   analitik -sintetik  
-analitik -statistik  
+analitika   
+analitik-sintetik  
+analitik-statistik  
 analitizm  
 analiz  
 analizator  
@@ -2424,11 +2425,11 @@ analizçi
 analogiya  
 analoji  
 analoq  
-analoq -kod 
-analoq -rəqəm  
+analoq-kod 
+analoq-rəqəm  
 anamnestik  
 anamnez  
-anamorf ( biol.) 
+anamorf
 anamorfizm  
 anamorflaşdırma  
 anamorflaşdırmaq  
@@ -2439,7 +2440,7 @@ ana-nənə
 ana-oğul 
 ana-övlad  
 anaplazmoz  
-anaptiksis (dilç.) 
+anaptiksis
 anarxist  
 anarxistlik  
 anarxiya  
@@ -2447,20 +2448,18 @@ anarxizm
 anartriya  
 anasız  
 anasızlıq  
-anaspid ( -lər) 
-anastiqmat (fiz.) 
+anaspid
+anastiqmat
 anastiqmatik  
-anastomoz (bot.) 
+anastomoz
 anastrofa  
 anaşa  
 anaşaçı  
 anatoksik   
-anatoksin   
-ammofos  - anatoksin   
- 47 ana and ani 
+anatoksin
 anatom  
 anatomik  
-anatomik -morfoloji  
+anatomik-morfoloji  
 anatomiya  
 anatomiyaçı  
 anatosizm  
@@ -2476,21 +2475,21 @@ anbarlamaq
 anbarlanma  
 anbarlanmaq  
 ancaq  
-ancaq -ancaq  
-ançar ( bot.) 
+ancaq-ancaq  
+ançar
 ançous  
-ançouskimi ( -lər) (zool.) 
+ançouskimi
 and 
 and-aman  
-andante (mus.) 
+andante
 andçı  
-andezin ( geol. ) 
+andezin
 andezit  
 andır 
 andırma  
 andırmaq  
 andız  
-andızçiçəkli ( -lər) 
+andızçiçəkli
 andızlıq  
 andiçmə  
 and-qəsəm  
@@ -2498,11 +2497,12 @@ andlı
 andradit  
 andraqogika  
 androgen  
-androgenetik  androgenez  
+androgenetik
+androgenez  
 android  
-andrologiya (tib.) 
+andrologiya
 androloq  
-andronim ( dilç.) 
+andronim
 androspora  
 anemiya  
 anemofiliya  
@@ -2510,8 +2510,8 @@ anemoxoriya
 anemometr  
 anemometriya  
 anemometrlik  
-anemon (biol.) 
-anemonim ( dilç.) 
+anemon
+anemonim
 anergiya  
 aneroid  
 anestezin  
@@ -2520,7 +2520,7 @@ anestezioloq
 anesteziya  
 anevrizm  
 anfas  
-anfelsiya ( bot.) 
+anfelsiya
 anfilada  
 angina  
 anginol  
@@ -2531,15 +2531,16 @@ angioloq
 angioloql uq 
 angioma  
 angionevroz  
-angioresepto r (-lar) 
+angioreseptor
 anharmonik  
 anharmoniya  
-anhidrid (kim.) 
-anhidrit (miner. ) 
+anhidrid
+anhidrit
 anılma  
 anılmaq  
-anım  ani 
-anilid ( -lər) 
+anım  
+ani 
+anilid
 anilik  
 anilin  
 animalist  
@@ -2547,29 +2548,29 @@ animasiya
 animist  
 animizm  
 anion  
-anis ( bot.) 
-anizofilliya (biol.) 
-anizotrop  (fiz.)  
+anis
+anizofilliya
+anizotrop
 anker  
 ankerit  
 anket  
-anket -sorğu  
-ankilostomid ( -lər) 
+anket-sorğu  
+ankilostomid
 ankilostomidoz  
-ankiloz ( tib.) 
+ankiloz
 anklav  
 anqar  
-anqıra -anqıra  
+anqıra-anqıra  
 anqırma  
 anqırmaq  
 anqırtı  
 anqırtma  
 anqırtmaq  
-anqlezit (miner. ) 
+anqlezit
 anqlisizm  
-anqloloq ( -lar) 
+anqloloq
 anqlomaniya  
-anqlosakson ( -lar) 
+anqlosakson
 anqut  
 anqutboğaz  
 anladılma  
@@ -2578,14 +2579,12 @@ anladılmaz
 anlaq  
 anlaqlı  
 anlaqlıq  
-anlaqsız  
-  anatom - anlaqsız    
- 48 anl ano ant 
+anlaqsız
 anlaqsızlıq  
 anlam  
 anlama  
 anlamaq  
-anlamaya -anlamaya  
+anlamaya-anlamaya  
 anlamaz  
 anlamazlıq  
 anlanma  
@@ -2602,7 +2601,7 @@ anlaşmaz
 anlaşmazlıq  
 anlatma  
 anlatmaq  
-anlaya -anlaya  
+anlaya-anlaya  
 anlayış  
 anlayışlı  
 anlayışsız  
@@ -2610,18 +2609,19 @@ anlıq
 anma  
 anmaq  
 anneksiya  
-annominasiya (dilç.) 
+annominasiya
 annotasiya  
 annotasiyalı  
 annotasiyasız  
-annuitet (iqt.) 
+annuitet
 annuminas  
 anod   
-anod -ekran  
+anod-ekran  
 anodlu  
 anodsuz  
 anofeles  
-anomal   anomaliya  
+anomal   
+anomaliya  
 anomiya  
 anonim  
 anonimlik  
@@ -2630,24 +2630,24 @@ anonslu
 anonssuz  
 anormal  
 anormallıq  
-anortit (miner. ) 
-anosmiya (tib.) 
-anrı ( məh. ) 
+anortit
+anosmiya
+anrı
 ansambl  
 ansambllıq  
 ansız  
 ansızın  
 ansızlıq  
 anşlaq  
-ant (-lar) 
-antablement  (memar. ) 
-antaqonist ( -lər) 
+ant
+antablement
+antaqonist
 antaqonizm  
 antarktik  
-antekliz ( geol. ) 
+antekliz
 antekologiya  
 anten  
-antenari ( -lər) 
+antenari
 antenli  
 antensiz  
 antialkoqol  
@@ -2655,31 +2655,32 @@ anti-Amerika
 antiasketizm  
 anti-Azərbaycan  
 antibakterial  
-antibarion ( -lar) 
+antibarion
 antibiotik  
 antibolşevik  
 antiböhran  
-anticisim ( -lər) 
-anticisimcik ( -lər) 
-antidarvinizm   antidemokratik  
+anticisim
+anticisimcik
+antidarvinizm   
+antidemokratik  
 antidemokratizm  
-antidempinq (iqt.) 
+antidempinq
 antidepressant  
 antidetonasiya  
 antidetonator  
 antidialektik  
 antidin  
 antidopinq  
-antidot (tib.) 
+antidot
 antifaşist  
 antifaşizm  
-antiferment ( -lər) 
+antiferment
 antifon  
 antifrankoçu  
-antifrazis (dilç.) 
+antifrazis
 antifriksiya  
 antifriz  
-antigen ( -lər) 
+antigen
 antihəqiqət  
 antihidrat  
 anti-Hitler  
@@ -2696,16 +2697,14 @@ antik
 antikariyes  
 antiklerikal  
 antiklerikalizm  
-antiklimaks (dilç.) 
+antiklimaks 
 antikommunist  
 antikommunizm  
 antikonstitusion   
 antikorroziya  
 antikorrupsiya  
-anlaqsızlıq  - antikorrupsiya   
- 49 ant ant ant 
 antikvar  
-antiqlobalizm (mal.) 
+antiqlobalizm
 antiloqarifm  
 antilop  
 antimaqnit  
@@ -2713,7 +2712,7 @@ antimarksist
 antimarksizm  
 antimaterialist  
 antimaterializm  
-antimetabola (dilç.) 
+antimetabola
 antimif  
 antimilitarist  
 antimilitarizm  
@@ -2721,21 +2720,21 @@ antimilli
 antimistik  
 antimonarxiya  
 antimonit  
-antimutagen ( -lər) 
+antimutagen
 antimüxalifət  
 antimütləqiyyət  
-antinekrot ik 
+antinekrotik 
 antineytron  
-antinomiya (hüq.) 
+antinomiya
 antioksid  
 antioksidant  
 antioksidləşdirici  
 antipartiya  
-antipassat ( -lar) 
+antipassat
 antipatiya  
 antiperistaltika  
-antipiren ( -lər) 
-antipiretik ( -lər) 
+antipiren 
+antipiretik 
 antiplagiat  
 antipod  
 antiproletar  
@@ -2744,7 +2743,8 @@ antipsixiatriya
 antiraket  
 antirealist  
 antirealizm  
-antiregionçuluq  antireklam  
+antiregionçuluq  
+antireklam  
 antirevmatik  
 anti-Rusiya  
 antisanitar  
@@ -2776,15 +2776,16 @@ antizərrəcik
 antologiya  
 antoloji  
 antonim  
-antonimika ( dilç.) 
+antonimika
 antonimiya  
 antonomaziya  
-antosian ( -lar) 
+antosian
 antraxinon  
 antraknoz  
 antrakt  
 antrasen  
-antreprenyor   antre priz 
+antreprenyor   
+antrepriz 
 antresol  
 antresollu  
 antresolsuz  
@@ -2792,20 +2793,20 @@ antrobiosenoz
 antropik  
 antropodinamik  
 antropofagiya  
-antropofonik (dilç.) 
+antropofonik
 antropofonika  
 antropogen  
 antropogenetik  
 antropogenetika  
 antropogenez  
-antropoid ( -lər) 
+antropoid
 antropologiya  
 antropoloji  
 antropoloq  
 antropometr   
-antropomet rik 
+antropometrik 
 antropometriya  
-antropomorf ad (dilç.) 
+antropomorf ad
 antropomorfik  
 antropomorfizm  
 antropomorfologiya  
@@ -2813,34 +2814,32 @@ antropomorfoloji
 antroponim  
 antroponimika  
 antroponimiya  
-antroponoz ( -lar) 
+antroponoz
 antroposenologiya  
 antroposentrik  
 antroposentrist  
 antroposentrizm  
 antroposofiya  
-antropososiol ogiya  
+antropososiologiya  
 antropososioloji  
 antropososioloq  
 antropotexnika  
-antropotoponim (dilç.) 
-anturaj   
- antikvar  - anturaj  
- 50 anu ape apo 
+antropotoponim
+anturaj
 anuriya  
 anus 
 anus-büzdüm  
 anusətrafı  
 anusvari  
-anyi ( -lər) 
+anyi
 anzerin  
-aorist (dilç.) 
+aorist
 aorta  
 aortit  
 apaçıq  
-apaçi ( -lər) 
+apaçi
 apağ  
-apara -apara 
+apara-apara 
 aparat  
 aparatçı  
 aparatçılıq  
@@ -2848,15 +2847,15 @@ aparatqayırma
 aparatlı  
 aparatsız  
 apar-gətir 
-aparıb -gətirmə  
-aparıb -gətirmək  
+aparıb-gətirmə  
+aparıb-gətirmək  
 aparıcı  
 aparıcılıq  
 aparılma  
 aparılmaq  
 aparma  
 aparmaq  
-apart -hotel  
+apart-hotel  
 apartament  
 apartdırılma  
 apartdırılmaq  
@@ -2864,24 +2863,25 @@ apartdırma
 apartdırmaq  
 aparteid  
 apaşkar  
-apatit  (miner. ) 
+apatit
 apatiya  
-apatrid ( -lər) 
-apaydın  apeks (astr.) 
+apatrid
+apaydın  
+apeks
 apeliant  
 apellyasiya  
-apelyativ (dilç.) 
+apelyativ
 apelyativləşmə  
 apelyativləşmək  
 apendiks  
-apendisit (tib.) 
+apendisit
 aperiodik  
 apersepsiya  
 apertur  
 apeyron  
 apikal  
 apinevroz  
-apiterapiya (tib.) 
+apiterapiya
 apitoksik  
 aplanat  
 aplaziya  
@@ -2890,46 +2890,47 @@ aplikasiya
 aplikator  
 aplit 
 apoastr  
-apodid ( -lər) 
+apodid
 apofem  
 apofeoz  
 apoferment  
 apofiz  
 apogey  
 apokalipsis  
-apokopa (dilç.) 
+apokopa
 apokrif  
-apolid  (-lər) (hüq.) 
+apolid
 apolitik  
 apologiya  
 apomiksis  
 apomorfin  
 aponevroz  
-apopleksiya (tib.) 
+apopleksiya
 apoplektik  
-apoptoz (tib.) aporiya  
-aport,  alma növü  
+apoptoz
+aporiya  
+aport
 aposelen  
 aposentr  
 aposterior  
 aposteriori  
-apostil  (hüq.) 
+apostil
 apostol  
 apostolik  
 apostrof  
 apostroflu  
 apostrofsuz  
 appendikulyar  
-appozitiv ad (dilç.) 
+appozitiv ad 
 aprel  
-aprel -may 
+aprel-may 
 apressin  
 apriori  
-apriorizm ( fəls.) 
+apriorizm
 aprobasiya  
 aprobator  
 aproksimasiya  
-apropriasiya (hüq.) 
+apropriasiya
 apsida  
 aptek  
 aptekçə  
