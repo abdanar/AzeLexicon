@@ -20,7 +20,7 @@ azerbaijani-words/
 
 ## Current Status
 
-- Contains **80K+ Azerbaijani words** in `data/azerbaijani.txt`.
+- Contains **85K+ Azerbaijani words** in `data/azerbaijani.txt`.
 - Words are **UTF-8 encoded** and include all special Azerbaijani characters: `ə, ı, ö, ü, ş, ç, ğ`.
 - Suitable for **text processing** and as input for **hyphenation pattern creation**.
 
