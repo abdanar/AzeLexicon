@@ -2528,7 +2528,7 @@ angioqrafik
 angioqrafiya  
 angiologiya  
 angioloq  
-angioloql uq 
+angioloqluq 
 angioma  
 angionevroz  
 angioreseptor
@@ -2944,15 +2944,13 @@ arababəndlik
 arabacıq  
 arabaçı  
 arabaçılıq  
-araba -fayton  
-araba -furqon  
+araba-fayton  
+araba-furqon  
 ara-bərə 
 ar-abır 
-arabinoza  
-anuriya  - arabinoza     
- 51 ara ara ara 
+arabinoza   
 arabir  
-arabir -arabir  
+arabir-arabir  
 araçı  
 araçılıq  
 aradabir  
@@ -2966,7 +2964,7 @@ arakəsməsiz
 araq 
 araqarışdıran  
 araqarışdırıcı  
-araqat ( tex.) 
+araqat 
 araqatlı  
 araqatsız  
 araq-çaxır  
@@ -2975,7 +2973,7 @@ araqçı
 araqçılıq  
 araqçın  
 araqçınlı  
-araqonit (miner. ) 
+araqonit 
 araq-şərab  
 aralama  
 aralamaq  
@@ -2991,15 +2989,16 @@ aralaşma
 aralaşmaq  
 aralatma  
 aralatmaq  
-aralı aralıq  
+aralı 
+aralıq  
 aralıqçı  
 aram  
 arama  
-arama -axtarma  
+arama-axtarma  
 aramaq  
-aramaq -axtarmaq  
-aram -aram  
-arami ( -lər) 
+aramaq-axtarmaq  
+aram-aram  
+arami 
 aramicə  
 aramla  
 aramlı  
@@ -3011,16 +3010,16 @@ arançılıq
 aran-dağ 
 aranış  
 aranje  
-aranjeman (riyaz. ) 
-aranjiman (mus.) 
+aranjeman 
+aranjiman 
 aranjimançı  
 aranjirovka  
 aranlı  
-aranlı -dağlı  
+aranlı-dağlı  
 aranlıq  
 aranma  
 aranmaq  
-araölçən ( tex.) 
+araölçən 
 araölçmə  
 arasıkəsilməz  
 ara-sıra 
@@ -3029,9 +3028,10 @@ arasızlıq
 araşdırıcı  
 araşdırıcılıq  
 araşdırılma  
-araşd ırılmaq  
+araşdırılmaq  
 araşdırma  
-araşdırmaçı  araşdırmaq  
+araşdırmaçı  
+araşdırmaq  
 araşma  
 araşmaq  
 arat  
@@ -3041,10 +3041,10 @@ araverməz
 aravuran  
 aravuranlıq  
 aravuruşduran  
-araya -ərsəyə gəlmək  
+araya-ərsəyə gəlmək  
 arayatı  
-arayıb -axtarma  
-arayıb -axtarmaq  
+arayıb-axtarma  
+arayıb-axtarmaq  
 arayıcı  
 arayıcılıq  
 arayış  
@@ -3056,12 +3056,12 @@ arborisid
 arbovirus  
 arboviruslu  
 arbutin  
-arçan (bot.) 
-arçi ( -lər) 
+arçan  
+arçi  
 ard 
 ard-arası  
 ard-arda 
-ardıc ( bot.) 
+ardıc 
 ardıcıl  
 ardıcıllıq  
 ardıcıllıqla  
@@ -3071,9 +3071,7 @@ ardıcsız
 ardınca  
 areal  
 areallı  
-arealşünas  
-arabir - arealşünas   
- 52 are arx arx 
+arealşünas   
 arealşünaslıq  
 arena  
 arenalı  
@@ -3084,8 +3082,8 @@ areometriya
 arəstə  
 arfa 
 arfaçı  
-argentinalı ( -lar) 
-argentit (miner. ) 
+argentinalı 
+argentit 
 arginin  
 arğac 
 arğaclama  
@@ -3095,9 +3093,9 @@ arğaclanmaq
 arğaclatma  
 arğaclatmaq  
 arğaclıq  
-arğalı, vəhşi qoç  (məh. ) 
-arğaz, arıq (məh. ) 
-arğu, tayfa  
+arğalı 
+arğaz 
+arğu  
 arx 
 arxa 
 arxa-arxaya 
@@ -3114,21 +3112,22 @@ arxa-dirək
 arxaduran  
 arxadurma  
 arxaik  
-arxaika  arxaikləşmə  
+arxaika  
+arxaikləşmə  
 arxaikləşmək  
 arxaiklik  
 arxaizm  
 arxaizmli  
 arxaizmsiz  
-arxaqəlsəməli ( -lər) 
+arxaqəlsəməli 
 arxalanma  
 arxalanmaq  
 arxalı  
 arxalıq 
-arxalıq -çuxa  
+arxalıq-çuxa  
 arxalıqlı  
 arxalıqsız  
-arxantrop ( -lar) 
+arxantrop
 arxar  
 arxarmerinos  
 arxasınca  
@@ -3136,9 +3135,9 @@ arxasız
 arxasızlıq  
 arxa-yan 
 arxayın  
-arxayın -arxayın  
+arxayın-arxayın  
 arxayınca  
-arxayınçılıq ( dan.) 
+arxayınçılıq 
 arxayınlama  
 arxayınlamaq  
 arxayınlaşdırma  
@@ -3150,29 +3149,30 @@ arxayınlatmaq
 arxayınlıq  
 arxayınlıqla  
 arxçəkmə  
-arxeqonili ( -lər) ( bot.) 
+arxeqonili  
 arxeoqraf  
 arxeoqrafik  
 arxeoqrafiya  
-arxeologiya  arxeoloji  
-arxeoloji -etnoqrafik  
+arxeologiya  
+arxeoloji  
+arxeoloji-etnoqrafik  
 arxeoloq  
-arxeoloq -etnoqraf  
+arxeoloq-etnoqraf  
 arxeoloqluq  
-arxeoloq -türkoloq  
+arxeoloq-türkoloq  
 arxeopteriks  
 arxespora  
 arxetip  
-arxifone m (dilç.) 
+arxifonem 
 arxikarp  
 arximilyoner  
-arximiset ( -lər) 
+arximiset 
 arxipelaq  
 arxitektonik  
 arxitektonika  
 arxitektor  
-arxitektor -dendroloq  
-arxitektor -dizayner  
+arxitektor-dendroloq  
+arxitektor-dizayner  
 arxitektura  
 arxitrav  
 arxiv  
@@ -3190,24 +3190,22 @@ arxivşünaslıq
 arxiyepiskop  
 arxiyepiskopluq  
 arxont  
-arxozavr ( -lar) 
+arxozavr 
 arı 
 arıçı 
 arıçılıq  
-arıdıcı   
-arealşünaslıq - arıdıcı   
- 53 arı arı arq 
+arıdıcı    
 arıdılma  
 arıdılmaq  
 arı-duru 
 arıxana  
-arıkimi ( -lər) 
+arıkimi 
 arıq 
-arıqapan ( zool. ) 
+arıqapan  
 arıqca  
 arıqcıq  
 arıq-cılız 
-arıqlada -arıqlada  
+arıqlada-arıqlada  
 arıqladıcı  
 arıqlama  
 arıqlamaq  
@@ -3215,13 +3213,13 @@ arıqlaşma
 arıqlaşmaq  
 arıqlatma  
 arıqlatmaq  
-arıqlaya -arıqlaya  
+arıqlaya-arıqlaya  
 arıqlıq  
 arıq-uruq 
 arıquşu  
 arıma  
 arımaq  
-arına -arına  
+arına-arına  
 arındırma  
 arındırmaq  
 arınma  
@@ -3231,15 +3229,16 @@ arıtdırma
 arıtdırmaq  
 arıtlama  
 arıtlam aq 
-arıtlana -arıtlana  
+arıtlana-arıtlana  
 arıtlanma  
 arıtlanmaq  
 arıtlatma  
 arıtlatmaq  
 arıtlayıcı  
-arıtma  arıtmaq  
+arıtma  
+arıtmaq  
 arıyeyən  
-ari (-lər) 
+ari 
 arid torpaqlar  
 arif 
 arifanə  
@@ -3253,7 +3252,7 @@ aristokrat
 aristokratcasına  
 aristokratik  
 aristokratiya  
-aristo kratlaşma  
+aristokratlaşma  
 aristokratlaşmaq  
 aristokratlıq  
 aristotelçi  
@@ -3262,7 +3261,7 @@ aritmik
 aritmiya  
 ariya  
 ariyetta  
-arizant ( -lar) 
+arizant 
 arkada  
 arkfunksiya  
 arkkosekans  
@@ -3274,10 +3273,11 @@ arksinus
 arktangens  
 arktik  
 arqali  
-arqan (bot.) 
-arqazid ( -lər) 
+arqan  
+arqazid  
 arqo 
-arqon arqonavt  
+arqon 
+arqonavt  
 arqotizm  
 arqument  
 arqumentasiya  
@@ -3292,21 +3292,21 @@ arlanmaq
 arlı 
 arlı-abırlı  
 arlı-namuslu  
-armada (hərb. ) 
-armadil ( -lər) 
+armada 
+armadil 
 armatur  
 armaturçu  
 armaturçuluq  
-armatur -konstruksiya  
+armatur-konstruksiya  
 armaturlama  
 armaturlamaq  
 armaturlanma  
-armaturlanma q  
+armaturlanmaq  
 armaturlaşdırıcı  
 armaturlu  
 armatursuz  
 armokarkas  
-armreslinq (idm.) 
+armreslinq 
 armud  
 armudabənzər  
 armudağız  
@@ -3316,15 +3316,13 @@ armudlu
 armudluq  
 armudu  
 ar-namus  
-arnaut ( -lar) 
+arnaut  
 arnautca     
-arıdılma - arnautca  
- 54 aro ars art 
 aroqonit  
 aromalampa  
 aromat  
-aromaterapiya (tib.) 
-aromatik  birləşmə  
+aromaterapiya 
+aromatik birləşmə  
 aromatizasiya  
 aromatlanma  
 aromatlanmaq  
@@ -3339,32 +3337,33 @@ arpa
 arpa-buğda  
 arpa-buğdalı  
 arpa-buğdasız  
-arpad ( -lar) 
+arpad  
 arpa-darı 
 arpa-darılı  
 arpa-darısız  
-arpakimi ( -lər) 
+arpakimi 
 arpalama  
 arpalamaq  
 arpalanma  
 arpalanmaq  
 arpalı  
 arpalıq  
-arpalı -samanlı  
+arpalı-samanlı  
 arpa-saman  
 arpa-samanlı  
 arpa-samansız  
 arpasız  
 arpa-yarma  
-arpecio (mus.) 
+arpecio 
 arsen  
 arsenal  
-arsenat (kim.) 
-arseni d (-lər) arsenit ( -lər) (kim.) 
+arsenat 
+arsenid
+arsenit 
 arsenopirit  
 arsız  
-arsız -abırsız  
-arsız -arsız  
+arsız-abırsız  
+arsız-arsız  
 arsızca  
 arsızcasına  
 arsızlama  
@@ -3374,33 +3373,34 @@ arsızlanmaq
 arsızlaşma  
 arsızlaşmaq  
 arsızlıq  
-arsız -namussuz  
-arsin (kim.) 
-arşaki ( -lər) 
+arsız-namussuz  
+arsin 
+arşaki 
 arşın  
-arşın -arşın  
+arşın-arşın  
 arşınçı  
 arşınhesabı  
 arşın lama  
 arşınlamaq  
 arşınlanma  
 arşınlanmaq  
-arşınlaya -arşınlaya  
-arşınlayıb -ölçmə  
-arşınlayıb -ölçmək  
+arşınlaya-arşınlaya  
+arşınlayıb-ölçmə  
+arşınlayıb-ölçmək  
 arşınlıq  
 arşınmalçı  
 arşınmalçılıq  
 arşınmalı  
 arşınölçən  
-artan (riyaz. ) 
+artan  
 art-bankinq  
 art-biznes  
 art-deko  
 artdırma  
 artdırmaq  
 art-direktor  
-art-dizayn  artefakt  
+art-dizayn  
+artefakt  
 artel 
 artelçi 
 artelçilik  
@@ -3427,11 +3427,11 @@ artımlıq
 artımlılıq  
 artımsız  
 artımsızlıq  
-artıra -artıra  
-artırıb -azaltma  
-artırıb -azaltmaq  
-artırıb -əskiltmə  
-artırıb -əskiltmək  
+artıra-artıra  
+artırıb-azaltma  
+artırıb-azaltmaq  
+artırıb-əskiltmə  
+artırıb-əskiltmək  
 artırılma  
 artırılmaq  
 artırma  
@@ -3439,12 +3439,10 @@ artırmac
 artırmaq  
 artırtma  
 artırtmaq  
-artikl (dilç.) 
+artikl  
 artiklli     
-aroqonit - artiklli       
- 55 art arv arz 
 artiklsiz  
-artikul (iqt.) 
+artikul 
 artikulyasiya  
 artilleriya  
 artilleriyaçı  
@@ -3467,7 +3465,7 @@ artroz
 art-studiya  
 art-terapiya  
 art-vizaj  
-arva ( dan.) 
+arva  
 arvad  
 arvadabənzər  
 arvadabənzərlik  
@@ -3483,7 +3481,8 @@ arvadcasına
 arvadcığaz  
 arvadcıq  
 arvadxasiyyət  
-arvadxasiyyətli  arvadxasiyyətlilik  
+arvadxasiyyətli  
+arvadxasiyyətlilik  
 arvadlanma  
 arvadlanmaq  
 arvadlaşma  
@@ -3491,19 +3490,19 @@ arvadlaşmaq
 arvadlı  
 arvadlıq  
 arvadlılıq  
-arvadlı -uşaqlı  
+arvadlı-uşaqlı  
 arvadsız  
 arvadsızlıq  
-arvadsız -uşaqsız  
+arvadsız-uşaqsız  
 arvadsifət  
 arvadsifətli  
-arvad -uşaq 
-arvad -uşaqlı  
-arvad -uşaqsız  
+arvad-uşaq 
+arvad-uşaqlı  
+arvad-uşaqsız  
 arvadüzlü  
 arvadyosunlu  
 arvalı  
-arvana, dişi dəvə  
+arvana  
 arvasız  
 arzu 
 arzuedilən  
@@ -3523,7 +3522,8 @@ arzumənd
 arzuolunan  
 arzuolunmaz  
 arzuolunmazlıq  
-arzusuz  arzusuzluq  
+arzusuz  
+arzusuzluq  
 as 
 asan 
 asanaçılan  
@@ -3543,8 +3543,8 @@ asanlıqla
 asantəhər  
 asayiş  
 asbest  
-asbest -beton  
-asbest -sement  
+asbest-beton  
+asbest-sement  
 asdırılma  
 asdırılmaq  
 asdırma  
@@ -3553,30 +3553,28 @@ aseksual
 aseksuallıq  
 aseptik  
 aseptika  
-asetaldehid (kim.) 
-asetamid ( kim.) 
+asetaldehid 
+asetamid  
 asetat  
 asetilaseton  
-asetilen (kim.) 
-asetileni d 
-aseton (kim.) 
+asetilen  
+asetilenid 
+aseton  
 asetonlama  
 asetonlamaq  
 asetonlanma  
 asetonlanmaq  
- artiklsiz  - asetonlanmaq     
- 56 asf asi asm 
 asfalt  
 asfaltaltı  
 asfaltbasan  
-asfalt -beton  
-asfalt -betondaşıyan  
-asfalt -betondöşəyən  
+asfalt-beton  
+asfalt-betondaşıyan  
+asfalt-betondöşəyən  
 asfaltçəkən  
 asfaltçı  
 asfaltdöşəmə  
 asfaltdöşəyən  
-asfaltqa rışdıran  
+asfaltqarışdıran  
 asfaltqarışdırma  
 asfaltlama  
 asfaltlamaq  
@@ -3602,13 +3600,14 @@ asılqanlı
 asılqansız  
 asılma  
 asılmaq  
-asım -asım  
-asırqal ( bot.) 
+asım-asım  
+asırqal 
 asırqallıq  
 asırqalotu  
-asi asidimetriya ( kim.) 
+asi 
+asidimetriya 
 asidofil  
-asidofiliya ( biol.) 
+asidofiliya  
 asidoz  
 asiləşdirmə  
 asiləşdirmək  
@@ -3617,22 +3616,22 @@ asiləşmək
 asiman  
 asimmetrik  
 asimmetriya  
-asimptot (riyaz. ) 
+asimptot 
 asimptotik ifadə  
-asindetizm ( dilç.) 
+asindetizm  
 asindeton  
 asinxron  
-asiyalı ( -lar) 
-askarid ( -lər) (zool.) 
+asiyalı  
+askarid  
 askaridoz  
 asket  
 asketizm  
 asketlik  
 askoxitoz  
-askomiset ( -lər) 
+askomiset 
 askorbin  
 asqı 
-asqıra -asqıra  
+asqıra-asqıra  
 asqırdıcı  
 asqırıq  
 asqırıqotu  
@@ -3646,28 +3645,29 @@ aslanürək
 aslanürəkli  
 asma  
 asmakotan  
-asmaq  asmalıq  
+asmaq  
+asmalıq  
 asmatavan  
 asmatavanlı  
 asmatavanlıq  
 aspekt  
-aspid ( -lər) 
+aspid  
 aspirant  
 aspirantlıq  
 aspirantura  
 aspirasiya  
 aspirator  
-aspirin ( əcz.) 
-asral ( bot.) 
+aspirin 
+asral  
 asrallıq  
 assambleya  
-assamlı ( -lar) 
-assembler (inform.) 
+assamlı 
+assembler 
 assenizasiya  
 assenizator  
-assidi ( -lər) 
+assidi 
 assiqnasiya  
-assiqnat ( -lar) (tar.) 
+assiqnat 
 assimilyasiya  
 assimilyator  
 assimilyatorluq  
@@ -3675,24 +3675,22 @@ assistent
 assistentlik  
 assistentura  
 assonans  
-assosianizm (psix.) 
+assosianizm 
 assosial  
 assosiallaşma  
 assosiallaşmaq  
 assosiasiya  
 assosiativ  
 assosiativlik  
-assur ( -lar) 
+assur 
 assurşünas  
 assurşünaslıq  
 asta 
 asta-asta 
-asfalt  - asta-asta  
- 57 ast ast ast 
 astabaasta  
 astabasar  
 astaca  
-astaca -astaca  
+astaca-astaca  
 astadan  
 astagəl  
 astagəllik  
@@ -3707,7 +3705,7 @@ astalıqca
 astalıqla  
 astana  
 astar  
-astar lama  
+astarlama  
 astarlamaq  
 astarlanma  
 astarlanmaq  
@@ -3717,19 +3715,20 @@ astarlayıcı
 astarlı  
 astarlıq  
 astarsız  
-astar -üz çəkmək  
-astek ( -lər) 
+astar-üz çəkmək  
+astek 
 astepiya  
-asteroid ( -lər) 
+asteroid 
 asteroksilon  
 asterometr  
 astiqmatik  
-astiqmatizm (tib.) 
-astionim (dilç.) 
+astiqmatizm  
+astionim 
 astma  
 astmalı  
 astmasız  
-astmatik  astra (bot.) 
+astmatik  
+astra 
 astraqal  
 astrobiologiya  
 astrobioloji  
@@ -3747,7 +3746,7 @@ astrofotoqrafiya
 astrofotometr  
 astrofotometriya  
 astrogeologiya  
-astrogeolo ji 
+astrogeoloji 
 astrogeoloq  
 astroid  
 astrokimya  
@@ -3769,7 +3768,8 @@ astrometriya
 astronaviqasiya  
 astronavt  
 astronavtika  
-astronavtlıq  astronim ( dilç.) 
+astronavtlıq  
+astronim  
 astronom  
 astronomik  
 astronomiya  
@@ -3780,7 +3780,7 @@ astroperiskop
 astrosfer  
 astrositoma  
 astroskop  
-astrotoponimiya ( dilç.) 
+astrotoponimiya 
 asudə  
 asudələnmə  
 asudələnmək  
@@ -3790,7 +3790,7 @@ asudəlik
 aş 
 aşa-aşa 
 aşağı  
-aşağıbaşlı ( -lar), qacarlar  
+aşağıbaşlı   
 aşağıdakı  
 aşağıgərginlikli  
 aşağılama  
@@ -3804,14 +3804,12 @@ aşağıtezlikli
 aşağıtəzyiqli  
 aşağıvoltlu  
 aşağıvoltluq  
-aşağı -yuxarı  
+aşağı-yuxarı  
 aşaltı  
 aşaltılıq  
 aşaltısız  
-aşanti ( -lər) 
+aşanti 
 aşbaşı 
- astabaasta  - aşbaşı  
- 58 aşç aşı aşq 
 aşçı 
 aşdırma  
 aşdırmaq  
@@ -3826,8 +3824,8 @@ aşıb-coşmaq
 aşıb-daşma  
 aşıb-daşmaq  
 aşıq 
-aşıq-aşıq, oyun  
-aşıqqoz, oyun  
+aşıq-aşıq  
+aşıqqoz  
 aşıqlama  
 aşıqlamaq  
 aşıqlıq  
@@ -3844,15 +3842,16 @@ aşılatdırmaq
 aşılayıcı  
 aşılı 
 aşılılıq  
-aşına -aşına  
-aşındıra -aşındıra  
+aşına-aşına  
+aşındıra-aşındıra  
 aşındırıcı  
 aşındırılma  
 aşındırılmaq  
 aşındırma  
 aşındırmaq  
 aşınma  
-aşınmaq  aşırdılma  
+aşınmaq  
+aşırdılma  
 aşırdılmaq  
 aşırı 
 aşırılma  
@@ -3861,7 +3860,7 @@ aşırım
 aşırımlı  
 aşırımsız  
 aşırma  
-aşırma -birləşmə  
+aşırma-birləşmə  
 aşırmaq  
 aşırmalı  
 aşırtma  
@@ -3886,13 +3885,14 @@ aşkarlanma
 aşkarlanmaq  
 aşkarlayıcı  
 aşkarlıq  
-aşkenazi ( -lər) 
+aşkenazi 
 aşqal  
 aşqallama  
 aşqallamaq  
 aşqallanma  
 aşqallanmaq  
-aşqar  aşqara  
+aşqar  
+aşqara  
 aşqarası  
 aşqarlama  
 aşqarlamaq  
@@ -3929,12 +3929,10 @@ ata-babadan
 ata-babalı  
 atabaxan  
 ata-bala 
-atabask ( -lar) 
-atabəy ( -lər) 
+atabask 
+atabəy  
 atabir  
 atacığaz  
-aşçı - atacığaz       
- 59 ata atç atə 
 atacıq  
 atadanayrı  
 atadanbir  
@@ -3958,15 +3956,15 @@ at-araba
 ataraksiya  
 atarpası  
 atasız  
-atasız -anasız  
-atasız -babasız  
+atasız-anasız  
+atasız-babasız  
 ata-ata   
-at-at, oyun  
+at-at  
 atatürkçü  
 atatürkçülük  
 atavizm  
 atayana  
-atbaşı, bərabər  
+atbaşı  
 atbaz  
 atbazlıq  
 atcıl 
@@ -3975,7 +3973,8 @@ atçapar
 atçapdı  
 atçapma  
 atçənə  
-atçı atçılıq  
+atçı 
+atçılıq  
 atçibini  
 at-dəvə  
 atdırılma  
@@ -4002,20 +4001,21 @@ at-eşşəkli
 at-eşşəksiz  
 atəş 
 atəşaçma  
-atəşaparma (hərb. ) 
+atəşaparma 
 atəşbaz  
 atəşbazlıq  
 atəşböcəyi  
-atəş-dəstək vasitələri  (hərb. ) 
+atəş-dəstək vasitələri 
 atəşfəşan  
 atəşfəşanlıq  
 atəşgah  
 atəşgədə  
-atəşxan a 
+atəşxana 
 atəşin  
 atəşinlik  
 atəşkeş  
-atəşkəs  atəşqurdu  
+atəşkəs  
+atəşqurdu  
 atəşləndirilmə  
 atəşləndirilmək  
 atəşləndirmə  
@@ -4039,8 +4039,8 @@ atıla-atıla
 atıl-batıl 
 atılğan  
 atılğanlıq  
-atılıb -düşmə  
-atılıb -düşmək  
+atılıb-düşmə  
+atılıb-düşmək  
 atılış  
 atılma  
 atılmaq  
@@ -4054,31 +4054,29 @@ atışa-atışa
 atışma  
 atışmaq  
 atkeçməz  
-atkimi ( -lər) 
+atkimi
 at-qatır 
- atacıq  - at-qatır    
- 60 atq atm att 
-atqaytaran ( bot.) 
+atqaytaran
 atqı 
 atqulağı  
-atqulançarı ( bot.) 
+atqulançarı 
 atquşu  
-atquyruğu ( bot.) 
+atquyruğu 
 atlama  
 atlamaq  
-atlana -atlana  
-atlanbac, oyun  
+atlana-atlana  
+atlanbac  
 atlandırma  
 atlandırmaq  
 atlanış  
 atlanma  
 atlanmaq  
-atlant ( -lar) 
+atlant  
 atlantrop  
-atlas, xəritə  
+atlas  
 atlas-monoqrafiya  
 atlayış  
-atlaz, parça  
+atlaz  
 atlet 
 atletik  
 atletika  
@@ -4098,28 +4096,29 @@ atmacalı
 atmaq  
 atmaralı  
 atmasız  
-atmilçəyi  atmofil  
+atmilçəyi  
+atmofil  
 atmosfer  
 atmosferdaxili  
 atmosferli  
 atmosferlik  
-atol (coğr. ) 
+atol 
 atom  
 atomçu  
-atom -elektrik  
-atom -güc 
+atom-elektrik  
+atom-güc 
 atomist  
 atomistik  
 atomistika  
 atomizm  
 atomlararası  
-atom -molekul  
+atom-molekul  
 atomsuz  
 atomsuzlaşdırma  
 atomsuzlaşdırmaq  
-atonal ( mus.) 
+atonal 
 atonik  
-atoniya (tib.) 
+atoniya 
 atotaran  
 at-öküz  
 at-öküzlü  
@@ -4130,22 +4129,23 @@ atribut
 atributiv  
 atributivləşmə  
 atributivləşmək  
-atributivli k 
+atributivlik 
 atributor  
 atrofik  
 atrofiya  
-atropati ( -lər) 
-atropatenalı ( -lar) 
+atropati  
+atropatenalı  
 atropin  
 atsifət  
-atşabalıdı  attaşe  
+atşabalıdı  
+attaşe  
 attaşelik  
 attestasiya  
 attestasiyalı  
 attestat  
 attik 
 attraksion  
-attraksiya (geod. ) 
+attraksiya 
 at-ulaq 
 atüstü  
 atyalı  
@@ -4169,7 +4169,7 @@ audiometriya
 audioməhdudlaşdırıcı  
 audiomətn  
 audioplata  
-audiomultiram (tex.) 
+audiomultiram 
 audiopleyer  
 audiosənəd  
 audiosistem  
@@ -4177,10 +4177,8 @@ audiovizual
 audiovizuallıq  
 audioyazı  
 audit  
-audit -xidmət  
+audit-xidmət  
 auditor  
-atqaytaran  - auditor    
- 61 aud ava ava 
 auditorluq  
 auditoriya  
 auksin ( -lər) 
@@ -4302,8 +4300,6 @@ aviadesantlı
 aviadetektor  
 aviadetektorlu  
 aviadiviziya   
- auditorluq  - aviadiviziya    
- 62 avi avi avr 
 aviahissə  
 aviahorizont  
 aviaxət  
@@ -4425,8 +4421,6 @@ avtoatlas
 avtobalanslaşdırıcı  
 avtobalanslaşdırıcılıq  
 avtobalanslaşdırma   
-aviahissə  - avtobalanslaş dırma    
- 63 avt avt avt 
 avtobalanslaşdırmaq  
 avtobatalyon  
 avtobaza  
@@ -4548,8 +4542,6 @@ avtomatikləşdirmək
 avtomatiklə şmə 
 avtomatikləşmək  
 avtomatiklik  
- avtobalanslaşdırmaq - avtomatiklik    
- 64 avt avt avt 
 avtomatizm  
 avtomatlaşdırılma  
 avtomatlaşdırılmaq  
@@ -4671,8 +4663,6 @@ avtovağzal
 avtovaqon  
 avtoyığma  
 avtoyuma  
-avtomatizm  - avtoyuma    
- 65 avt aya aya 
 avtoyuyucu  
 avtoyükləmə  
 avtoyüklənmə  
@@ -4794,8 +4784,6 @@ ayğırlıq
 ay-hay 
 ayı 
 ayıb  
- avtoyuyu cu - ayıb    
- 66 ayı ayi ayn 
 ayıbalası   
 ayıbaldırğanı  
 ayıb-ayıb 
@@ -4917,8 +4905,6 @@ ay-ulduz
 ay-ulduzlu  
 ayüzlü  
 ayüzlülük  
-ayıbalası  - ayüzlülük    
- 67 ayy aza azd 
 ayyarım  
 ayyarımlıq  
 az 
@@ -5040,8 +5026,6 @@ azıq, azuqə
 azışdırma  
 azışdırmaq  
 azışma  
-ayyarım  - azışma   
- 68 azı azo azs 
 azışmaq  
 azimut  
 azimutal  
@@ -5108,7 +5092,7 @@ azotsuz
 azottoplayıcı  
 azoy (geol. ) 
 azömürlü  
- azsavadlı  
+azsavadlı  
 azsaylı  
 azseçilən  
 azsəmərəli  
@@ -5141,8 +5125,6 @@ azyarpaqlı
 azyaşlı  
 azyaşlılıq  
 azyüklü         
-azışmaq  - azyüklü      
- 69 bab bac bad 
 Bb 
 bab 
 baba  
@@ -5385,8 +5367,6 @@ bağlayıcısız
 bağlı  
 bağlı -bağatlı  
 bağlı -bağçalı  
-baftalanmaq  - bağlı -bağçalı   
- 71 bağ bah bax 
 bağlı -bəhərli  
 bağlıq  
 bağlılıq  
@@ -5507,9 +5487,7 @@ bakterioloq
 bakterioloqluq  
 bakterioprotein  
 bakterioskopiya  
-bakteriostatik    
-bağlı -bəhərli  - bakteriostatik    
- 72 bak bal bal 
+bakteriostatik     
 bakteriostaz  
 bakteriotrofizm  
 bakterioz ( -lar) 
@@ -5631,8 +5609,6 @@ baldızlıq
 baldöyən (bot.) 
 balerina  
 balerinalıq   
-bakteriostaz  - balerinalıq  
- 73 bal bal bal 
 balet  
 baletçi  
 balet -fantaziya  
@@ -5754,8 +5730,6 @@ baltaçı
 baltaçı lıq 
 balta -dəhrə  
 baltadimdik ( zool. )   
-balet  - baltadimdik  
- 74 bal bam ban 
 baltadiş  
 baltadişli  
 baltagörməz  
@@ -5877,8 +5851,6 @@ baobab
 bapbalaca  
 baptist  
 baptistlik  
-baltadiş - baptistlik  
- 75 bap bar bar 
 baptizm  
 bar 
 baraban  
@@ -6000,8 +5972,6 @@ barmaqlanma
 barmaqlanmaq  
 barmaqlı  
 barmaqlıq  
-baptizm  - barmaqlıq  
- 76 bar bar bas 
 barmaqotu  
 barmaqsız  
 barmaqucu  
@@ -6123,8 +6093,6 @@ basmalatma
 basmalatmaq  
 basmanaxış  
 basmanaxışlı  
-barmaqotu  - basmanaxışlı    
- 77 bas baş baş 
 basmarlama  
 basmarlamaq  
 basmil ( -lər), tayfa  
@@ -6246,14 +6214,12 @@ başlı -başına
 başlı -başınalıq  
 başlıca  
 başlıq  
-basmarlama  - başlıq   
- 78 baş bat bat 
 başlıqaltı  
-başlıql ı 
+başlıqlı 
 başlıqotu  
 başlıqsız  
 başmaq  
-başmaq -corab  
+başmaq-corab  
 başmaqçı  
 başmaqçılıq  
 başmaqlı  
@@ -6492,8 +6458,6 @@ bel-arxa
 belarus ( -lar) 
 belarusca  
 belbağı   
-bayaz  - belbağı   
- 80 bel bel ber 
 belbağılı  
 belbağısız  
 belbağlama ( etn.) 
@@ -6614,9 +6578,7 @@ beşbuc aq
 beşbucaqlı  
 beşcə  
 beşcərgəli  
-beşcildli  
-belbağılı  - beşcildli    
- 81 beş beş beş 
+beşcildli   
 beşcildlik  
 beşdaş oynamaq  
 beşdəqiqəlik toplantı  
@@ -85765,8 +85727,7 @@ Hacıqabul )
 Şümrüd kənd (Astara)  
 Şürük  kənd (Lənkəran) 
 Şüvəlan qəsəbə (Bakı) 
-Şüvi kənd (Astara)  
-T    
+Şüvi kənd (Astara)    
 Tağav ard kənd (Xocav ənd) 
 Tağlabiyan  kənd (İsmayıllı ) 
 Taxtabaşı  kənd (Kəlbəcər) 
@@ -85843,8 +85804,7 @@ Türkan  qəsəbə (Bakı)
 Türkeş kənd (Naxçıvan MR, 
 Şahbuz ) 
 Türkl ər kənd (Beyləqan, Laçın ) 
-Türkoba  kənd (Masallı , Xızı ) 
-U    
+Türkoba  kənd (Masallı , Xızı )    
 Ucar şəhər, rayon  (Ucar ) 
 Ulaclı  kənd (Sabirabad ) 
 Ulaşlı  kənd (Qubadlı ) 
@@ -85899,168 +85859,136 @@ Viyən kənd (Lənkəran)
 Vizəzəmin kənd (Lerik )  
 Vladimirovka  kənd (Quba ) 
 Vurğun  qəsəbə (Ağstafa ) 
-Y    
-Yaqublu  kənd (Oğuz ) 
-Yalama  kənd (Xaçmaz ) 
-Yalman  kənd (Göyçay ) 
-Yanı xlı kənd (Tovuz ) 
-Yanşaq  kənd (Kəlbəcər) 
-Yardımlı  qəsəbə (Yardımlı ) 
-Yarımca  kənd (Xızı, Naxçıvan MR, 
-Babək, Tərtər) 
-Yarm əmmədbağı  kənd (Zərdab )  
-Yasab  kənd (Qusar ) 
-Yayçı kənd  (Naxçıvan  MR, Culfa )  
-Yayıcı  kənd (K əlbəcər) 
-Yekəxana  kənd (Göyçay , Qobustan ) 
-Yellic ə kənd (Kəlbəcər) 
-Yemişanlı  kənd (Qəbələ, Oğuz ) 
-Yengic ə kənd (Qəbələ, Naxçıvan 
-MR, Ş ərur) 
-Yengiyan  kənd (Zaqatala ) 
-Yeniabad  kənd (Şəmkir) 
-Yeniarx kənd (Ağdaş -2 kənd, 
-Göyçay)  
-Yenic ə kənd (Ağdaş , Yevlax ) 
-Yeni Daşk ənd kənd (Bərdə)  
-Yeni Diza xlı kənd (Qəbələ) 
-Yeni Əyric ə kənd (Bərdə) 
-Yeni Göyç ə kənd (Şəmkir) 
-Yeni Havu s kənd (Naxçıvan MR, 
-Şərur) 
-Yeni H əyat kənd (Qusar , Şəmkir), 
-qəsəbə (Xaçmaz ) Yenik ənd kənd (Ağsu, Goranboy , 
-Göyçay,  Xocav ənd, İsmayıllı, 
-Kəlbəcər, Kürd əmir, Q əbələ, Quba,  
-Neftçala,  Oğuz, Sabirabad,  Salyan, 
-Samux,  Şamaxı, T ərtər, Zəngilan ) 
-Yeni K ərki kənd (Naxçıvan MR, 
-Kəngərli) 
-Yeni Qaradolaq  kənd (Ağcab ədi) 
-Yeni Qaralar  kənd (Ağdam ) 
-Yeni Mil kənd (Beyləqan) 
-Yeni Suraxanı  qəsəbə (Bakı) 
-Yeni Suvagil  kənd (Zaqatala ) 
-Yeni Ş ərif kənd (Balak ən) 
-Yeni Yaşma  kənd (Xızı) 
-Yeni  Yol kənd (Goranboy , Şəmkir) 
-Yeni Zod kənd, stansiya (Göygöl ) 
-Yerfi  kənd (Quba ) 
-Yergüc  kənd (Xaçmaz , Quba ) 
-Yeyənkənd kənd (Masallı ) 
-Yəhərçi kənd (Goranboy )  
-Yolçub əyli kənd (Sabirabad ) 
-Yolqullar kənd (Daşk əsən) 
-Yolocaq kənd (Yardımlı ) 
-Yolpaq kənd (Goranboy ) 
-Yolüstü  qəsəbə (Salyan ) 
-Yuxarı Ağalı  kənd (Biləsuvar ) 
-Yuxarı Ağasıb əyli kənd (Samux ) 
-Yuxarı Ağcak ənd qəsəbə 
-(Goranboy ) 
-Yuxarı Ağcayazı  kənd (Ağdaş ) 
-Yuxarı Aralıq  kənd (Naxçıvan MR, 
-Şərur) 
-Yuxarı Aran  qəsəbə (Beyləqan) 
-Yuxarı Buzqov kənd (Naxçıvan 
-MR, Babək) 
-Yuxarı Cür əli kənd (Biləsuvar ) 
-Yuxarı Çarda qlar kənd (Zaqatala ) 
-Yuxarı Çayk ənd kənd (Şəmkir)  
-Yuxarı Ç əmənli kənd (Beyləqan) 
-Yuxarı Daşarx  kənd (Naxçıvan MR, 
-Şərur) 
-745 Yuxarı Daşk əsən qəsəbə 
-(Daşk əsən) 
-Yuxarı Ənd əmic kənd (Naxçıvan MR,  
-Ordubad ) 
-Yuxarı Əskipara  kənd (Qazax ) 
-Yuxarı Əylis  kənd (Naxçıvan MR,  
-Ordubad ) 
-Yuxarı Xocam usaqlı  kənd 
-(Qubadlı ) 
-Yuxarı Kürdmahmudlu  kənd 
-(Füzuli)  
-Yuxarı Qaramanlı  kənd (Neftçala ) 
-Yuxarı Qarxun  kənd (Yevlax ) 
-Yuxarı Q ələnxur  kənd (Qusar ) 
-Yuxarı Q əsil kənd (Ağdaş ) 
-Yuxarı Qışlaq  kənd (Naxçıvan MR,  
-Şahbuz)  
-Yuxarı Qiyam əddinli  kənd 
-(Ağcab ədi) 
-Yuxarı Quşçular  kənd (Şuşa)  
-Yuxarı L əki kənd (Ağdaş ) Yuxarı Mollu  kənd (Qubadlı ) 
-Yuxarı Nem ətabad  kənd (Ağdaş ) 
-Yuxarı Öysüzlü  kənd (Tovuz ) 
-Yuxarı Salahlı kənd (Qazax ) 
-Yuxarı Seyf əli kənd (Şəmkir) 
-Yuxarı Seyid əhmədli kənd (Füzuli) 
-Yuxarı Seyidl ər kənd (Zərdab ) 
-Yuxarı Şilyan kənd (Ucar ) 
-Yuxarı Tahircal  kənd (Qusar ) 
-Yuxarı Tala  kənd (Zaqatala ) 
-Yuxarı Uzunoba  kənd (Naxçıvan 
-MR, Babək) 
-Yuxarı Veys əlli kənd (Füzuli)  
-Yuxarı Yaycı  kənd (Naxçıvan MR, 
-Şərur) 
-Yuxarı Yağlı vənd kənd (Füzuli) 
-Yuxarı Zeyxur  kənd (Qusar ) 
-Yurdçu  kənd (Naxçıvan MR, 
-Kəngərli) 
-Yusifcanlı  kənd (Ağdam ) 
-Yusifl ər kənd (Z əngilan)
-Z    
-Zabrat qəsəbə (Bakı) 
-Zabux kənd (Laçın ) 
-Zağal lı kənd (Daşk əsən) 
-Zaqatala  şəhər, rayon (Zaqatala ) 
-Zalam kənd (Qəbələ)  
-Zar kənd (Kəlbəcər) 
-Zarağan  kənd (Qəbələ) 
-Zarat kənd (İsmayıllı, Siyəzən) 
-Zarıslı kənd (Şuşa ) 
-Zazalı  kənd (Samux ) 
-Zerti kənd (Laçın ) 
-Zevin  kənd (Yardımlı ) 
-Zeyn əddin  kənd (Naxçıvan MR, 
-Babək) 
-Zeyv ə kənd (Goranboy , İsmayıllı, 
-Laçın , Naxçıvan MR, Ş ərur, Şabran ) 
-Zəhmətabad  kənd (Biləsuvar , 
-Cəlilabad ) 
-Zəhmətkənd kənd (G ədəbəy) 
-Zəlimxan  kənd (Ağstafa ) 
-Zəngilan  kənd, ş əhər, rayon 
-(Zəngilan ) 
-Zəngişalı  kənd (Ağdam ) 
-Zərdab  şəhər, rayon  (Zərdab ) 
-Zərdabi qəsəbə (Quba ) 
-Zərgərli kənd (Qəbələ) 
-Zərqava  kənd (Ağsu, Quba ) 
-Zərnava kənd (İsmayıllı ) 
-Zərnəli kənd (Zəngilan ) 
-Zəyəm kənd (Qax, Zaqatala ), 
-qəsəbə (Şəmkir)  
-Zəyəm Cırdaxan  kənd (Şəmkir) 
-746 Zəylik kənd (Daşk əsən, Kəlbəcər, 
-Tərtər) 
-Zığ qəsəbə (Bakı) 
-Zilanlı  kənd (Qubadlı ) 
-Zindanmuruq kənd (Qusar ) 
-Zinzahal  kənd (Daşk əsən) 
-Zirə qəsəbə (Bakı) 
-Zirik  kənd (Qəbələ) Zivel  kənd (Kəlbəcər) 
-Ziyadlı kənd (Samux ) 
-Zövl ə kənd (Lənkəran) 
-Zurnabad  kənd, stansiya (Göygöl ) 
-Zülfüqarlı  kənd (Kəlbəcər) 
-Zümürxaç  kənd (Bərdə) 
-Züvü s kənd (Lerik )             
-747 DÜNYADA İŞLƏNƏN  
-BƏZİ  COĞRAFİ ADLAR   
-A 
+Yaqublu kənd
+Yalama kənd  
+Yalman kənd  
+Yanıxlı kənd 
+Yanşaq kənd  
+Yardımlı qəsəbə  
+Yarımca kənd 
+Yarməmmədbağı kənd   
+Yasab kənd 
+Yayçı kənd   
+Yayıcı kənd  
+Yekəxana kənd  
+Yellicə kənd  
+Yemişanlı kənd 
+Yengicə kənd 
+Yengiyan kənd 
+Yeniabad kənd 
+Yeniarx kənd
+Yenicə kənd 
+Yeni Daşkənd kənd  
+Yeni Dizaxlı kənd 
+Yeni Əyricə kənd 
+Yeni Göyçə kənd  
+Yeni Havus kənd
+Yeni Həyat kənd 
+Yenikənd kənd 
+Yeni Kərki kənd 
+Yeni Qaradolaq kənd 
+Yeni Qaralar kənd 
+Yeni Mil kənd 
+Yeni Suraxanı qəsəbə 
+Yeni Suvagil kənd  
+Yeni Şərif kənd  
+Yeni Yaşma kənd 
+Yeni Yol kənd 
+Yeni Zod kənd 
+Yerfi kənd  
+Yergüc kənd  
+Yeyənkənd kənd 
+Yəhərçi kənd  
+Yolçubəyli kənd 
+Yolqullar kənd 
+Yolocaq kənd  
+Yolpaq kənd  
+Yolüstü qəsəbə
+Yuxarı Ağalı kənd 
+Yuxarı Ağasıbəyli kənd 
+Yuxarı Ağcakənd qəsəbə
+Yuxarı Ağcayazı kənd 
+Yuxarı Aralıq kənd
+Yuxarı Aran qəsəbə 
+Yuxarı Buzqov kənd
+Yuxarı Cürəli kənd 
+Yuxarı Çardaqlar kənd 
+Yuxarı Çaykənd kənd   
+Yuxarı Çəmənli kənd  
+Yuxarı Daşarx kənd 
+Yuxarı Daşkəsən qəsəbə
+Yuxarı Əndəmic kənd
+Yuxarı Əskipara kənd 
+Yuxarı Əylis kənd
+Yuxarı Xocamusaqlı kənd
+Yuxarı Kürdmahmudlu kənd
+Yuxarı Qaramanlı kənd 
+Yuxarı Qarxun kənd 
+Yuxarı Qələnxur kənd 
+Yuxarı Qəsil kənd 
+Yuxarı Qışlaq kənd
+Yuxarı Qiyaməddinli kənd
+Yuxarı Quşçular kənd  
+Yuxarı Ləki kənd 
+Yuxarı Mollu kənd 
+Yuxarı Nemətabad kənd 
+Yuxarı Öysüzlü kənd 
+Yuxarı Salahlı kənd 
+Yuxarı Seyfəli kənd 
+Yuxarı Seyidəhmədli kənd 
+Yuxarı Seyidlər kənd  
+Yuxarı Şilyan kənd  
+Yuxarı Tahircal kənd 
+Yuxarı Tala kənd 
+Yuxarı Uzunoba kənd 
+Yuxarı Veysəlli kənd  
+Yuxarı Yaycı kənd
+Yuxarı Yağlıvənd kənd 
+Yuxarı Zeyxur kənd 
+Yurdçu kənd
+Yusifcanlı kənd 
+Yusiflər kənd 
+Zabrat qəsəbə
+Zabux kənd 
+Zağallı kənd 
+Zaqatala şəhər 
+Zalam kənd  
+Zar kənd  
+Zarağan kənd  
+Zarat kənd  
+Zarıslı kənd  
+Zazalı kənd  
+Zerti kənd  
+Zevin kənd  
+Zeynəddin kənd
+Zeyvə kənd 
+Zəhmətabad kənd
+Zəhmətkənd kənd 
+Zəlimxan kənd 
+Zəngilan kənd 
+Zəngişalı kənd 
+Zərdab şəhər 
+Zərdabi qəsəbə  
+Zərgərli kənd  
+Zərqava kənd 
+Zərnava kənd 
+Zərnəli kənd
+Zəyəm kənd
+Zəyəm Cırdaxan kənd 
+Zəylik kənd
+Zığ qəsəbə  
+Zilanlı kənd 
+Zindanmuruq kənd  
+Zinzahal kənd 
+Zirə qəsəbə 
+Zirik kənd  
+Zivel kənd  
+Ziyadlı kənd 
+Zövlə kənd 
+Zurnabad kənd 
+Zülfüqarlı kənd 
+Zümürxaç kənd 
+Züvüs kənd              
 Abxaziya  
 Acarıstan  
 Adana  
@@ -86108,7 +86036,6 @@ Aydaho
 Ayova  
 Azərbaycan  
 Azov  
-B 
 Bağdad  
 Baham adaları  
 Balxaş  
@@ -86128,12 +86055,12 @@ Belqrad
 Benin  
 Berlin  
 Bern  
-Beytül -müqəddəs  
+Beytül-müqəddəs  
 Bəhreyn  
 Birma  
 Birminhem  
 Bişkək   
-748 Bodrum  
+Bodrum  
 Boliviya  
 Bolqarıstan  
 Bolnisi  
@@ -86151,7 +86078,6 @@ Buxara
 Bursa  
 Burundi  
 Buşehr  
-C 
 Cakarta  
 Cəbəllüttariq  
 Cənubi Afrika Respublikası  
@@ -86160,17 +86086,16 @@ Cənubi Karolina
 Comolunqma  
 Corciya  
 Corctaun  
-Ç 
 Çad 
 Çexiya  
 Çelyabinsk  
 Çernoqoriya  
 Çili 
 Çin 
-Çita 
-D 
+Çita  
 Dağıstan  
-Danimarka  Dardanel  
+Danimarka  
+Dardanel  
 Daşkənd  
 Dehli  
 Delaver  
@@ -86183,8 +86108,7 @@ Dortmund
 Dubay  
 Dublin  
 Düsseldorf  
-Düşənbə  
-E 
+Düşənbə   
 Efiopiya  
 Egey  
 Ekvador  
@@ -86192,9 +86116,8 @@ Ekvatorial Qvineya
 Elbrus  
 Estoniya  
 Everest  
-Ə 
 Əbu-Dabi  
-Əddis -Əbəbə  
+Əddis-Əbəbə  
 Əfqanıstan  
 Əhər  
 Əlcəzair  
@@ -86202,25 +86125,22 @@ Everest
 Ərdəbil  
 Ərzincan  
 Ərzurum  
-F 
 Fars 
 Fələstin  
 Fərat  
 Filadelfiya  
-749 Fil Dişi Sahili  
+Fil Dişi Sahili  
 Filippin  
 Finlandiya  
 Florida  
 Frankfurt  
 Fransa  
-G 
 Genuya  
 Gəncə  
 Gilan  
 Gülüstan  
 Gümrü  
 Gürcüstan  
-H 
 Haiti  
 Havana  
 Havay  
@@ -86234,15 +86154,14 @@ Hollandiya
 Honduras  
 Honkonq  
 Hürmüzgan  
-X 
 Xartum  
 Xorasan  
 Xorvatiya  
 Xoy 
-Xuzistan  
-İ 
+Xuzistan   
 İjevsk  
-İqdır  İllinoys  
+İqdır  
+İllinoys  
 İndiana  
 İndoneziya  
 İngiltərə  
@@ -86263,7 +86182,6 @@ Xuzistan
 İtaliya  
 İvanova  
 İzmir  
-K 
 Kaliforniya  
 Kalininqrad  
 Kaluqa  
@@ -86275,13 +86193,13 @@ Kazan
 Kemerova  
 Keniya  
 Kentukki  
-Keson -Siti 
+Keson-Siti 
 Kəlkük  
 Kəlküttə  
 Kəşmir  
 Kipr 
 Kirman  
-750 Kirmanşah  
+Kirmanşah  
 Kiyev  
 Kolombo  
 Kolorado  
@@ -86301,7 +86219,6 @@ Kuba
 Kurqan  
 Kursk  
 Küveyt  
-Q 
 Qabon  
 Qafqaz  
 Qahirə  
@@ -86319,13 +86236,13 @@ Qrenlandiya
 Qroznı  
 Qum  
 Qvineya  
-Qvineya -Bisau  L 
+Qvineya-Bisau
 Laos  
 Las-Veqas  
 Latviya  
 Lesoto  
 Liberiya  
-Lixtenşteyn  
+Lixtenşteyn
 Lipetsk  
 Lissabon  
 Litva  
@@ -86338,7 +86255,6 @@ Luiziana
 Luristan  
 Lüksemburq  
 Lvov  
-M 
 Macarıstan  
 Madaqaskar  
 Madrid  
@@ -86357,7 +86273,7 @@ Maykop
 Mazandaran  
 Meksika  
 Melburn  
-751 Men 
+Men 
 Merilend  
 Mədinə  
 Məkkə  
@@ -86375,11 +86291,10 @@ Moldova
 Monako  
 Monqolustan  
 Montana  
-Monte -Karlo  
+Monte-Karlo  
 Moskva  
 Mozambik  
 Murmansk  
-N 
 Naxçıvan  
 Nalçik  
 Nayrobi  
@@ -86395,10 +86310,10 @@ Nikaraqua
 Norveç  
 Novqorod  
 Nyu-Cersi  
-Nyunberq  Nyu-Hempşir  
+Nyunberq  
+Nyu-Hempşir  
 Nyu-Meksiko  
-Nyu-York  
-O 
+Nyu-York
 Odessa  
 Ohayo  
 Oklahoma  
@@ -86408,8 +86323,7 @@ Oreqon
 Orenburq  
 Oryol  
 Oslo  
-Ottava  
-P 
+Ottava 
 Pakistan  
 Pamir  
 Panama  
@@ -86422,8 +86336,7 @@ Peru
 Pxenyan  
 Polşa  
 Portuqaliya  
-Pskov  
-R 
+Pskov
 Rabat  
 Riqa  
 Rio-de-Janeyro  
@@ -86431,14 +86344,13 @@ Rod Aylend
 Roma  
 Rostov  
 Rumıniya  
-752 Rusiya  
+Rusiya  
 Rustavi  
-S 
 Saxalin  
 Sakit okean  
 Salvador  
 Samara  
-Sankt -Peterburq  
+Sankt-Peterburq  
 San-Marino  
 San-Salvador  
 Santyaqo  
@@ -86467,7 +86379,8 @@ Sverdlovsk
 Şimali Dakota  
 Şimali Karolina  
 Şotlandiya  
-Şri-Lanka  Ştutqart  
+Şri-Lanka  
+Ştutqart  
 Şuşa   
 Tacikistan  
 Tailand  
@@ -86496,12 +86409,11 @@ Udmurtiya
 Ufa 
 Ukrayna  
 Uqanda  
-Ulan -Bator  
+Ulan-Bator  
 Ulyanovsk  
 Urmiya  
 Uruqvay  
 Urumçu  
-753 V 
 Vaşinqton  
 Vatikan  
 Vayominq  
