@@ -18113,7 +18113,8 @@ donatmaq
 donbağı  
 dondan-dona girmək  
 dondurma  
-dondurmaçı  dondurmaçılıq  
+dondurmaçı  
+dondurmaçılıq  
 dondurmaq  
 dondurmasatan  
 dondurucu  
@@ -18129,7 +18130,7 @@ donqalı
 donqar  
 donqarbel  
 donqarbelli  
-donqarbur un 
+donqarburun 
 donqarburunlu  
 donqarlama  
 donqarlamaq  
@@ -18146,16 +18147,14 @@ donqarlıq
 donqarsız  
 donquldama  
 donquldamaq  
-donquldana -donquldana  
+donquldana-donquldana  
 donquldanma  
 donquldanmaq  
 donquldaşma   
 donquldaşmaq  
 donquldatma  
 donquldatmaq   
-donquldaya -donquldaya   
-doludöymə  - donquldaya -donquldaya     
- 176 don don doş 
+donquldaya-donquldaya    
 donqultu  
 donqultulu  
 donlu  
@@ -18164,7 +18163,7 @@ donluqsuz
 donma  
 donmaq  
 donor  
-donor -aktseptor ( kim.) 
+donor-aktseptor 
 donorluq  
 donos  
 donosbaz  
@@ -54766,13 +54765,13 @@ ober-burqomistr
 ober-kansler  
 ober-leytenant  
 ober-prokuror  
-oberton ( mus.) 
-oblast ( riyaz. ) 
+oberton  
+oblast 
 obliqasiya  
 obliqator  
 obliterasiya  
 obliterasiyaedici  
-obol, pul vahidi  
+obol  
 obraz 
 obrazlaşdırma  
 obrazlaşdırmaq  
@@ -54783,16 +54782,17 @@ obrazsız
 obsidian  
 obskurant  
 obskurantizm  
-obstruksionizm ( hüq.) 
-obturator ( tib.) 
+obstruksionizm  
+obturator 
 obyekt  
 obyektdaxili  
-obyektiv  obyektivcəsinə  
+obyektiv  
+obyektivcəsinə  
 obyektivizm  
 obyektivləşdirmə  
 obyektivləşdirmək  
 obyektivləşmə  
-obyekt ivləşmək  
+obyektivləşmək  
 obyektivlik  
 obyektlərarası  
 ocaq  
@@ -54804,7 +54804,7 @@ ocaqlama
 ocaqlamaq  
 ocaqlı  
 ocaqlıq  
-ocaq -ocaq  
+ocaq-ocaq  
 ocaqsız  
 ocaqüstü  
 oçerk  
@@ -54819,7 +54819,7 @@ odadavamlılıq
 odadavamsız  
 odadavamsızlıq  
 odadözümlü  
-odadö zümsüz  
+odadözümsüz  
 odalı  
 odalıq  
 od-alov 
@@ -54827,16 +54827,17 @@ od-alovlu
 oda-simfoniya  
 odasız  
 od-atəş 
-od-atəşli  oddağ  
+od-atəşli  
+oddağ  
 oddanqoruyucu  
 odekolon  
 od-his 
 od-köz 
-odquyruqlu ( -lar) 
+odquyruqlu 
 odlaq  
 odlama  
 odlamaq  
-odlana -odlana  
+odlana-odlana  
 odlandırılma  
 odlandırılmaq  
 odlandırma  
@@ -54850,11 +54851,11 @@ odlatmaq
 odlu 
 odlu-alovlu  
 odlu-atəşin  
-odluca ( -lar) 
+odluca 
 odlu-hisli 
 odluq  
 odlu-odlu 
-odlutorpaqlı ( -lar) 
+odlutorpaqlı 
 od-ocaq  
 odoqraf  
 odometr  
@@ -54867,16 +54868,14 @@ odpüskürdücü
 odpüskürən  
 odsaçan  
 odsöndürən  
-odsöndürücü   
-o - odsönd ürücü  
- 479 ods oge oğu 
+odsöndürücü    
 odsuz  
-odsuz -alovsuz  
-odsuz -atəşsiz  
-odsuz -hissiz  
-odsuz -közsüz  
+odsuz-alovsuz  
+odsuz-atəşsiz  
+odsuz-hissiz  
+odsuz-közsüz  
 odsuzluq  
-odsuz -ocaqsız  
+odsuz-ocaqsız  
 odun  
 odunböcəyi  
 oduncaq  
@@ -54902,26 +54901,27 @@ ofisiantlıq
 oflayn  
 ofort  
 ofortçu  
-ofsayd ( idm.)  
+ofsayd  
 ofset  
 ofşor  
-oftalmiya ( tib.) 
+oftalmiya 
 oftalmologiya  
 oftalmoloji  
 oftalmoloq  
 oftalmoskop  
-oftalmoskopiya  ogecəki  
+oftalmoskopiya  
+ogecəki  
 ogünkü  
 oğlaq  
 oğlaqqıran ay 
 oğlan  
 oğlancığaz  
-oğlan -qız 
+oğlan-qız 
 oğlanlaşma  
 oğlanlaşmaq  
-oğlanlı -qızlı 
+oğlanlı-qızlı 
 oğlansayağı  
-oğlan -uşaq 
+oğlan-uşaq 
 oğru 
 oğrubaşı  
 oğrubaşılıq  
@@ -54932,7 +54932,7 @@ oğru-quldurluq
 oğrun  
 oğrunca  
 oğruncasına  
-oğrun -oğrun  
+oğrun-oğrun  
 oğul 
 oğulcuğaz  
 oğulcuq  
@@ -54950,29 +54950,30 @@ oğurlanma
 oğurlanmaq  
 oğurlatdırma  
 oğurlatdırmaq  
-oğurlatma  oğurlatmaq  
+oğurlatma  
+oğurlatmaq  
 oğurluq  
 oğurluqca  
-oğuz ( -lar) 
-oğuz - aşıq sənəti  
-oğuz -qıpçaq  
-oğuz -səlcuq  
+oğuz 
+oğuz-aşıq sənəti  
+oğuz-qıpçaq  
+oğuz-səlcuq  
 oh 
 ox 
 oxabənzər  
-oxaqaçma ( fiz.) 
+oxaqaçma 
 oxatan  
 oxatma  
 oxay  
 oxbatmaz  
 oxboyu  
-oxcüllü t (zool. ) 
+oxcüllüt 
 oxçatmaz  
-oxçətir ( bot.) 
+oxçətir  
 oxçu  
 oxçuluq  
 oxdan  
-ox-ilan ( zool. ) 
+ox-ilan  
 ox-kaman  
 oxkeçən  
 oxkeçirən  
@@ -54990,16 +54991,14 @@ oxlovlamaq
 oxlu 
 oxluq  
 oxluluq  
-oxlu-yaraqlı   
-odsuz - oxlu-yaraqlı  
- 480 oxo oxu oks 
+oxlu-yaraqlı    
 oxotu  
-oxra, boya  
+oxra
 oxralama  
 oxralamaq  
 oxralanma  
 oxralanmaq  
-oxranma ( məh. ) 
+oxranma 
 oxranmaq  
 oxrantı  
 oxşadılma  
@@ -55024,7 +55023,7 @@ oxudulma
 oxudulmaq  
 oxuma  
 oxumaq  
-oxumaq -yazmaq  
+oxumaq-yazmaq  
 oxumlu  
 oxunaqlı  
 oxunma  
@@ -55033,29 +55032,30 @@ oxunmaz
 oxunmazlıq  
 oxunuş  
 oxunuşlu  
-oxutdurma  oxutdurmaq  
+oxutdurma  
+oxutdurmaq  
 oxutma  
 oxutmaq  
 oxuyan  
 oxu-yazı 
-oxuyub -çalma  
-oxuyub -çalmaq  
-oxuyub -yazma  
-oxuyub -yazmaq  
+oxuyub-çalma  
+oxuyub-çalmaq  
+oxuyub-yazma  
+oxuyub-yazmaq  
 oxvari  
 ox-yaraq  
 ox-yaraqlı  
-oxyar paq 
+oxyarpaq 
 oxyarpaqlı  
 ox-yay 
 ox-yaylı  
 oidium  
 oilki 
-okapi ( zool. ) 
+okapi  
 okean  
 okeanarium  
 okeanaşırı  
-okean -dəniz  
+okean-dəniz  
 okeanlararası  
 okeanoqraf  
 okeanoqrafik  
@@ -55073,34 +55073,33 @@ okkultizm
 oksalat  
 oksamit  
 oksazin  
-okser ( idm.) oksid  
+okser 
+oksid  
 oksidaza  
-oksidental ( dilç.) 
+oksidental 
 oksidimetriya  
 oksidləşdirici  
-   oksidləşdirici - 
-bərpaedici  
 oksidləşdirmə  
 oksidləşdirmək  
 oksidləşmə  
 oksidləşmək  
-oksidləşmə -reduksiya  
+oksidləşmə-reduksiya  
 oksigen  
-oksigen -konverter  
+oksigen-konverter  
 oksigenləşdirmə  
-oksigen ləşdirmək  
+oksigenləşdirmək  
 oksigenli  
 oksigenoterapiya  
 oksigensiz  
 oksigensizlik  
 oksihemoqlobin  
-oksihomometriya ( idm.) 
+oksihomometriya 
 oksixinolin  
 oksixromatofil  
 oksimoron  
 oksisefaliya  
-oksiton ( dilç.) 
-oksiturşu ( -lar) 
+oksiton  
+oksiturşu  
 oksonium  
 oksosintez  
 oktaedr  
@@ -55109,16 +55108,14 @@ oktanlı
 oktava  
 oktet  
 oktod  
-oktola (mus.) 
+oktola 
 oktyabr  
 oktyabryat  
 okulist  
 okulyar   
-oxotu - okulyar  
- 481 oqa oli om 
 oqami  
-oqon ( idm.) 
-oqur ( -lar) 
+oqon 
+oqur 
 ol 
 olacaq  
 olacaqlı  
@@ -55128,12 +55125,12 @@ olan-qalan
 olan-olmaz  
 ola-ola 
 olar-olmaz  
-o-laşma ( dilç.) 
+o-laşma 
 olay 
 olduqca  
 oleandr  
 oleandrlıq  
-olefin ( -lər) 
+olefin  
 olein  
 oleoqrafik  
 oleoqrafiya  
@@ -55146,28 +55143,29 @@ oliqofren
 oliqofreniya  
 oliqofrenopedaqogika  
 oliqofrenopedaqoq  
-oliqoxet ( -lər) 
+oliqoxet 
 oliqoklaz  
 oliqomer  
 oliqopolist  
 oliqopoliya  
-oliqosaxarid ( -lər) 
-oliqosaprob ( -lar) 
+oliqosaxarid 
+oliqosaprob 
 oliqosen  
 oliqotrof  
-olimpiad a 
-olimpiadaçı  olimpiadaqabağı  
+olimpiada 
+olimpiadaçı  
+olimpiadaqabağı  
 olimpiya oyunları  
 olimpiyaçı  
 olivin  
 olma  
 olmaq  
 olmaya  
-olmaya -bilməyə  
-olmaya -olmaya  
+olmaya-bilməyə  
+olmaya-olmaya  
 olmaz  
 olmazın  
-olmaz -olmaz  
+olmaz-olmaz  
 olsa-olsa 
 olsun  
 olub-keçən  
@@ -55175,28 +55173,29 @@ olub-keçmə
 olub-keçmək  
 olunma  
 olunmaq  
-oluş ( zool. ) 
-om (fiz.) 
-omar ( zool. ) 
+oluş  
+om  
+omar 
 omba  
 ombrometr  
 ombudsman  
 ombudsmanlıq  
 omeqa  
-omeqa -zərrəcik  
-omik ( tex.) 
+omeqa-zərrəcik  
+omik  
 omlet  
-ommatidi ( -lər) ( zool. ) 
+ommatidi 
 ommetr  
 omnibus  
 omofon  
 omoform  
 omoqraf  
-omomorfem ( dilç.) 
+omomorfem  
 omonim  
 omonimika  
 omonimiya  
-omonimlik  om-santimetr  
+omonimlik  
+om-santimetr  
 on 
 onaçılan  
 onadamlıq  
@@ -55220,7 +55219,7 @@ oncildli
 oncildlik  
 onda  
 ondakı  
-ondatra ( zool. ) 
+ondatra  
 ondoqraf  
 ondördgecəlik  
 ondördlük  
@@ -55228,17 +55227,15 @@ ondulyator
 ondüymə  
 ongünlük  
 onxoserkoz  
-onixiya ( tib.) 
-onikibarma q bağırsaq  
+onixiya  
+onikibarmaq bağırsaq  
 onikilik  
 oniks  
 onillik  
 onim  
 onimiya  
 onimləşmə  
-onkiloluq   
-oqami  - onkiloluq  
- 482 onk ont ope 
+onkiloluq    
 onkologiya  
 onkoloji  
 onkoloq  
@@ -55255,7 +55252,7 @@ onluq
 onmanatlıq  
 onmərtəbə  
 onmərtəbəli  
-onnə fərlik  
+onnəfərlik  
 onnövçülük  
 onomalogiya  
 onomaloji  
@@ -55263,7 +55260,7 @@ onomasiologiya
 onomastik  
 onomastika  
 onomatopeya  
-onomatopoetik ( dilç.)  
+onomatopoetik   
 onomatopoetika  
 on-on 
 on-onbeş  
@@ -55278,22 +55275,23 @@ onşahılıq
 ontirajlı  
 ontobiologiya  
 ontobioloji  
-ontog enetik  
-ontogenetika  ontogenez  
-ontologiya ( fəls.) 
+ontogenetik  
+ontogenetika  
+ontogenez  
+ontologiya 
 ontoloji  
 ontoloq  
 ontomorfogenez  
 ontonluq  
-onuncu, 10 -cu, X  
+onuncu  
 onunku  
 onurğa  
 onurğacıq  
-onurğa -diafraqma  
-onurğalı ( -lar) 
+onurğa-diafraqma  
+onurğalı 
 onurğaönü  
-onurğasız ( -lar) 
-onurğa -ürək 
+onurğasız 
+onurğa-ürək 
 onüçillik müharibə  
 onüzlü  
 onyaşar  
@@ -55301,7 +55299,7 @@ onyaşlı
 onyaşlılıq  
 oogenez  
 ooqamiya  
-ooqoni ( bot.) 
+ooqoni 
 oolit 
 oologiya  
 oomiset  
@@ -55309,64 +55307,63 @@ opal
 opalessensiya  
 opalin  
 opera  
-opera -balet  
-opera -buff 
+opera-balet  
+opera-buff 
 operaçılıq  
-opera -dram  
-opera -əfsanə  
-opera -komediya  
-opera -kantata  
+opera-dram  
+opera-əfsanə  
+opera-komediya  
+opera-kantata  
 operalaşma  
-opera -nağıl  
-opera -oratoriya  
-opera -poema  operasevər  
+opera-nağıl  
+opera-oratoriya  
+opera-poema  
+operasevər  
 operasevərlik  
-operasi onalistik  
-operasionalizm ( fəls.) 
+operasionalistik  
+operasionalizm  
 operativ  
-operativ -istehsal  
+operativ-istehsal  
 operativlik  
 operator  
 operatorluq  
-opera -vodevil  
+opera-vodevil  
 operetta  
 opistorxoz  
 opium  
-opossum ( zool. ) 
-opoyaz ( ədəb. ) 
+opossum 
+opoyaz  
 opponent  
 opponentlik  
 opportunist  
 opportunistcəsinə  
 opportunistləşmə  
 opportunistləşmək  
-opport unizm  
-opsion ( iqt.) 
-optant ( hüq.) 
+opportunizm  
+opsion 
+optant 
 optasiya  
-optayp ( poliq. ) 
+optayp 
 optik  
 optika  
-optik -akustik  
-optik -analoji  
-optik -astronomik  
+optik-akustik  
+optik-analoji  
+optik-astronomik  
 optikator  
-optik -elektrik  
-optik -fotoqrafik  
-optik -kinetik  
-optik -qrafik  
-optik -radioastronomik  
+optik-elektrik  
+optik-fotoqrafik  
+optik-kinetik  
+optik-qrafik  
+optik-radioastronomik  
 optimal  
 optimallaşdırılma  
 optimallaşdırılmaq  
 optimallaşdırma   
-onkologiya  - optimallaşdırma    
- 483 opt ora ori 
 optimallaşdırmaq  
 optimallaşma  
 optimallaşmaq  
 optimallıq  
-optimat ( -lar) 
+optimat
 optimist  
 optimistcəsinə  
 optimistik  
@@ -55376,15 +55373,15 @@ optimizm
 optoelektronika  
 optometr  
 optometriya  
-optron, cihaz 
+optron 
 opus  
 ora 
 ora-bura 
 orada  
-orada -burada  
+orada-burada  
 oradaca  
 oradakı  
-oradan -buradan  
+oradan-buradan  
 orağabənzər  
 orağaoxşar  
 orakul  
@@ -55401,23 +55398,24 @@ oraqlı
 oraqşəkilli  
 oraqvari  
 oralı 
-oranjad, şirə 
-oranjereya  oranjereyalı  
+oranjad 
+oranjereya  
+oranjereyalı  
 oranqutan  
-oraon ( -lar) 
+oraon 
 orator  
-oratoriya ( mus.) 
+oratoriya 
 oraya  
 orbit  
 orbital  
-orbitin, element  
-orda ( tar.) 
+orbitin  
+orda  
 orden  
 ordenli  
 order  
 orderli  
 ordinar  
-ordinat ( riyaz. ) 
+ordinat 
 ordinator  
 ordinatorluq  
 ordinatura  
@@ -55428,28 +55426,29 @@ ordubaşılıq
 ordugah  
 orduluq  
 orduyaqədər hazırlıq  
-orfik ( -lər) 
-orfium ( bot.) 
+orfik  
+orfium  
 orfoepik  
 orfoepiya  
 orfofoniya  
 orfoqraf  
 orfoqrafik  
-orfoqrafik -qrammatik  
+orfoqrafik-qrammatik  
 orfoqrafiya  
-orfoqram ( dilç.) 
+orfoqram  
 orgiya  
 orijinal  
 orijinallıq  
-oriqami ( inc.) 
-orionid  orisfera  
+oriqami 
+orionid  
+orisfera  
 orisikl  
-oriya ( -lar) 
+oriya 
 oriyaca  
 oriyent  
 oriyental  
 oriyentalist  
-oriyental istika  
+oriyentalistika  
 oriyentalizm  
 oriyentasiya  
 oriyentasiyalı  
@@ -55476,17 +55475,15 @@ orqanel
 orqanetta  
 orqanik  
 orqanizm  
-orqanogen, süxur növü  
+orqanogen  
 orqanogenez  
 orqanoqrafik  
 orqanoqrafiya  
 orqanola  
 orqanologiya  
-orqanoterapiya  
-optimallaşdırmaq  - orqanoterapiya   
- 484 orq ort ort 
-orqanoid ( -lər) ( biol.)  
-orleançı ( -lar) 
+orqanoterapiya   
+orqanoid   
+orleançı   
 orlon  
 orman  
 ormanlı  
@@ -55506,13 +55503,13 @@ ornitoloq
 ornitonim  
 ornitopod  
 ornitopter  
-ornitoz ( -lar) ( tib.) 
-oroç ( -lar) 
+ornitoz  
+oroç  
 orogen 
 orogenez  
 orogenezis  
 oroqrafiya  
-oron ( -lar) 
+oron 
 oronim  
 oronimika  
 orta 
@@ -55525,7 +55522,8 @@ ortaboy
 ortaboylu  
 ortaçaplı  
 ortaçeşidli  
-ortaçətinlikli  ortadakı  
+ortaçətinlikli  
+ortadakı  
 ortadənəli  
 ortahündürlüklü dağ 
 ortaillik gəlir  
@@ -55556,16 +55554,17 @@ ortayaşlı
 ortayumşaq  
 ortikon  
 ortit 
-ortoborat, turşu  
+ortoborat  
 ortobromit  
 ortodoks  
 ortodoksal  
-ortodoksal -katolik  
+ortodoksal-katolik  
 ortodoksallıq  
 ortodokscasına  
 ortodoksiya  
 ortodoksluq  
-ortodontik  ortodontiya  
+ortodontik  
+ortodontiya  
 ortodromiya  
 ortoefir  
 ortoferrit  
@@ -55576,7 +55575,7 @@ ortohidrogen
 ortoxlorit  
 ortoxroma tik 
 ortoxromatizasiya  
-ortoklaz ( miner. ) 
+ortoklaz 
 ortokuzen  
 ortoqneys  
 ortoqonal  
@@ -55593,38 +55592,36 @@ ortosilikat
 oruc 
 orucağız  
 orucluq  
-oruclu -namazlı  
+oruclu-namazlı  
 oruc-namaz  
-osetin ( -lər) 
-oseti ncə 
-osk ( -lar) 
+osetin 
+osetincə 
+osk  
 oskca  
-osman ( zool. ) 
-osmanlı ( -lar) 
+osman 
+osmanlı  
 osmanlıca  
 osmium  
 osmoreseptor  
-osmos ( fiz.) 
-osmotik  
-orqanoid ( -lər) - osmotik   
- 485 oss otç ott 
+osmos  
+osmotik   
 ossiloqraf  
 ossiloskop  
 ossilyator  
 ossuari  
 osteoblast  
 osteoxondroz  
-osteoqrafiya ( anat. ) 
+osteoqrafiya 
 osteologiya  
-osteolo q 
+osteoloq 
 osteomalyasiya  
 osteomiyelit  
-ostoqot ( -lar) 
+ostoqot 
 ostrakizm  
 ostrakod  
 ostrakoderma  
-ostraqot ( -lar) 
-ostyak ( -lar) 
+ostraqot 
+ostyak 
 ot 
 otabənzər  
 otaq 
@@ -55648,7 +55645,8 @@ otartmaq
 otbağlayan  
 otbiçən  
 otbiti  
-otçalan  otçalımı  
+otçalan  
+otçalımı  
 otçevirən  
 ot-çiçək  
 otçu 
