@@ -17271,10 +17271,10 @@ dipol
 diprozop  
 dipsofobiya  
 dipsomaniya  
-diptix ( inc.) 
+diptix
 dirçəldilmə  
 dirçəldilmək  
-dirçələ -dirçələ  
+dirçələ-dirçələ  
 dirçələnmək  
 dirçəliş  
 dirçəlişli  
@@ -17288,24 +17288,22 @@ dir-dirrikli
 direksiya  
 direktiv  
 direktivli  
-direktiv -planlı  
+direktiv-planlı  
 direktor  
 direktoriya  
 direktorlu  
 direktorluq  
-direktorsuz      
-dingildəmə  - direktorsuz   
- 169 dir dir dis 
+direktorsuz       
 direktorsayağı  
 direktoryanı  
 dirə 
-dirədöymə,  oyun  
+dirədöymə 
 dirək  
 dirəkaltı  
 dirəkcik  
 dirəkcikaltı  
 dirəkcikli  
-dirəklənə -dirəklənə  
+dirəklənə-dirəklənə  
 dirəklənmə  
 dirəklənmək  
 dirəklətmə  
@@ -17318,7 +17316,7 @@ dirəkvari
 dirəkyanı  
 dirəmə  
 dirəmək  
-dirənə -dirənə  
+dirənə-dirənə  
 dirənmə  
 dirənmək  
 dirəşə-dirəşə  
@@ -17326,7 +17324,7 @@ dirəşmə
 dirəşmək  
 dirətmə  
 dirətmək  
-dirəyə -dirəyə  
+dirəyə-dirəyə  
 dirhəm  
 diri 
 diribaş  
@@ -17336,7 +17334,8 @@ diribaşlı
 diribaşlıq  
 diricə  
 diricəalaq  
-diricik  diriciyəz  
+diricik  
+diriciyəz  
 diri-diri 
 diridoğan  
 diridoğulan  
@@ -17346,7 +17345,7 @@ dirijabl
 dirijor  
 dirijorluq  
 dirildici  
-dirild ilmə 
+dirildilmə 
 dirildilmək  
 dirilik  
 dirilmə  
@@ -17363,7 +17362,7 @@ dirsəkaltı
 dirsəkcik  
 dirsəkləmə  
 dirsəkləmək  
-dirsəklənə -dirsəklənə  
+dirsəklənə-dirsəklənə  
 dirsəklənmə  
 dirsəklənmək  
 dirsəkləşmə  
@@ -17373,23 +17372,24 @@ dirsəklik
 dirsək şəkilli  
 dirsəküstü  
 dirsəyəbənzər  
-disaxarid ( kim.) 
+disaxarid 
 disbalans  
-disfoniya ( tib.) 
-disforiya   disfunksiya  
+disfoniya 
+disforiya
+disfunksiya  
 disharmonik  
 disharmoniklik  
 disharmoniya  
 disharmoniyalıq  
-disillab ( dilç.) 
-disinodont ( -lar) 
+disillab 
+disinodont 
 disk 
-diskant ( mus.) 
+diskant 
 disket  
 diskəbənzər  
 diskəoxşar  
 diskləmə  
-diskl əmək  
+diskləmək  
 disklənmə  
 disklənmək  
 diskli  
@@ -17398,7 +17398,7 @@ disko
 diskobol  
 diskoklub  
 diskoqrafiya  
-diskomeduza ( -lar) 
+diskomeduza 
 diskomfort  
 diskonform  
 diskont  
@@ -17412,13 +17412,11 @@ diskordant
 diskoteka  
 diskovod  
 diskrazit  
-diskred itasiya  
+diskreditasiya  
 diskrentlik  
-diskresion ( iqt.) 
+diskresion 
 diskresiya  
-diskret  
-direktorsayağı  - diskret    
- 170 dis dis diş 
+diskret 
 diskretizasiya  
 diskretləmə  
 diskretləmək  
@@ -17426,11 +17424,11 @@ diskretləşdirmə
 diskriminasiya  
 diskriminativ  
 disksiz  
-disksürən ( inform. ) 
+disksürən 
 diskşəkilli  
 disktutan  
 diskurs  
-diskur siv 
+diskursiv 
 diskussiya  
 diskvalifikasiya  
 diskvari  
@@ -17439,7 +17437,7 @@ disleksiya
 dislokasiya  
 dismimiya  
 dismorfofobiya  
-dispaç ( dəniz. ) 
+dispaç 
 dispanser  
 dispanserizasiya  
 dispanserizə  
@@ -17447,8 +17445,8 @@ dispanserləşdirilmə
 dispanserləşdirilmək  
 dispanserləşdirmə  
 dispanserləşdirmək  
-dispaşa ( iqt.) 
-dispens er 
+dispaşa 
+dispenser 
 dispepsiya  
 dispeptik  
 dispersant  
@@ -17459,8 +17457,9 @@ dispetçerləşdirilmək
 dispetçerləşdirmə  
 dispetçerləşdirmək  
 dispetçerlik  
-displaziya ( tib.) displey  
-disponent ( iqt.) 
+displaziya 
+displey  
+disponent 
 dispozisiya  
 dispozitiv  
 disproporsiya  
@@ -17478,7 +17477,7 @@ dissimilyativ
 dissimilyator  
 dissonans  
 dissosiasiya  
-distansiometr ( idm.) 
+distansiometr 
 distansiya  
 distant  
 disterioz  
@@ -17489,17 +17488,18 @@ distilyator
 distraksiya  
 distribusiya  
 distributiv  
-distributivlik ( dilç.) 
+distributivlik 
 distribütor  
 distrofik  
 distrofiya  
 distrofiyalı  
-disulfid ( -lər) 
+disulfid 
 diş 
 dişaçan  
 dişaçma  
 dişağardan  
-dişağartma  dişaltı  
+dişağartma  
+dişaltı  
 dişarası  
 dişarxası  
 dişbatan  
@@ -17511,22 +17511,22 @@ dişçəkən
 dişçəkmə  
 diş-çənə 
 dişçıxaran  
-dişçıx arma  
+dişçıxarma  
 dişçi  
 dişçöpü  
 diş-damaq  
 dişdaşı  
-dişdək, alət 
-dişdək -dişdək  
+dişdək 
+dişdək-dişdək  
 dişdəyişmə  
 diş-dırnaq  
 dişdibi  
 diş-diş 
 diş-dodaq  
 dişəbənzər  
-dişədəyər, yeməli  
+dişədəyər  
 dişək  
-dişək -dişək etmək  
+dişək-dişək etmək  
 dişəkləmə  
 dişəkləmək  
 dişəkli  
@@ -17540,8 +17540,6 @@ dişərmək
 dişərti 
 dişətdirmə  
 dişətdirmək   
-diskretizasiya  - dişətdirmək    
- 171 diş diş div 
 dişətmə  
 dişətmək  
 dişgöynədici  
@@ -17560,11 +17558,11 @@ dişqoyan
 dişqoyma  
 dişqozu  
 dişqurdalayan  
-dişqurtlayan ( bot.) 
+dişqurtlayan  
 dişlək  
-dişlək -dişlək  
+dişlək-dişlək  
 dişləm  
-dişləm -dişləm  
+dişləm-dişləm  
 dişləmə  
 dişləmək  
 dişləmlik  
@@ -17572,7 +17570,7 @@ dişlənmə
 dişlənmək  
 dişlətmə  
 dişlətmək  
-dişləyə -dişləyə  
+dişləyə-dişləyə  
 dişli 
 dişlilik  
 dişotu  
@@ -17580,22 +17578,23 @@ dişölçən
 dişpardaqlama  
 dişpardaqlayan  
 dişsiz  
-dişsiz -dişsiz  
+dişsiz-dişsiz  
 dişsizlik  
-diştəmizləyən   diştökən  
+diştəmizləyən   
+diştökən  
 diştökmə  
 dişüstü  
 dişyanı  
 dişyonan  
 dişyonma  
-dittologiya ( dilç.) 
-diuretik ( -lər) 
-diurez ( tib.) 
+dittologiya  
+diuretik  
+diurez 
 div 
 divan  
-divanbəyi ( tar.) 
+divanbəyi 
 divanbəyilik  
-divan -çarpayı  
+divan-çarpayı  
 divanə  
 divanəcəsinə  
 divanələnmə  
@@ -17604,7 +17603,7 @@ divanələşmə
 divanələşmək  
 divanəlik  
 divanxana  
-divan -kreslo  
+divan-kreslo  
 divanlıq 
 divanüstü  
 divar  
@@ -17622,18 +17621,19 @@ divaruzunu
 divarüstü  
 divcik  
 divergensiya  
-divergent  diversant  
+divergent  
+diversant  
 diversantlıq  
 diversifikasiya  
 diversiya  
 diversiyaçı  
-diversiyaçı -kəşfiyyatç ı 
-diversiya -kəşfiyyat  
+diversiyaçı-kəşfiyyatçı 
+diversiya-kəşfiyyat  
 divertisment  
 divgövdə  
 divgövdəli  
 divgövdəlik  
-dividend ( iqt.) 
+dividend 
 divinil  
 divizion  
 diviziya  
@@ -17642,7 +17642,7 @@ diviziyasız
 divqılıq  
 diyar  
 diyarbadiyar  
-diyar -diyar  
+diyar-diyar  
 diyarşünas  
 diyarşünaslıq  
 diyerez  
@@ -17651,35 +17651,33 @@ diyetik
 diyetologiya  
 diyetoloq  
 diyetoterapiya  
-diyez ( mus.) 
+diyez 
 diyezli  
 diyezsiz  
 diyin  
 diyircək  
 diyircəkli  
 diyircəksiz  
-diyirlədə -diyirlədə  
+diyirlədə-diyirlədə  
 diyirlədici  
 diyirlək  
 diyirləkli  
-diyirləksiz  
-dişətmə  - diyirləksiz    
- 172 diy diz dod 
+diyirləksiz   
 diyirləmə  
 diyirləmək  
 diyirləndirmə  
 diyirləndirmək  
-diyirlənə -diyirlənə  
+diyirlənə-diyirlənə  
 diyirl ənmə  
 diyirlənmək  
 diyirlətmə  
 diyirlətmək  
-diyirləyə -diyirləyə  
+diyirləyə-diyirləyə  
 diz 
-dizajio ( iqt.) 
+dizajio 
 dizaltı  
 dizadaptasiya  
-dizartriya ( tib.) 
+dizartriya 
 dizayn  
 dizayner   
 dizaynerlik  
@@ -17691,26 +17689,27 @@ dizcik
 dizcikli  
 dizciksiz  
 diz-dizə 
-dizdonu ( etn.) 
+dizdonu 
 dizel  
-dizel -aqreqat  
-dizel -çəkic  
+dizel-aqreqat  
+dizel-çəkic  
 dizelçi  
-dizel -elektrik  
-dizel -elektrovoz  
-dizel -generator  
-dizel -qatar  
+dizel-elektrik  
+dizel-elektrovoz  
+dizel-generator  
+dizel-qatar  
 dizelqayırma   
 dizelli  
-dizel -motor  
-dizel -motorlu  
-dizel -motorsuz  
-dizelsiz  dizenteriya  
+dizel-motor  
+dizel-motorlu  
+dizel-motorsuz  
+dizelsiz  
+dizenteriya  
 dizenteriyalı  
 dizgin  
 dizilmə  
 dizilmək  
-dizin -dizin  
+dizin-dizin  
 dizqapaqaltı  
 dizqapaqönü  
 dizləmə  
@@ -17718,13 +17717,13 @@ dizləmək
 dizlik  
 dizlikli  
 dizliksiz  
-dizmarı, üzüm  (məh. ) 
+dizmarı 
 dizotu  
 dizüstü  
 dizyanı  
 dizyunksiya  
 dizyunktiv  
-do (mus.) 
+do 
 dodağabənzər  
 dodağaoxşar  
 dodağıqalın  
@@ -17735,19 +17734,20 @@ dodağıyoğunluq
 dodaq  
 dodaqaltı  
 dodaqarası  
-dodaqayaqlı ( -lar) 
+dodaqayaqlı 
 dodaqbadodaq  
 dodaqbüzən  
 dodaqbüzmə  
 dodaqcıq  
-dodaqçiçəkli ( -lər) 
-dodaq -damaq  
+dodaqçiçəkli 
+dodaq-damaq  
 dodaqdəyməz  
-dodaq -dodağa  
+dodaq-dodağa  
 dodaqlama  
-dodaqlanan ( dilç.) dodaqlanma  
+dodaqlanan
+dodaqlanma  
 dodaqlanmaq  
-dodaqlanmayan ( dilç.) 
+dodaqlanmayan 
 dodaqlaşma  
 dodaqlaşmaq  
 dodaqlı  
@@ -17755,12 +17755,12 @@ dodaqlıq
 dodaqsız  
 dodaqşəkilli  
 dodaqucu  
-dodekaedr ( riyaz. ) 
-dodekaf oniya ( mus.) 
+dodekaedr 
+dodekafoniya 
 dodekan  
-dodu, məzəli rəqs  
-dodu -dodu oynamaq  
-doğal, təbii 
+dodu  
+dodu-dodu oynamaq  
+doğal 
 doğan  
 doğanaq  
 doğanaqlama  
@@ -17777,7 +17777,7 @@ doğmalaşdırmaq
 doğmalaşma  
 doğmalaşmaq  
 doğmalıq  
-doğma -ögey  
+doğma-ögey  
 doğram  
 doğrama  
 doğramac  
@@ -17785,10 +17785,8 @@ doğramaclıq
 doğramaçı  
 doğramaçılıq  
 doğramaq  
-doğram -doğram  
-diyirləmə  - doğram -doğram     
- 173 doğ doğ doq 
-doğrana -doğrana  
+doğram-doğram  
+doğrana-doğrana  
 doğranılma  
 doğranılmaq  
 doğranma  
@@ -17798,18 +17796,18 @@ doğratdırma
 doğratdırmaq  
 doğratma  
 doğratmaq  
-doğraya -doğraya  
+doğraya-doğraya  
 doğrayıcı  
 doğru 
 doğruca  
 doğruçu  
 doğruçuluq  
 doğrudan  
-doğrudan -doğruya  
-doğru -dürüst  
-doğru -dürüstlük  
-doğru -düzgün  
-doğru -düzgünlük  
+doğrudan-doğruya  
+doğru-dürüst  
+doğru-dürüstlük  
+doğru-düzgün  
+doğru-düzgünlük  
 doğrulama  
 doğrulamaq  
 doğrulanma  
@@ -17824,12 +17822,13 @@ doğrusu
 doğruyabənzər  
 doğruyaoxşar  
 doğu 
-doğub -törəmə  
-doğub -törəmək  
-doğub -törəməz  
+doğub-törəmə  
+doğub-törəmək  
+doğub-törəməz  
 doğulma  
-doğulmaq  doğulub -törənmə  
-doğulub -törənmək  
+doğulmaq
+doğulub-törənmə  
+doğulub-törənmək  
 doğuluş  
 doğum  
 doğumdansonrakı  
@@ -17840,16 +17839,16 @@ doğurmaq
 doğuş  
 doğuşaqədər  
 doğuşqabağı  
-doğuşdan -doğuşa  
+doğuşdan-doğuşa  
 doğuşdansonrakı  
 doğuzdurma  
 doğuzdurmaq  
-doğuzdurul maq 
+doğuzdurulmaq 
 doxsan  
-doxsanıncı, 90 -cı, XC  
+doxsanıncı  
 doxsanillik  
 doxsanyaşlı  
-dok ( dəniz. ) 
+dok 
 dokçu  
 doker  
 doktor  
@@ -17859,7 +17858,7 @@ doktorluq
 doktrina  
 doktrinyor  
 doktrinyorluq  
-dokumentonim ( dilç.) 
+dokumentonim 
 doqqaz  
 doqqazça  
 doqqazkəsmə  
@@ -17868,7 +17867,8 @@ doqqazlamaq
 doqqazlanma  
 doqqazlanmaq  
 doqqazlı  
-doqqazsız   doqquz  
+doqqazsız   
+doqquz  
 doqquzadamlıq  
 doqquzaylıq  
 doqquzbucaq  
@@ -17876,9 +17876,9 @@ doqquzbucaqlı
 doqquzca  
 doqquzcildli  
 doqquzcildlik  
-doqquz -doqquz  
-doqquzdon ( bot.) 
-doqquzdonkimi ( -lər) 
+doqquz-doqquz  
+doqquzdon 
+doqquzdonkimi 
 doqquzdüymə  
 doqquzdüyməli  
 doqquzgünlük  
@@ -17886,14 +17886,14 @@ doqquzhissəli
 doqquzillik  
 doqquzqat  
 doqquzqatlı  
-doqqu zlitrlik  
+doqquzlitrlik  
 doqquzluq  
 doqquzmərtəbə  
 doqquzmərtəbəli  
 doqquzrəqəmli  
 doqquzrəqəmlik  
 doqquzsinifli  
-doqquzuncu, 9 -cu, IX  
+doqquzuncu  
 doqquzyaşlı  
 doqma  
 doqmaçı   
@@ -17905,19 +17905,17 @@ doqmatiklik
 doqmatizm  
 doqmatlaşdırma  
 doqmatlaşdırmaq  
-dol, tuluq  
+dol  
 dolab  
 dolabça  
 dolabçı    
-doğrana -doğrana  - dolabçı  
- 174 dol dol dol 
 dolabçılıq  
 dolablı  
 dolabsız  
-dolağac ( xalç. ) 
+dolağac 
 dolaq  
 dolaqardı  
-dolaq -dolaq  
+dolaq-dolaq  
 dolaqçı  
 dolaqlama  
 dolaqlamaq  
@@ -17930,15 +17928,15 @@ dolam
 dolama  
 dolamac  
 dolamaçarx  
-dolama -dolama  
+dolama-dolama  
 dolamaq  
-dolam -dolam  
-dolam -dolaşıq  
-dolam -dolaşıqlıq  
+dolam-dolam  
+dolam-dolaşıq  
+dolam-dolaşıqlıq  
 dolanacaq  
 dolanacaqlı  
 dolanacaqsız  
-dolana -dolana  
+dolana-dolana  
 dolanbac  
 dolanbacı  
 dolanbaclı  
@@ -17951,35 +17949,36 @@ dolandırma
 dolandırmaq  
 dolanış  
 dolanışacaq  
-dolanışıq  dolanışıq lı 
+dolanışıq  
+dolanışıqlı 
 dolanışıqsız  
 dolanma  
 dolanmaq  
-dolaşa (zool. ) 
-dolaşa -dolaşa  
-dolaşdıra -dolaşdıra  
+dolaşa 
+dolaşa-dolaşa  
+dolaşdıra-dolaşdıra  
 dolaşdırılma  
 dolaşdırılmaq  
 dolaşdırma  
 dolaşdırmaq  
-dolaş -dolaş  
+dolaş-dolaş  
 dolaşıq  
 dolaşıqlı  
 dolaşıqlıq  
 dolaşma  
 dolaşmaq  
 dolay  
-dolaya -dolaya  
+dolaya-dolaya  
 dolayı  
 dolayıcı  
-dolayı -dolayı  
+dolayı-dolayı  
 dolayısına  
-dolay lama  
+dolaylama  
 dolaylamaq  
-dolbənd ( etn.) 
+dolbənd 
 dolça  
 dolçalı  
-doldura -doldura  
+doldura-doldura  
 doldurma  
 doldurmaq  
 doldurtma  
@@ -17991,9 +17990,10 @@ doldurum
 doldurumluq  
 dolğu  
 dolğun  
-dolğunbədən  dolğunbədənli  
+dolğunbədən  
+dolğunbədənli  
 dolğundodaq  
-dolğundodaql ı 
+dolğundodaqlı 
 dolğunlaşdırıcı  
 dolğunlaşdırma  
 dolğunlaşdırmaq  
@@ -18006,7 +18006,7 @@ dolğunsəsli
 dolğunsifət  
 dolğunsifətli  
 dolğunvücudlu  
-dolğunyaruslu ( bot.) 
+dolğunyaruslu  
 dolhadol  
 dolhadolda  
 dollar  
@@ -18019,26 +18019,24 @@ dolma
 dolmaq  
 dolmalıq  
 dolomit  
-dolomitləşmə ( geol. ) 
+dolomitləşmə
 dolomitləşmək  
 dolu 
-dolub -boşalma  
-dolub -boşalmaq  
-dolub -daşma  
+dolub-boşalma  
+dolub-boşalmaq  
+dolub-daşma  
 dolubədən  
 dolubədənli  
 dolubədənlik  
-dolubuynuzlu ( -lar) 
+dolubuynuzlu 
 doluca  
 doludağıdan  
-dolu-dolu 
-dolabçılıq  - dolu-dolu       
- 175 dol dom don 
+dolu-dolu  
 doludöymə  
-doluxa -doluxa  
+doluxa-doluxa  
 doluxma  
 doluxmaq  
-doluxsuna -doluxsuna  
+doluxsuna-doluxsuna  
 doluxsunma  
 doluxsunmaq  
 doluqanlı  
@@ -18054,7 +18052,7 @@ doluyanaq
 doluyanaqlı  
 doluyanaqlıq  
 do-major  
-domatofobiya ( psix.) 
+domatofobiya 
 domba  
 dombagöz  
 dombagözlü  
@@ -18069,16 +18067,17 @@ dombalan
 dombalangöz  
 dombalangözlü  
 dombalangözlük  
-dombalankök ( bot.) 
+dombalankök  
 dombalanlı  
 dombalıq  
 dombalma  
 dombalmaq  
-dombaltma  dombaltmaq  
+dombaltma  
+dombaltmaq  
 dombra  
 dombraçı  
 domca  
-domca -çıraq  
+domca-çıraq  
 domcalama  
 domcalamaq  
 domcal anma  
@@ -18086,33 +18085,33 @@ domcalanmaq
 domen  
 dominant  
 dominantlıq  
-dominat, rejim  
+dominat  
 domino  
 dominoçu  
-do-minor ( mus.) 
-domisil ( iqt.) 
+do-minor 
+domisil 
 domisiliat  
 domkrat  
 domna  
 domnaçı  
 domofon  
-domra ( mus.) 
+domra 
 domraçı  
-domuşa -domuşa  
+domuşa-domuşa  
 domuşma  
 domuşmaq  
 domuşuq  
 don 
 donaçma  
-dona -dona  
+dona-dona  
 donanma  
 donanmaçı  
-donatdır ma 
+donatdırma 
 donatdırmaq  
 donatma  
 donatmaq  
 donbağı  
-dondan -dona girmək  
+dondan-dona girmək  
 dondurma  
 dondurmaçı  dondurmaçılıq  
 dondurmaq  
