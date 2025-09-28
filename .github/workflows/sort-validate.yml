@@ -107,20 +107,3 @@ jobs:
 
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
-
-      # 6️⃣ Auto-commit changes
-      - name: Auto-commit & push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add data/subjects/*/terms.json glossary/*.md
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto-sort & update validated JSON and glossary"
-            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-            git push origin HEAD
-            echo "✔️ Changes committed & pushed."
-          else
-            echo "ℹ️ No changes to commit."
-          fi
