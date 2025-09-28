@@ -1,8 +1,8 @@
 [
   {
-    "english": "Derivative",
-    "azerbaijani": "Törəmə",
-    "category": "Calculus"
+    "english": "Determinant",
+    "azerbaijani": "Determinant",
+    "category": "Algebra"
   },
   {
     "english": "Matrix",
@@ -10,9 +10,14 @@
     "category": "Algebra"
   },
   {
-    "english": "Probability",
-    "azerbaijani": "Ehtimal",
-    "category": "Statistics"
+    "english": "Vector",
+    "azerbaijani": "Vektor",
+    "category": "Algebra"
+  },
+  {
+    "english": "Derivative",
+    "azerbaijani": "Törəmə",
+    "category": "Calculus"
   },
   {
     "english": "Integral",
@@ -20,13 +25,8 @@
     "category": "Calculus"
   },
   {
-    "english": "Vector",
-    "azerbaijani": "Vektor",
-    "category": "Algebra"
-  },
-  {
-    "english": "Determinant",
-    "azerbaijani": "Determinant",
-    "category": "Algebra"
+    "english": "Probability",
+    "azerbaijani": "Ehtimal",
+    "category": "Statistics"
   }
 ]
