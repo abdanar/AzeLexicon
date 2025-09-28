@@ -1,17 +1,22 @@
 [
-  {
-    "english": "Velocity",
-    "azerbaijani": "Sürət",
-    "category": "Mechanics"
-  },
-  {
-    "english": "Refraction",
-    "azerbaijani": "Qırılma",
-    "category": "Optics"
-  },
-  {
-    "english": "Acceleration",
-    "azerbaijani": "Sürətlənmə",
-    "category": "Mechanics"
-  }
+  {"category": "Mechanics", "english": "Force", "azerbaijani": "Qüvvə"},
+  {"category": "Electromagnetism", "english": "Electric Field", "azerbaijani": "Elektrik Sahəsi"},
+  {"category": "Optics", "english": "Refraction", "azerbaijani": "Qırılma"},
+  {"category": "Quantum Mechanics", "english": "Wavefunction", "azerbaijani": "Dalğa Funksiyası"},
+  {"category": "Thermodynamics", "english": "Entropy", "azerbaijani": "Entropiya"},
+  {"category": "Mechanics", "english": "Momentum", "azerbaijani": "Tormozluq"},
+  {"category": "Relativity", "english": "Time Dilation", "azerbaijani": "Zamanın Uzanması"},
+  {"category": "Electromagnetism", "english": "Magnetic Field", "azerbaijani": "Maqnit Sahəsi"},
+  {"category": "Optics", "english": "Lens", "azerbaijani": "Linza"},
+  {"category": "Quantum Mechanics", "english": "Superposition", "azerbaijani": "Superpozisiya"},
+  {"category": "Thermodynamics", "english": "Heat Capacity", "azerbaijani": "İstilik Tutumu"},
+  {"category": "Mechanics", "english": "Acceleration", "azerbaijani": "Sürətlənmə"},
+  {"category": "Relativity", "english": "Mass-Energy Equivalence", "azerbaijani": "Kütlə-Enerji Ekvivalentliyi"},
+  {"category": "Electromagnetism", "english": "Inductance", "azerbaijani": "İnduktivlik"},
+  {"category": "Optics", "english": "Diffraction", "azerbaijani": "Difraksiya"},
+  {"category": "Quantum Mechanics", "english": "Entanglement", "azerbaijani": "Dolanma"},
+  {"category": "Thermodynamics", "english": "Temperature", "azerbaijani": "Temperatura"},
+  {"category": "Mechanics", "english": "Torque", "azerbaijani": "Moment"},
+  {"category": "Relativity", "english": "Length Contraction", "azerbaijani": "Uzunluğun Qısalması"},
+  {"category": "Electromagnetism", "english": "Capacitance", "azerbaijani": "Kapasitans"}
 ]

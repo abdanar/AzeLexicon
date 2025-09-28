@@ -1,27 +1,22 @@
 [
-  {
-    "english": "Determinant",
-    "azerbaijani": "Determinant",
-    "category": "Algebra"
-  },
-  {
-    "english": "Matrix",
-    "azerbaijani": "Matrisa",
-    "category": "Algebra"
-  },
-  {
-    "english": "Vector",
-    "azerbaijani": "Vektor",
-    "category": "Algebra"
-  },
-  {
-    "english": "Derivative",
-    "azerbaijani": "Törəmə",
-    "category": "Calculus"
-  },
-  {
-    "english": "Integral",
-    "azerbaijani": "İnteqral",
-    "category": "Calculus"
-  }
+  {"category": "Algebra", "english": "Matrix", "azerbaijani": "Matris"},
+  {"category": "Calculus", "english": "Derivative", "azerbaijani": "Törəmə"},
+  {"category": "Geometry", "english": "Triangle", "azerbaijani": "Üçbucaq"},
+  {"category": "Statistics", "english": "Variance", "azerbaijani": "Dispersiya"},
+  {"category": "Arithmetic", "english": "Fraction", "azerbaijani": "Kəsr"},
+  {"category": "Algebra", "english": "Polynomial", "azerbaijani": "Çoxhədli"},
+  {"category": "Calculus", "english": "Integral", "azerbaijani": "İnteqral"},
+  {"category": "Statistics", "english": "Mean", "azerbaijani": "Orta"},
+  {"category": "Geometry", "english": "Circle", "azerbaijani": "Dairə"},
+  {"category": "Arithmetic", "english": "Percentage", "azerbaijani": "Faiz"},
+  {"category": "Algebra", "english": "Equation", "azerbaijani": "Tənlik"},
+  {"category": "Calculus", "english": "Limit", "azerbaijani": "Həddi"},
+  {"category": "Statistics", "english": "Median", "azerbaijani": "Mediana"},
+  {"category": "Geometry", "english": "Square", "azerbaijani": "Kvadrat"},
+  {"category": "Arithmetic", "english": "Decimal", "azerbaijani": "Ondalıq"},
+  {"category": "Algebra", "english": "Variable", "azerbaijani": "Dəyişən"},
+  {"category": "Calculus", "english": "Gradient", "azerbaijani": "Qradient"},
+  {"category": "Statistics", "english": "Mode", "azerbaijani": "Moda"},
+  {"category": "Geometry", "english": "Polygon", "azerbaijani": "Çoxbucaq"},
+  {"category": "Arithmetic", "english": "Ratio", "azerbaijani": "Nisbət"}
 ]
