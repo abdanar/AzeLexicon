@@ -111,12 +111,18 @@ jobs:
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
       - name: Auto-commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🔄 Auto-update validated JSON and glossary"
-          file_pattern: |
-            data/subjects/*/terms.json
-            glossary/*.md
-          verbose: true
-      - name: Pull latest main
-        run: git pull --rebase origin main
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          # Stage only updated terms.json and markdown files
+          git add data/subjects/*/terms.json glossary/*.md
+
+          # Check if there are any changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "🔄 Auto-update validated JSON and glossary"
+            # Push changes back to the main branch
+            git push origin main
+          else
+            echo "ℹ️ No changes to commit"
+          fi
