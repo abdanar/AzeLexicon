@@ -64,3 +64,5 @@ if errors:
     print("⚠️ Warnings / skipped entries:")
     for e in errors:
         print(f" - {e}")
+    print("❌ Validation failed. Please fix duplicates or invalid categories.")
+    sys.exit(1)

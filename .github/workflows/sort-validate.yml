@@ -66,7 +66,7 @@ jobs:
           export -f run_subject
           export fail_file
 
-          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -n1 -P4 -I{} bash -c 'run_subject "$@"' _ {}
+          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'run_subject "$@"' _ {}
 
           if [ -s "$fail_file" ]; then
             echo "❌ Some subjects failed validation:"
@@ -87,7 +87,7 @@ jobs:
             local subject_name
             subject_name=$(basename "$subject")
             echo "::group::➡️ Generating Markdown for $subject_name"
-            python data/scripts/generate_markdown.py "$subject"
+            python -u data/scripts/generate_markdown.py "$subject" || exit 1
             echo "✔️ Markdown generated for $subject_name"
             echo "::endgroup::"
           }
