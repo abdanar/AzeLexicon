@@ -19,6 +19,8 @@ jobs:
       # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2️⃣ Setup Python
       - name: Setup Python
@@ -111,11 +113,12 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add data/subjects/*/terms.json
+          git add data/subjects/*/terms.json glossary/*.md
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-sort & validate terms.json"
+            git commit -m "Auto-sort & update validated JSON and glossary"
             git push origin HEAD
-            echo "✔️ Changes committed and pushed."
           else
             echo "ℹ️ No changes to commit."
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
