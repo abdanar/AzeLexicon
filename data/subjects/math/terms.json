@@ -1,8 +1,18 @@
 [
   {
-    "english": "Addition",
-    "azerbaijani": "Toplama",
-    "category": "Arithmetic"
+    "english": "Integral",
+    "azerbaijani": "İnteqral",
+    "category": "Calculus"
+  },
+  {
+    "english": "Matrix",
+    "azerbaijani": "Matrisa",
+    "category": "Algebra"
+  },
+  {
+    "english": "Triangle",
+    "azerbaijani": "Üçbucaq",
+    "category": "Geometry"
   },
   {
     "english": "Derivative",
@@ -10,28 +20,33 @@
     "category": "Calculus"
   },
   {
-    "english": "Integral",
-    "azerbaijani": "İnteqral",
-    "category": "Calculus"
+    "english": "Probability",
+    "azerbaijani": "Ehtimal",
+    "category": "Statistics"
   },
   {
-    "english": "Matrix",
-    "azerbaijani": "Matris",
+    "english": "Algebraic Equation",
+    "azerbaijani": "Cəbr tənliyi",
     "category": "Algebra"
   },
   {
-    "english": "Subtraction",
-    "azerbaijani": "Çıxma",
+    "english": "Matrix",
+    "azerbaijani": "Matrisa",
+    "category": "Algebra"
+  },
+  {
+    "english": "Circle",
+    "azerbaijani": "Dairə",
+    "category": "Geometry"
+  },
+  {
+    "english": "Summation",
+    "azerbaijani": "Cəmləmə",
     "category": "Arithmetic"
   },
   {
-    "english": "Subtraction",
-    "azerbaijani": "Çıxma",
-    "category": "Arithmetic"
-  },
-  {
-    "english": "Subtraction",
-    "azerbaijani": "Çıxma",
-    "category": "Arithmetic"
+    "english": "Variance",
+    "azerbaijani": "Dispersiya",
+    "category": "Statistics"
   }
 ]
