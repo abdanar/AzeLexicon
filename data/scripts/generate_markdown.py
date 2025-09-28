@@ -7,9 +7,11 @@ subject_name = os.path.basename(subject_dir)
 terms_file = os.path.join(subject_dir, "terms.json")
 
 # Ensure glossary folder is relative to repo root
-repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+repo_root = os.getcwd()
 md_dir = os.path.join(repo_root, "glossary")
 os.makedirs(md_dir, exist_ok=True)
+print(f"📁 Using glossary folder: {md_dir}")
+
 md_file = os.path.join(md_dir, f"{subject_name}.md")
 
 # Check if JSON exists
