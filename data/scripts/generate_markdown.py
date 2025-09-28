@@ -13,6 +13,10 @@ if not os.path.isfile(terms_file):
     print(f"⚠️ No terms.json found for {subject_name}, skipping...")
     sys.exit(0)
 
+if os.path.getsize(terms_file) == 0:
+    print(f"⚠️ {terms_file} is empty, skipping...")
+    sys.exit(0)
+
 with open(terms_file, "r", encoding="utf-8") as f:
     terms = json.load(f)
 
