@@ -12,10 +12,48 @@ A comprehensive collection of Azerbaijani words in plain text format, designed a
 ```text
 azerbaijani-words/
 ├── data/
-│   |── azerbaijani-words.txt
-|   └── azerbaijani-hyph.txt
-├── LICENSE
-└── README.md
+│   ├── general/
+│   │   ├── azerbaijani-words.txt          # legacy/general vocabulary
+│   │   └── hyphenation.txt                # hyphenation rules
+│   │
+│   └── subjects/                           # all specialized subjects
+│       ├── math/
+│       │   ├── terms.json                  # math glossary (alphabetically sorted)
+│       │   ├── categories.json             # allowed math categories
+│       │   └── scripts/
+│       │       └── sort_validate.py        # sorting + validation script
+│       │
+│       ├── physics/
+│       │   ├── terms.json                  # placeholder for physics terms
+│       │   ├── categories.json             # allowed physics categories
+│       │   └── scripts/
+│       │       └── sort_validate.py        # optional, can reuse math script
+│       │
+│       ├── computer-science/
+│       │   ├── terms.json
+│       │   ├── categories.json
+│       │   └── scripts/
+│       │       └── sort_validate.py
+│       │
+│       ├── chemistry/
+│       │   ├── terms.json
+│       │   ├── categories.json
+│       │   └── scripts/
+│       │       └── sort_validate.py
+│       │
+│       └── biology/
+│           ├── terms.json
+│           ├── categories.json
+│           └── scripts/
+│               └── sort_validate.py
+│
+├── .github/
+│   └── workflows/
+│       └── sort-validate.yml              # GitHub Action to auto-sort and validate all subjects
+│
+├── LICENSE                                  # e.g., MIT or CC-BY
+├── README.md                                # project overview & contribution instructions
+└── CONTRIBUTING.md                          # how to contribute terms
 ```
 
 ## Current Status

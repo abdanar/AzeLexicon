@@ -1,0 +1,27 @@
+[
+  {
+    "english": "Addition",
+    "azerbaijani": "Toplama",
+    "category": "Arithmetic"
+  },
+  {
+    "english": "Derivative",
+    "azerbaijani": "Törəmə",
+    "category": "Calculus"
+  },
+  {
+    "english": "Integral",
+    "azerbaijani": "İnteqral",
+    "category": "Calculus"
+  },
+  {
+    "english": "Matrix",
+    "azerbaijani": "Matris",
+    "category": "Algebra"
+  },
+  {
+    "english": "Subtraction",
+    "azerbaijani": "Çıxma",
+    "category": "Arithmetic"
+  }
+]

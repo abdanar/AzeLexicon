@@ -1,0 +1,114 @@
+name: 🛠 Automated Term Standardization
+
+# Trigger workflow on push or pull request for subject JSON files
+on:
+  push:
+    paths:
+      - "data/subjects/**"
+  pull_request:
+    paths:
+      - "data/subjects/**"
+
+jobs:
+  validate-sort-generate:
+    name: Validate, Sort & Generate Glossary
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # 1️⃣ Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2️⃣ Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+
+      # 4️⃣ Run validation & sort per subject (parallel & logs)
+      - name: Run validation & sorting
+        run: |
+          set -euo pipefail
+          echo "➡️ Running validate & sort scripts for all subjects..."
+          mkdir -p logs
+          fail_file=$(mktemp)
+          touch "$fail_file"
+
+          run_subject() {
+            local subject="$1"
+            local subject_name
+            subject_name=$(basename "$subject")
+            local script="$subject/scripts/sort_validate.py"
+            local log_file="logs/${subject_name}_sort_validate.log"
+
+            if [ -f "$script" ]; then
+              echo "➡️ Processing $subject_name..."
+              if python "$script" "$subject" > "$log_file" 2>&1; then
+                echo "✔️ $subject_name processed successfully."
+              else
+                echo "❌ Validation failed for $subject_name. See log: $log_file"
+                echo "$subject_name" >> "$fail_file"
+              fi
+            else
+              echo "⚠️ No sort_validate.py found for $subject_name, skipping..."
+            fi
+          }
+          export -f run_subject
+          export fail_file
+
+          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -n1 -P4 -I{} bash -c 'run_subject "$@"' _ {}
+
+          if [ -s "$fail_file" ]; then
+            echo "❌ Some subjects failed validation:"
+            cat "$fail_file"
+            exit 1
+          else
+            echo "✔️ All subjects validated and sorted successfully!"
+          fi
+
+      # 5️⃣ Generate Markdown glossary (parallel)
+      - name: Generate Markdown Glossary
+        run: |
+          set -euo pipefail
+          mkdir -p glossary
+
+          generate_md() {
+            local subject="$1"
+            local subject_name
+            subject_name=$(basename "$subject")
+            echo "::group::➡️ Generating Markdown for $subject_name"
+            python data/scripts/generate_markdown.py "$subject"
+            echo "✔️ Markdown generated for $subject_name"
+            echo "::endgroup::"
+          }
+
+          export -f generate_md
+          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | \
+          xargs -n1 -P4 -I{} bash -c 'generate_md "$@"' _ {}
+
+      # 6️⃣ Auto-commit changes
+      - name: Auto-commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          # Stage only terms.json and glossary files
+          git add data/subjects/*/terms.json glossary/*.md
+
+          # Commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-sort & update validated JSON and glossary"
+            echo "✔️ Changes committed."
+          else
+            echo "ℹ️ No changes to commit."
+          fi
