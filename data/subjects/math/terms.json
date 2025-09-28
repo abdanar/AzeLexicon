@@ -1,8 +1,8 @@
 [
   {
-    "english": "Algebraic Equation",
-    "azerbaijani": "Cəbr tənliyi",
-    "category": "Algebra"
+    "english": "Derivative",
+    "azerbaijani": "Törəmə",
+    "category": "Calculus"
   },
   {
     "english": "Matrix",
@@ -10,23 +10,23 @@
     "category": "Algebra"
   },
   {
-    "english": "Derivative",
-    "azerbaijani": "Törəmə",
-    "category": "Calculus"
-  },
-  {
-    "english": "Circle",
-    "azerbaijani": "Dairə",
-    "category": "Geometry"
-  },
-  {
-    "english": "Triangle",
-    "azerbaijani": "Üçbucaq",
-    "category": "Geometry"
-  },
-  {
     "english": "Probability",
     "azerbaijani": "Ehtimal",
     "category": "Statistics"
+  },
+  {
+    "english": "Integral",
+    "azerbaijani": "İnteqral",
+    "category": "Calculus"
+  },
+  {
+    "english": "Vector",
+    "azerbaijani": "Vektor",
+    "category": "Algebra"
+  },
+  {
+    "english": "Determinant",
+    "azerbaijani": "Determinant",
+    "category": "Algebra"
   }
 ]
