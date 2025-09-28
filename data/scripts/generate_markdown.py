@@ -17,8 +17,12 @@ if os.path.getsize(terms_file) == 0:
     print(f"⚠️ {terms_file} is empty, skipping...")
     sys.exit(0)
 
-with open(terms_file, "r", encoding="utf-8") as f:
-    terms = json.load(f)
+try:
+    with open(terms_file, "r", encoding="utf-8") as f:
+        terms = json.load(f)
+except json.JSONDecodeError:
+    print(f"❌ Invalid JSON in {terms_file}, skipping...")
+    sys.exit(0)
 
 with open(md_file, "w", encoding="utf-8") as f:
     f.write(f"# {subject_name} Glossary\n\n")
