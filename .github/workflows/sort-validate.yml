@@ -116,6 +116,7 @@ jobs:
           git add data/subjects/*/terms.json glossary/*.md
           if ! git diff --cached --quiet; then
             git commit -m "Auto-sort & update validated JSON and glossary"
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
             git push origin HEAD
           else
             echo "ℹ️ No changes to commit."
