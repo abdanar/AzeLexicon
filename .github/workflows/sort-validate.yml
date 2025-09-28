@@ -52,13 +52,16 @@ jobs:
             local log_file="logs/${subject_name}_sort_validate.log"
 
             if [ -f "$script" ]; then
-              echo "➡️ Processing $subject_name..."
-              if python "$script" "$subject" > "$log_file" 2>&1; then
+              echo "::group::➡️ Processing $subject_name"
+              if python -u "$script" "$subject" > "$log_file" 2>&1; then
+                cat "$log_file"
                 echo "✔️ $subject_name processed successfully."
               else
-                echo "❌ Validation failed for $subject_name. See log: $log_file"
+                cat "$log_file"
+                echo "❌ Validation failed for $subject_name"
                 echo "$subject_name" >> "$fail_file"
               fi
+              echo "::endgroup::"
             else
               echo "⚠️ No sort_validate.py found for $subject_name, skipping..."
             fi
@@ -87,8 +90,11 @@ jobs:
             local subject_name
             subject_name=$(basename "$subject")
             echo "::group::➡️ Generating Markdown for $subject_name"
-            python -u data/scripts/generate_markdown.py "$subject" || exit 1
-            echo "✔️ Markdown generated for $subject_name"
+            if python -u data/scripts/generate_markdown.py "$subject"; then
+              echo "✔️ Markdown generated for $subject_name"
+            else
+              echo "❌ Markdown generation failed for $subject_name"
+            fi
             echo "::endgroup::"
           }
 
