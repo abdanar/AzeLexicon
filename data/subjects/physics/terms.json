@@ -1,0 +1,32 @@
+[
+  {
+    "english": "Velocity",
+    "azerbaijani": "Sürət",
+    "category": "Mechanics"
+  },
+  {
+    "english": "Force",
+    "azerbaijani": "Qüvvət",
+    "category": "Mechanics"
+  },
+  {
+    "english": "Refraction",
+    "azerbaijani": "Qırılma",
+    "category": "Optics"
+  },
+  {
+    "english": "Acceleration",
+    "azerbaijani": "Sürətlənmə",
+    "category": "Mechanics"
+  },
+  {
+    "english": "Diffraction",
+    "azerbaijani": "Difraksiya",
+    "category": "Optics"
+  },
+  {
+    "english": "Momentum",
+    "azerbaijani": "Hərəkət miqdarı",
+    "category": "Mechanics"
+  }
+]
