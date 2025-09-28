@@ -89,32 +89,33 @@ jobs:
             local subject="$1"
             local subject_name
             subject_name=$(basename "$subject")
-            echo "::group::➡️ Generating Markdown for $subject_name"
-            if python -u data/scripts/generate_markdown.py "$subject"; then
-              echo "✔️ Markdown generated for $subject_name"
-            else
-              echo "❌ Markdown generation failed for $subject_name"
+            
+            # Check if terms.json exists and is not empty
+            local terms_file="$subject/terms.json"
+            if [ ! -s "$terms_file" ]; then
+              echo "⚠️ $terms_file is empty or missing, skipping..."
+              return
             fi
+
+            echo "::group::➡️ Generating Markdown for $subject_name"
+            python -u data/scripts/generate_markdown.py "$subject"
+            echo "✔️ Markdown generated for $subject_name"
             echo "::endgroup::"
           }
 
           export -f generate_md
-          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | \
-          xargs -n1 -P4 -I{} bash -c 'generate_md "$@"' _ {}
+          find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
       # 6️⃣ Auto-commit changes
-      - name: Auto-commit changes
+      - name: Auto-commit & push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
-          # Stage only terms.json and glossary files
-          git add data/subjects/*/terms.json glossary/*.md
-
-          # Commit if there are changes
+          git add data/subjects/*/terms.json
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-sort & update validated JSON and glossary"
-            echo "✔️ Changes committed."
+            git commit -m "Auto-sort & validate terms.json"
+            git push origin HEAD
+            echo "✔️ Changes committed and pushed."
           else
             echo "ℹ️ No changes to commit."
           fi

@@ -5,10 +5,14 @@ import os
 subject_dir = sys.argv[1]
 subject_name = os.path.basename(subject_dir)
 terms_file = os.path.join(subject_dir, "terms.json")
-md_dir = "glossary"
+
+# Ensure glossary folder is relative to repo root
+repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+md_dir = os.path.join(repo_root, "glossary")
 os.makedirs(md_dir, exist_ok=True)
 md_file = os.path.join(md_dir, f"{subject_name}.md")
 
+# Check if JSON exists
 if not os.path.isfile(terms_file):
     print(f"⚠️ No terms.json found for {subject_name}, skipping...")
     sys.exit(0)
