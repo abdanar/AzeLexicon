@@ -10,11 +10,6 @@
     "category": "Algebra"
   },
   {
-    "english": "Vector",
-    "azerbaijani": "Vektor",
-    "category": "Algebra"
-  },
-  {
     "english": "Derivative",
     "azerbaijani": "Törəmə",
     "category": "Calculus"
@@ -23,10 +18,10 @@
     "english": "Integral",
     "azerbaijani": "İnteqral",
     "category": "Calculus"
-  },
+  }, 
   {
-    "english": "Vector",
-    "azerbaijani": "Vektor",
-    "category": "Algebra"
-  }
+      "english": "Vector",
+      "azerbaijani": "Vektor",
+      "category": "Algebra"
+    }
 ]
