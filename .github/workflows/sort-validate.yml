@@ -14,13 +14,16 @@ jobs:
     name: Validate, Sort & Generate Glossary
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # ✅ gives permission to push commits
+
     steps:
 
       # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0   # ✅ needed for committing changes back
 
       # 2️⃣ Setup Python
       - name: Setup Python
@@ -106,3 +109,11 @@ jobs:
 
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
+
+      - name: Auto-commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Auto-update validated JSON and glossary"
+          file_pattern: |
+            data/subjects/*/terms.json
+            glossary/*.md
