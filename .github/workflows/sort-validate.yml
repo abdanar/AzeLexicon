@@ -117,3 +117,5 @@ jobs:
           file_pattern: |
             data/subjects/*/terms.json
             glossary/*.md
+      - name: Pull latest main
+        run: git pull --rebase origin main
