@@ -36,7 +36,6 @@ jobs:
             pip install -r requirements.txt
           fi
 
-
       # 4️⃣ Run validation & sort per subject (parallel & logs)
       - name: Run validation & sorting
         run: |
