@@ -124,8 +124,15 @@ jobs:
           # Ensure we are on latest main
           git fetch origin
           git checkout main
+
+          # Stash workflow changes temporarily
+          git stash push -m "workflow auto-validation"
+
           git pull --rebase origin main  # ✅ puts workflow commit on top of latest main
           
+          # Apply workflow changes back
+          git stash pop
+
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
