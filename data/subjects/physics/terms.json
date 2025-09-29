@@ -95,26 +95,6 @@
     "azerbaijani": "Difraksiya"
   },
   {
-    "category": "Thermodynamics",
-    "english": "Heat Capacity",
-    "azerbaijani": "İstilik Tutumu"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Second Law of Thermodynamics",
-    "azerbaijani": "Termodinamikanın İkinci Qanunu"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Temperature",
-    "azerbaijani": "Temperatura"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Third Law of Thermodynamics",
-    "azerbaijani": "Termodinamikanın Üçüncü Qanunu"
-  },
-  {
     "category": "Optics",
     "english": "Interference",
     "azerbaijani": "Müdaxilə"
@@ -193,5 +173,25 @@
     "category": "Thermodynamics",
     "english": "First Law of Thermodynamics",
     "azerbaijani": "Termodinamikanın Birinci Qanunu"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Heat Capacity",
+    "azerbaijani": "İstilik Tutumu"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Second Law of Thermodynamics",
+    "azerbaijani": "Termodinamikanın İkinci Qanunu"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Temperature",
+    "azerbaijani": "Temperatura"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Third Law of Thermodynamics",
+    "azerbaijani": "Termodinamikanın Üçüncü Qanunu"
   }
 ]
