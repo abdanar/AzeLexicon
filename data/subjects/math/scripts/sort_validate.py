@@ -50,10 +50,14 @@ for i, term in enumerate(terms, start=1):
     if status and status not in allowed_statuses:
         errors.append(f"Invalid status '{status}' in Term #{i}. Allowed: {allowed_statuses}")
         continue
-
+    
     # Strict duplicate check: skip if either exists
-    if english in seen_english or azerbaijani in seen_azerbaijani:
-        errors.append(f"Duplicate detected (English: '{english}' / Azerbaijani: '{azerbaijani}') Term #{i} skipped.")
+    if english in seen_english:
+        errors.append(f"Duplicate English '{english}' in Term #{i}. Skipped.")
+        continue
+
+    if azerbaijani in seen_azerbaijani and term["status"] != "❌ Missing":
+        errors.append(f"Duplicate Azerbaijani '{azerbaijani}' in Term #{i}. Skipped.")
         continue
 
     clean_terms.append(term)
