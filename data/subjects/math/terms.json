@@ -98,5 +98,15 @@
     "category": "Statistics",
     "english": "Variance",
     "azerbaijani": "Dispersiya"
+  },
+  {
+    "category": "Algebra",
+    "english": "Identity",
+    "azerbaijani": "İdentik"
+  },
+  {
+    "category": "Arithmetic",
+    "english": "Exponent",
+    "azerbaijani": "Üs"
   }
 ]
