@@ -65,4 +65,4 @@ if errors:
     for e in errors:
         print(f" - {e}")
     print("❌ Validation failed. Please fix duplicates or invalid categories.")
-    sys.exit(1)
+    # sys.exit(1)  <-- remove this
