@@ -3,6 +3,7 @@
 | Category | English | Azerbaijani |
 |---------|---------|------------|
 | Algebra | Equation | Tənlik |
+| Algebra | Factor | Amil |
 | Algebra | Identity | İdentik |
 | Algebra | Matrix | Matris |
 | Algebra | Polynomial | Çoxhədli |
@@ -20,6 +21,5 @@
 | Geometry | Square | Kvadrat |
 | Geometry | Triangle | Üçbucaq |
 | Statistics | Mean | Orta |
-| Statistics | Median | Mediana |
 | Statistics | Mode | Moda |
 | Statistics | Variance | Dispersiya |
