@@ -40,21 +40,6 @@
     "azerbaijani": "Kəsr"
   },
   {
-    "category": "Geometry",
-    "english": "Polygon",
-    "azerbaijani": "Çoxbucaq"
-  },
-  {
-    "category": "Geometry",
-    "english": "Square",
-    "azerbaijani": "Kvadrat"
-  },
-  {
-    "category": "Geometry",
-    "english": "Triangle",
-    "azerbaijani": "Üçbucaq"
-  },
-  {
     "category": "Arithmetic",
     "english": "Percentage",
     "azerbaijani": "Faiz"
@@ -88,6 +73,21 @@
     "category": "Geometry",
     "english": "Circle",
     "azerbaijani": "Dairə"
+  },
+  {
+    "category": "Geometry",
+    "english": "Polygon",
+    "azerbaijani": "Çoxbucaq"
+  },
+  {
+    "category": "Geometry",
+    "english": "Square",
+    "azerbaijani": "Kvadrat"
+  },
+  {
+    "category": "Geometry",
+    "english": "Triangle",
+    "azerbaijani": "Üçbucaq"
   },
   {
     "category": "Statistics",
