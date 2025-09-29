@@ -121,11 +121,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Ensure we are on latest main
+          git fetch origin
+          git checkout main
+          git pull --rebase origin main  # ✅ puts workflow commit on top of latest main
+          
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
-            git push origin main --force # ✅ overwrites branch, no merge
+            git push origin main  # push new commit on top of your manual commit
           else
             echo "ℹ️ No changes to commit"
           fi
