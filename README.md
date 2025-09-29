@@ -56,7 +56,8 @@ AzeLexicon/
 ├── LICENSE
 ├── README.md
 ├── CONTRIBUTING.md
-└── CODE_OF_CONDUCT.md
+├── CODE_OF_CONDUCT.md
+└── CONTRIBUTORS.md                     # list of contributors and maintainers
 ```
 
 ## ⚙️ Automation
