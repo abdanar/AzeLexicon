@@ -3,8 +3,8 @@
 - Total terms: **7**
 - Missing translations: **0**
 - Revisions needed: **1**
-
 - Completed translations: **3**
+
 | Category | English | Azerbaijani | Status |
 |---------|---------|------------|--------|
 | Algebra | Equation | Tənlik | ✅ Complete |

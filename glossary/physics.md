@@ -3,8 +3,8 @@
 - Total terms: **5**
 - Missing translations: **0**
 - Revisions needed: **1**
-
 - Completed translations: **1**
+
 | Category | English | Azerbaijani | Status |
 |---------|---------|------------|--------|
 | Classical Mechanics | Force | Qüvvə | ✅ Complete |
