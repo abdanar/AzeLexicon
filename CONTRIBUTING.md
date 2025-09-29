@@ -7,8 +7,8 @@ We appreciate your interest in contributing to AzeLexicon, a project dedicated t
 Fork the repository to your GitHub account and implement changes in the appropriate files:
 
 🔹**Plain Azerbaijani words** → `data/words.txt`    
-🔹 **Hyphenated words** → `data/words-hyphenated.txt`   
-🔹 **Academic or scientific terms** → place in the appropriate subject folder within `data/subjects/` (e.g., `data/subjects/math/`, `data/subjects/physics/`) and update the corresponding `terms.json` file in that folder.   
+🔹**Hyphenated words** → `data/words-hyphenated.txt`   
+🔹**Academic or scientific terms** → place in the appropriate subject folder within `data/subjects/` (e.g., `data/subjects/math/`, `data/subjects/physics/`) and update the corresponding `terms.json` file in that folder.   
 
 Commit your changes with a descriptive message, for example:
 ```bash
