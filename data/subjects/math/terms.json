@@ -6,6 +6,11 @@
   },
   {
     "category": "Algebra",
+    "english": "Factor",
+    "azerbaijani": "Amil"
+  },
+  {
+    "category": "Algebra",
     "english": "Identity",
     "azerbaijani": "İdentik"
   },
@@ -88,11 +93,6 @@
     "category": "Statistics",
     "english": "Mean",
     "azerbaijani": "Orta"
-  },
-  {
-    "category": "Algebra",
-    "english": "Factor",
-    "azerbaijani": "Amil"
   },
   {
     "category": "Statistics",
