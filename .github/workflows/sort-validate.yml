@@ -1,13 +1,8 @@
 name: 🛠 Automated Term Standardization
 
-# Trigger workflow on push or pull request for subject JSON files
+# Trigger workflow manually
 on:
-  push:
-    paths:
-      - "data/subjects/**"
-  pull_request:
-    paths:
-      - "data/subjects/**"
+  workflow_dispatch:  # ✅ Allows manual trigger
 
 concurrency:
   group: auto-validation
@@ -115,27 +110,12 @@ jobs:
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
-      # 6️⃣ Commit & push changes safely
+      # 6️⃣ Commit & push changes
       - name: Auto-commit validated JSON & glossary
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stash any previous workflow changes
-          git stash push -m "workflow auto-validation" || true
-
-          # Ensure latest main
-          git fetch origin
-          git checkout main
-          if ! git pull --rebase origin main; then
-            echo "❌ Conflict detected, workflow stopped."
-            exit 1
-          fi
-
-          # Pop stashed changes (ignore failure)
-          git stash pop || true
-
-          # Stage only JSON/MD files, ignore logs
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
@@ -143,4 +123,3 @@ jobs:
             git push origin main
           else
             echo "ℹ️ No changes to commit"
-          fi
