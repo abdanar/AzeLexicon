@@ -1,35 +1,5 @@
 [
   {
-    "category": "Mechanics",
-    "english": "Torque",
-    "azerbaijani": "Moment"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Velocity",
-    "azerbaijani": "Sürət"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fission",
-    "azerbaijani": "Fisyon"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Capacitance",
-    "azerbaijani": "Kapasitans"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Current",
-    "azerbaijani": "Cərəyan"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Electric Field",
-    "azerbaijani": "Elektrik Sahəsi"
-  },
-  {
     "category": "Electromagnetism",
     "english": "Inductance",
     "azerbaijani": "İnduktivlik"
@@ -123,6 +93,21 @@
     "category": "Optics",
     "english": "Polarization",
     "azerbaijani": "Polarizasiya"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Capacitance",
+    "azerbaijani": "Kapasitans"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Current",
+    "azerbaijani": "Cərəyan"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Electric Field",
+    "azerbaijani": "Elektrik Sahəsi"
   },
   {
     "category": "Optics",
