@@ -1,46 +1,30 @@
-# Contributing
+# Contributing to AzeLexicon
 
-Thank you for your interest in contributing! 🎉  
-This project depends on community efforts to collect, organize, and translate Azerbaijani words.
-
-We welcome contributions in the following areas:
-- Adding new Azerbaijani words to the general list.
-- Correcting spelling or formatting errors.
-- Providing or improving hyphenated word versions.
-- Translating academic and scientific terms into Azerbaijani.
-- Suggesting improvements to structure, formatting, or documentation.
+We appreciate your interest in contributing to AzeLexicon, a project dedicated to compiling and translating Azerbaijani words. This includes a plain list of Azerbaijani words, hyphenated word forms, and academic or scientific terminology. Contributions may involve adding or correcting words in the main list, improving hyphenated forms, translating academic or scientific terms, or proposing enhancements to structure, formatting, or documentation.
 
 ---
 
-## Step-by-Step Guide
+## Contribution Process
 
-1. **Fork** this repository to your GitHub account.
-2. **Make your changes**:
-   - For general words → update `words.txt`.
-   - For hyphenated forms → update `words-hyphenated.txt`.
-   - For academic/scientific terms → update or create a file in `/academic/`.
-3. **Run the automated checker**:
-   **Before opening a Pull Request**, please use the **🛠 Automated Term Standardization workflow** to ensure all necessary checks pass.
-4. **Commit** your changes with a descriptive message:
-   ```bash
-   git commit -m "Added 20 new math terms in Azerbaijani"
-5. Push your changes to your fork.
-6. Open a Pull Request (PR) to the main branch.
+Fork the repository to your GitHub account and implement changes in the appropriate files:
+
+**Plain Azerbaijani words** → `data/words.txt`    
+**Hyphenated words** → `data/words-hyphenated.txt`   
+**Academic or scientific terms** → place in the appropriate subject folder within `data/subjects/` (e.g., `data/subjects/math/`, `data/subjects/physics/`) and update the corresponding `terms.json` file in that folder.
+
+Before submitting a Pull Request (PR), ensure that the **Automated Term Standardization workflow** passes successfully.   
+
+Commit your changes with a descriptive message, for example:
+    ```bash
+    git commit -m "Add 20 new math terms in Azerbaijani"
+
+Push your changes to your fork and open a Pull Request to the main branch, providing a clear description of your modifications.
 
 ## Adding Yourself as a Contributor
 
-After your Pull Request (PR) is merged, you are welcome to add your name to [`CONTRIBUTORS.md`](./CONTRIBUTORS.md) so that your contribution is recognized.
-
+After your Pull Request (PR) has been merged, you may request the maintainer to have your name added to [`CONTRIBUTORS.md`](./CONTRIBUTORS.md) to ensure your contribution is formally recognized.
 
 ## Code of Conduct
 
-Please be respectful and constructive when contributing.
-This project aims to serve the Azerbaijani academic and scientific community, and clarity, quality, and kindness are valued above all.
-
-- Add your **GitHub handle**, your **real name**, or both.  
-- Example formats:
-```markdown
-- [@yourusername](https://github.com/yourusername)
-- John Doe
-- John Doe [@yourusername](https://github.com/yourusername)
+All contributors are expected to adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md), maintaining a professional, respectful, and collaborative environment at all times.
 
