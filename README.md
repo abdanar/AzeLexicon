@@ -1,91 +1,77 @@
-# Azerbaijani Word List
+# AzeLexicon – Azerbaijani Word List & Terminology
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/abdanar/azerbaijani-words)
-![GitHub issues](https://img.shields.io/github/issues/abdanar/azerbaijani-words)
-![License](https://img.shields.io/github/license/abdanar/azerbaijani-words)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/abdanar/AzeLexicon)
+![GitHub Issues](https://img.shields.io/github/issues/abdanar/AzeLexicon)
+![License](https://img.shields.io/github/license/abdanar/AzeLexicon)
 
-A comprehensive collection of Azerbaijani words in plain text format, designed as a foundational resource for **hyphenation, natural language processing (NLP), spell checking, and computational linguistics research**.
+**AzeLexicon** is a structured, open-source repository of Azerbaijani words and terminology. Its main purpose is to serve as the **primary source for the Azerbaijani word list, its hyphenated version, and academic/scientific terminology**, supporting anyone producing **academic or scientific work in Azerbaijani**.
+
+## 📚 Project Scope
+
+The repository includes:
+
+- **General word list**  
+  A plain list of Azerbaijani words (`txt` format). It contains only words, without translations. Some cleanup and refinement are still needed.  
+
+- **Hyphenated words**  
+  A hyphenated version of the general word list. This list is not yet complete, as the **hyphenation algorithm** is under active development.  
+
+- **Academic and scientific terminology**  
+  Organized by subject (mathematics, physics, computer science, etc.).  
+  Each subject has a main file (`terms.json`) containing the **translations of English terms into Azerbaijani**.  
+  Subfields (e.g., linear algebra, topology) are used for **initial collection of terms**, which are then consolidated into the main `terms.json`.
+
+This project aims to be the **authoritative reference** for Azerbaijani in scientific and academic contexts.
 
 
 ## Repository Structure
 
 ```text
-azerbaijani-words/
+AzeLexicon/
 ├── data/
 │   ├── general/
-│   │   ├── azerbaijani-words.txt          # legacy/general vocabulary
-│   │   └── hyphenation.txt                # hyphenation rules
+│   │   ├── words.txt                  # plain list of Azerbaijani words (no translations)
+│   │   └── words-hyphenated.txt      # hyphenated version of the general word list
 │   │
-│   └── subjects/                           # all specialized subjects
+│   ├── scripts/
+│   │   ├── generate_markdown.py       # utility to generate markdown docs from terms
+│   │   └── hyphenation.py             # experimental hyphenation algorithm
+│   │
+│   └── subjects/
 │       ├── math/
-│       │   ├── terms.json                  # math glossary (alphabetically sorted)
-│       │   ├── categories.json             # allowed math categories
-│       │   └── scripts/
-│       │       └── sort_validate.py        # sorting + validation script
+│       │   ├── terms.json             # glossary of math terms (EN ↔ AZ)
+│       │   ├── subfields/
+│       │   │   ├── linalg.txt         # collected linear algebra terms
+│       │   │   ├── topology.txt       # collected topology terms
+│       │   │   └── ...                # more subfields to be added
+│       │   └── scripts/sort_validate.py
 │       │
-│       ├── physics/
-│       │   ├── terms.json                  # placeholder for physics terms
-│       │   ├── categories.json             # allowed physics categories
-│       │   └── scripts/
-│       │       └── sort_validate.py        # optional, can reuse math script
-│       │
-│       ├── computer-science/
-│       │   ├── terms.json
-│       │   ├── categories.json
-│       │   └── scripts/
-│       │       └── sort_validate.py
-│       │
-│       ├── chemistry/
-│       │   ├── terms.json
-│       │   ├── categories.json
-│       │   └── scripts/
-│       │       └── sort_validate.py
-│       │
-│       └── biology/
-│           ├── terms.json
-│           ├── categories.json
-│           └── scripts/
-│               └── sort_validate.py
+│       └── ...                        # other subjects (physics, CS, chemistry, biology, etc.)
 │
-├── .github/
-│   └── workflows/
-│       └── sort-validate.yml              # GitHub Action to auto-sort and validate all subjects
+├── glossary/
+│   ├── general.md                     # curated general Azerbaijani word list (human-readable)
+│   ├── math.md                        # curated glossary (Markdown) from terms.json
+│   └── ...                            # other subject glossaries
 │
-├── LICENSE                                  # e.g., MIT or CC-BY
-├── README.md                                # project overview & contribution instructions
-└── CONTRIBUTING.md                          # how to contribute terms
+├── .github/workflows/
+│   └── sort-validate.yml              # 🛠 Automated Term Standardization workflow
+│
+├── LICENSE
+├── README.md
+├── CONTRIBUTING.md
+└── CODE_OF_CONDUCT.md
 ```
 
-## Current Status
+## ⚙️ Automation
 
-- Contains **85K+ Azerbaijani words** in `data/azerbaijani.txt`.
-- Words are **UTF-8 encoded** and include all special Azerbaijani characters: `ə, ı, ö, ü, ş, ç, ğ`.
-- Suitable for **text processing** and as input for **hyphenation pattern creation**.
+To maintain consistency and quality across the repository, all `terms.json` files are automatically sorted alphabetically and checked for duplicates by the **🛠 Automated Term Standardization workflow** (`sort-validate.yml`). Contributors are expected to update the status for each term **they are contributing** in the JSON file. The workflow automatically flags missing translations with `❌ Missing`, so there is no need to add this manually.
 
+Valid statuses are:  
+- `❌ Missing` – automatically flagged by the workflow for missing translations.  
+- `⚠️ Revision` – use this if the translation needs review or you are unsure.  
+- `✅ Complete` – use this if the translation is verified and fully correct.
 
-## Future Plans
+The workflow can be triggered manually in the **GitHub Actions** tab.
 
-The repository will be updated to include:
-
-- **LaTeX hyphenation patterns** for Azerbaijani (Polyglossia/Babel compatible).
-- **Automated pattern generation scripts** using TeX Live's `patgen`.
-- **Expanded word list** from literature, technical terms, and modern usage.
-- **Integration examples** for NLP tasks and spell-checking tools.
-
-## Potential Usage
-
-- **Hyphenation in LaTeX**: Properly format Azerbaijani text using Polyglossia or Babel.
-- **NLP Tasks**: Tokenization, spell-checking, text analysis, language modeling.
-- **Computational Linguistics Research**: Corpus building, linguistic analysis, education.
-- **Software Localization**: Improve Azerbaijani text handling in applications.
-
-## Contribution
-
-Contributions are welcome! You can help by:
-
-- Adding missing Azerbaijani words.
-- Fixing typos or duplicates.
-- Enhancing scripts for pattern generation or text processing.
-- Providing feedback for usage or structure improvements.
-
-Please submit a **Pull Request** with a description of your changes.
+> [!CAUTION]
+> Before submitting a PR, ensure that the **🛠 Automated Term Standardization workflow** completes successfully and that each contributed term’s status is updated appropriately.
