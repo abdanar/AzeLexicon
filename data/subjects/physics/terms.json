@@ -98,5 +98,105 @@
     "category": "Thermodynamics",
     "english": "Temperature",
     "azerbaijani": "Temperatura"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Capacitance",
+    "azerbaijani": "Kapasitans"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Electric Field",
+    "azerbaijani": "Elektrik Sahəsi"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Inductance",
+    "azerbaijani": "İnduktivlik"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Magnetic Field",
+    "azerbaijani": "Maqnit Sahəsi"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Acceleration",
+    "azerbaijani": "Sürətlənmə"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Force",
+    "azerbaijani": "Qüvvə"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Momentum",
+    "azerbaijani": "Tormozluq"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Torque",
+    "azerbaijani": "Moment"
+  },
+  {
+    "category": "Optics",
+    "english": "Diffraction",
+    "azerbaijani": "Difraksiya"
+  },
+  {
+    "category": "Optics",
+    "english": "Lens",
+    "azerbaijani": "Linza"
+  },
+  {
+    "category": "Optics",
+    "english": "Refraction",
+    "azerbaijani": "Qırılma"
+  },
+  {
+    "category": "Quantum Mechanics",
+    "english": "Entanglement",
+    "azerbaijani": "Dolanma"
+  },
+  {
+    "category": "Quantum Mechanics",
+    "english": "Superposition",
+    "azerbaijani": "Superpozisiya"
+  },
+  {
+    "category": "Quantum Mechanics",
+    "english": "Wavefunction",
+    "azerbaijani": "Dalğa Funksiyası"
+  },
+  {
+    "category": "Relativity",
+    "english": "Length Contraction",
+    "azerbaijani": "Uzunluğun Qısalması"
+  },
+  {
+    "category": "Relativity",
+    "english": "Mass-Energy Equivalence",
+    "azerbaijani": "Kütlə-Enerji Ekvivalentliyi"
+  },
+  {
+    "category": "Relativity",
+    "english": "Time Dilation",
+    "azerbaijani": "Zamanın Uzanması"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Entropy",
+    "azerbaijani": "Entropiya"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Heat Capacity",
+    "azerbaijani": "İstilik Tutumu"
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Temperature",
+    "azerbaijani": "Temperatura"
   }
 ]
