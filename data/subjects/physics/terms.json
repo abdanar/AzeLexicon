@@ -1,18 +1,13 @@
 [
   {
     "category": "Electromagnetism",
-    "english": "Current",
-    "azerbaijani": "Cərəyan"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Voltage",
-    "azerbaijani": "Gərginlik"
-  },
-  {
-    "category": "Electromagnetism",
     "english": "Capacitance",
     "azerbaijani": "Kapasitans"
+  },
+  {
+    "category": "Electromagnetism",
+    "english": "Current",
+    "azerbaijani": "Cərəyan"
   },
   {
     "category": "Electromagnetism",
@@ -30,9 +25,9 @@
     "azerbaijani": "Maqnit Sahəsi"
   },
   {
-    "category": "Mechanics",
-    "english": "Velocity",
-    "azerbaijani": "Sürət"
+    "category": "Electromagnetism",
+    "english": "Voltage",
+    "azerbaijani": "Gərginlik"
   },
   {
     "category": "Mechanics",
@@ -46,18 +41,18 @@
   },
   {
     "category": "Mechanics",
+    "english": "Kinetic Energy",
+    "azerbaijani": "Kinetik Enerji"
+  },
+  {
+    "category": "Mechanics",
     "english": "Momentum",
     "azerbaijani": "Tormozluq"
   },
   {
     "category": "Mechanics",
-    "english": "Torque",
-    "azerbaijani": "Moment"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Kinetic Energy",
-    "azerbaijani": "Kinetik Enerji"
+    "english": "Momentum Conservation",
+    "azerbaijani": "Tormozluğun Qorunması"
   },
   {
     "category": "Mechanics",
@@ -66,8 +61,33 @@
   },
   {
     "category": "Mechanics",
-    "english": "Momentum Conservation",
-    "azerbaijani": "Tormozluğun Qorunması"
+    "english": "Torque",
+    "azerbaijani": "Moment"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Velocity",
+    "azerbaijani": "Sürət"
+  },
+  {
+    "category": "Nuclear Physics",
+    "english": "Fission",
+    "azerbaijani": "Fisyon"
+  },
+  {
+    "category": "Nuclear Physics",
+    "english": "Fusion",
+    "azerbaijani": "Füzyon"
+  },
+  {
+    "category": "Nuclear Physics",
+    "english": "Half-life",
+    "azerbaijani": "Yarım ömür"
+  },
+  {
+    "category": "Nuclear Physics",
+    "english": "Radioactivity",
+    "azerbaijani": "Radioaktivlik"
   },
   {
     "category": "Optics",
@@ -76,13 +96,13 @@
   },
   {
     "category": "Optics",
-    "english": "Lens",
-    "azerbaijani": "Linza"
+    "english": "Interference",
+    "azerbaijani": "Müdaxilə"
   },
   {
     "category": "Optics",
-    "english": "Refraction",
-    "azerbaijani": "Qırılma"
+    "english": "Lens",
+    "azerbaijani": "Linza"
   },
   {
     "category": "Optics",
@@ -91,8 +111,8 @@
   },
   {
     "category": "Optics",
-    "english": "Interference",
-    "azerbaijani": "Müdaxilə"
+    "english": "Refraction",
+    "azerbaijani": "Qırılma"
   },
   {
     "category": "Quantum Mechanics",
@@ -101,13 +121,13 @@
   },
   {
     "category": "Quantum Mechanics",
-    "english": "Superposition",
-    "azerbaijani": "Superpozisiya"
+    "english": "Pauli Exclusion Principle",
+    "azerbaijani": "Pauli Qadağa Prinsipi"
   },
   {
     "category": "Quantum Mechanics",
-    "english": "Wavefunction",
-    "azerbaijani": "Dalğa Funksiyası"
+    "english": "Superposition",
+    "azerbaijani": "Superpozisiya"
   },
   {
     "category": "Quantum Mechanics",
@@ -116,13 +136,23 @@
   },
   {
     "category": "Quantum Mechanics",
-    "english": "Pauli Exclusion Principle",
-    "azerbaijani": "Pauli Qadağa Prinsipi"
+    "english": "Wavefunction",
+    "azerbaijani": "Dalğa Funksiyası"
+  },
+  {
+    "category": "Relativity",
+    "english": "Gravitational Time Dilation",
+    "azerbaijani": "Qravitasiya Zaman Uzanması"
   },
   {
     "category": "Relativity",
     "english": "Length Contraction",
     "azerbaijani": "Uzunluğun Qısalması"
+  },
+  {
+    "category": "Relativity",
+    "english": "Lorentz Transformation",
+    "azerbaijani": "Lorentz Transformasiyası"
   },
   {
     "category": "Relativity",
@@ -135,29 +165,9 @@
     "azerbaijani": "Zamanın Uzanması"
   },
   {
-    "category": "Relativity",
-    "english": "Lorentz Transformation",
-    "azerbaijani": "Lorentz Transformasiyası"
-  },
-  {
-    "category": "Relativity",
-    "english": "Gravitational Time Dilation",
-    "azerbaijani": "Qravitasiya Zaman Uzanması"
-  },
-  {
     "category": "Thermodynamics",
     "english": "Entropy",
     "azerbaijani": "Entropiya"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Heat Capacity",
-    "azerbaijani": "İstilik Tutumu"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Temperature",
-    "azerbaijani": "Temperatura"
   },
   {
     "category": "Thermodynamics",
@@ -166,32 +176,22 @@
   },
   {
     "category": "Thermodynamics",
+    "english": "Heat Capacity",
+    "azerbaijani": "İstilik Tutumu"
+  },
+  {
+    "category": "Thermodynamics",
     "english": "Second Law of Thermodynamics",
     "azerbaijani": "Termodinamikanın İkinci Qanunu"
   },
   {
     "category": "Thermodynamics",
+    "english": "Temperature",
+    "azerbaijani": "Temperatura"
+  },
+  {
+    "category": "Thermodynamics",
     "english": "Third Law of Thermodynamics",
     "azerbaijani": "Termodinamikanın Üçüncü Qanunu"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Radioactivity",
-    "azerbaijani": "Radioaktivlik"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Half-life",
-    "azerbaijani": "Yarım ömür"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fission",
-    "azerbaijani": "Fisyon"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fusion",
-    "azerbaijani": "Füzyon"
   }
 ]
