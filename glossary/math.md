@@ -1,7 +1,7 @@
 # math Glossary
 
 - Total terms: **7**
-- Missing translations: **0**
+- Missing translations: **2**
 - Revisions needed: **1**
 - Completed translations: **3**
 

@@ -1,7 +1,7 @@
 # physics Glossary
 
 - Total terms: **5**
-- Missing translations: **0**
+- Missing translations: **2**
 - Revisions needed: **1**
 - Completed translations: **1**
 
