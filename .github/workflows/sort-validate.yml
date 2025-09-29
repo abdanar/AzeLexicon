@@ -114,22 +114,19 @@ jobs:
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
-      # 6️⃣ Commit & push changes (always on top of latest commit)
-      - name: Auto-commit changes
+      # 6️⃣ Commit & force-push validated files
+      - name: Auto-commit validated JSON & glossary
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
 
-            # ✅ Make sure we rebase onto the latest main before pushing
-            git fetch origin
-            git pull --rebase origin main
-
-            git push origin main
+            # ✅ Force-push: overwrite the branch with validated files
+            git push origin main --force
           else
             echo "ℹ️ No changes to commit"
           fi
