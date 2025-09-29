@@ -1,1 +1,6 @@
 ✅ math: terms.json validated, duplicates removed, sorted!
+⚠️ Warnings / skipped entries:
+ - Duplicate detected (English: 'Polygon' / Azerbaijani: 'Çoxbucaq') Term #19 skipped.
+ - Duplicate detected (English: 'Square' / Azerbaijani: 'Kvadrat') Term #20 skipped.
+ - Duplicate detected (English: 'Triangle' / Azerbaijani: 'Üçbucaq') Term #21 skipped.
+❌ Validation failed. Please fix duplicates or invalid categories.
