@@ -123,3 +123,4 @@ jobs:
             git push origin main
           else
             echo "ℹ️ No changes to commit"
+          fi
