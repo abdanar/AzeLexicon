@@ -90,6 +90,16 @@
     "azerbaijani": "Orta"
   },
   {
+    "category": "Algebra",
+    "english": "Factor",
+    "azerbaijani": "Amil"
+  },
+  {
+    "category": "Algebra",
+    "english": "Exponent",
+    "azerbaijani": "Üs"
+  },
+  {
     "category": "Statistics",
     "english": "Median",
     "azerbaijani": "Mediana"
