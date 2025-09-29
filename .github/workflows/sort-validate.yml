@@ -115,17 +115,32 @@ jobs:
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
-      # 6️⃣ Commit & force-push validated files
+      # 6️⃣ Commit & push changes safely
       - name: Auto-commit validated JSON & glossary
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -A
+          # Stash any previous workflow changes
+          git stash push -m "workflow auto-validation" || true
+
+          # Ensure latest main
+          git fetch origin
+          git checkout main
+          if ! git pull --rebase origin main; then
+            echo "❌ Conflict detected, workflow stopped."
+            exit 1
+          fi
+
+          # Pop stashed changes (ignore failure)
+          git stash pop || true
+
+          # Stage only JSON/MD files, ignore logs
+          git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
-            git push origin main  # push new commit on top of your manual commit
+            git push origin main
           else
             echo "ℹ️ No changes to commit"
           fi
