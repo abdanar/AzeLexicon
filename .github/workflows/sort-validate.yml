@@ -2,11 +2,11 @@ name: 🛠 Automated Term Standardization
 
 # Trigger workflow manually
 on:
-  workflow_dispatch:  # ✅ Allows manual trigger
+  workflow_dispatch:
 
 concurrency:
-  group: auto-validation
-  cancel-in-progress: true  # ✅ Prevents multiple workflows running at once
+  group: manual-validation
+  cancel-in-progress: true
 
 jobs:
   validate-sort-generate:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # ✅ gives permission to push commits
+      contents: write   
 
     steps:
 
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # ✅ needed for committing changes back
+          fetch-depth: 0
           ref: main
 
       # 2️⃣ Setup Python
@@ -83,7 +83,7 @@ jobs:
             echo "✔️ All subjects validated and sorted successfully!"
           fi
 
-      # 5️⃣ Generate Markdown glossary (parallel)
+      # 5️⃣ Generate Markdown glossary
       - name: Generate Markdown Glossary
         run: |
           set -euo pipefail
