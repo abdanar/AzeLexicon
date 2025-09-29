@@ -121,6 +121,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          # Ensure we are on latest main
+          git fetch origin
+          git checkout main        # switch to main branch
+          git reset --hard origin/main  # sync with remote, discarding workflow commit if any
+          
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
