@@ -6,6 +6,11 @@
   },
   {
     "category": "Algebra",
+    "english": "Identity",
+    "azerbaijani": "İdentik"
+  },
+  {
+    "category": "Algebra",
     "english": "Matrix",
     "azerbaijani": "Matris"
   },
@@ -98,10 +103,5 @@
     "category": "Statistics",
     "english": "Variance",
     "azerbaijani": "Dispersiya"
-  },
-  {
-    "category": "Algebra",
-    "english": "Identity",
-    "azerbaijani": "İdentik"
   }
 ]

@@ -3,6 +3,7 @@
 | Category | English | Azerbaijani |
 |---------|---------|------------|
 | Algebra | Equation | Tənlik |
+| Algebra | Identity | İdentik |
 | Algebra | Matrix | Matris |
 | Algebra | Polynomial | Çoxhədli |
 | Algebra | Variable | Dəyişən |
