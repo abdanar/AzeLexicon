@@ -123,9 +123,9 @@ jobs:
 
           # Ensure we are on latest main
           git fetch origin
-          git checkout main        # switch to main branch
-          git reset --hard origin/main  # sync with remote, discarding workflow commit if any
-          
+          git checkout main
+          git pull origin main
+
           git add data/subjects/*/terms.json glossary/*.md
 
           if ! git diff --cached --quiet; then
