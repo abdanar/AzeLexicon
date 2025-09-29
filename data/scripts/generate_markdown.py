@@ -36,8 +36,8 @@ with open(md_file, "w", encoding="utf-8") as f:
     f.write(f"# {subject_name} Glossary\n\n")
     f.write(f"- Total terms: **{total_terms}**\n")
     f.write(f"- Missing translations: **{missing_count}**\n")
-    f.write(f"- Revisions needed: **{revision_count}**\n\n")
-    f.write(f"- Completed translations: **{completed_count}**\n")
+    f.write(f"- Revisions needed: **{revision_count}**\n")
+    f.write(f"- Completed translations: **{completed_count}**\n\n")
 
     f.write("| Category | English | Azerbaijani | Status |\n")
     f.write("|---------|---------|------------|--------|\n")
