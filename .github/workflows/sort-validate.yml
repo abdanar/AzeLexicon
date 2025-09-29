@@ -9,6 +9,10 @@ on:
     paths:
       - "data/subjects/**"
 
+concurrency:
+  group: auto-validation
+  cancel-in-progress: true  # ✅ Prevents multiple workflows running at once
+
 jobs:
   validate-sort-generate:
     name: Validate, Sort & Generate Glossary
@@ -110,18 +114,21 @@ jobs:
           export -f generate_md
           find data/subjects/ -mindepth 1 -maxdepth 1 -type d | xargs -P4 -I{} bash -c 'generate_md "$@"' _ {}
 
+      # 6️⃣ Commit & push changes (always on top of latest commit)
       - name: Auto-commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          # Stage only updated terms.json and markdown files
           git add data/subjects/*/terms.json glossary/*.md
 
-          # Check if there are any changes to commit
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
-            # Push changes back to the main branch
+
+            # ✅ Make sure we rebase onto the latest main before pushing
+            git fetch origin
+            git pull --rebase origin main
+
             git push origin main
           else
             echo "ℹ️ No changes to commit"
