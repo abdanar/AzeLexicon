@@ -36,8 +36,8 @@ for i, term in enumerate(terms, start=1):
     category = term.get("category", "").strip()
     status = term.get("status")
 
-    if not english or not azerbaijani:
-        errors.append(f"Term #{i} missing English/Azerbaijani field. Skipped.")
+    if not english:
+        errors.append(f"Term #{i} missing English field. Skipped.")
         continue
 
     if not azerbaijani:
@@ -46,7 +46,7 @@ for i, term in enumerate(terms, start=1):
     if category and category not in math_categories:
         errors.append(f"Invalid category '{category}' in Term #{i}. Allowed: {math_categories}")
         continue
-    
+
     if status and status not in allowed_statuses:
         errors.append(f"Invalid status '{status}' in Term #{i}. Allowed: {allowed_statuses}")
         continue

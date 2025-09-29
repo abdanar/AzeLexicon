@@ -36,8 +36,8 @@ for i, term in enumerate(terms, start=1):
     category = term.get("category", "").strip()
     status = term.get("status")
 
-    if not english or not azerbaijani:
-        errors.append(f"Term #{i} missing English/Azerbaijani field. Skipped.")
+    if not english:
+        errors.append(f"Term #{i} missing English field. Skipped.")
         continue
 
     if not azerbaijani:
