@@ -9,12 +9,6 @@
     "category": "Electromagnetism",
     "english": "Electric Field",
     "azerbaijani": "",
-    "status": ""
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Entropy",
-    "azerbaijani": "",
     "status": "❌ Missing"
   },
   {
@@ -28,5 +22,11 @@
     "english": "Time Dilation",
     "azerbaijani": "Zamanın Uzanması",
     "status": ""
+  },
+  {
+    "category": "Thermodynamics",
+    "english": "Entropy",
+    "azerbaijani": "",
+    "status": "❌ Missing"
   }
 ]

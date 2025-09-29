@@ -1,25 +1,16 @@
 # math Glossary
 
-| Category | English | Azerbaijani |
-|---------|---------|------------|
-| Algebra | Equation | Tənlik |
-| Algebra | Factor | Amil |
-| Algebra | Identity | İdentik |
-| Algebra | Matrix | Matris |
-| Algebra | Polynomial | Çoxhədli |
-| Algebra | Variable | Dəyişən |
-| Arithmetic | Decimal | Ondalıq |
-| Arithmetic | Fraction | Kəsr |
-| Arithmetic | Percentage | Faiz |
-| Arithmetic | Ratio | Nisbət |
-| Calculus | Derivative | Törəmə |
-| Calculus | Gradient | Qradient |
-| Calculus | Integral | İnteqral |
-| Calculus | Limit | Həddi |
-| Geometry | Circle | Dairə |
-| Geometry | Polygon | Çoxbucaq |
-| Geometry | Square | Kvadrat |
-| Geometry | Triangle | Üçbucaq |
-| Statistics | Mean | Orta |
-| Statistics | Mode | Moda |
-| Statistics | Variance | Dispersiya |
+- Total terms: **7**
+- Missing translations: **0**
+- Revisions needed: **1**
+
+- Completed translations: **3**
+| Category | English | Azerbaijani | Status |
+|---------|---------|------------|--------|
+| Algebra | Equation | Tənlik | ✅ Complete |
+| Algebra | Matrix |  | ❌ Missing |
+| Calculus | Derivative | Törəmə | ✅ Complete |
+| Calculus | Integral |  | ❌ Missing |
+| Geometry | Triangle | Üçbucaq | ⚠️ Revision |
+| Statistics | Mean | Orta |  |
+| Statistics | Variance | Dispersiya | ✅ Complete |
