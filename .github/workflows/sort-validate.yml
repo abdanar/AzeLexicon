@@ -28,6 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0   # ✅ needed for committing changes back
+          ref: main  # checkout the latest branch tip, not the triggering commit
 
       # 2️⃣ Setup Python
       - name: Setup Python
@@ -124,9 +125,7 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
-
-            # ✅ Force-push: overwrite the branch with validated files
-            git push origin main --force
+            git push origin main --force # ✅ overwrites branch, no merge
           else
             echo "ℹ️ No changes to commit"
           fi
