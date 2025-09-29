@@ -35,6 +35,11 @@
     "azerbaijani": "Ondalıq"
   },
   {
+    "category": "Arithmetic",
+    "english": "Fraction",
+    "azerbaijani": "Kəsr"
+  },
+  {
     "category": "Geometry",
     "english": "Polygon",
     "azerbaijani": "Çoxbucaq"
@@ -83,6 +88,21 @@
     "category": "Geometry",
     "english": "Circle",
     "azerbaijani": "Dairə"
+  },
+  {
+    "category": "Geometry",
+    "english": "Polygon",
+    "azerbaijani": "Çoxbucaq"
+  },
+  {
+    "category": "Geometry",
+    "english": "Square",
+    "azerbaijani": "Kvadrat"
+  },
+  {
+    "category": "Geometry",
+    "english": "Triangle",
+    "azerbaijani": "Üçbucaq"
   },
   {
     "category": "Statistics",
