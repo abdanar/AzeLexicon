@@ -27,7 +27,7 @@ except json.JSONDecodeError:
 
 # 2️⃣ Process terms
 total_terms = len(terms)
-missing_count = sum(1 for t in terms if t.get("azerbaijani") == "❌ Missing")
+missing_count = sum(1 for t in terms if t.get("status") == "❌ Missing")
 revision_count = sum(1 for t in terms if t.get("status") == "⚠️ Revision")
 completed_count = sum(1 for t in terms if t.get("status") == "✅ Complete")
 
