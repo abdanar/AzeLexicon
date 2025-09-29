@@ -15,8 +15,5 @@
   {"category": "Geometry", "english": "Square", "azerbaijani": "Kvadrat"},
   {"category": "Arithmetic", "english": "Decimal", "azerbaijani": "Ondalıq"},
   {"category": "Algebra", "english": "Variable", "azerbaijani": "Dəyişən"},
-  {"category": "Calculus", "english": "Gradient", "azerbaijani": "Qradient"},
-  {"category": "Statistics", "english": "Mode", "azerbaijani": "Moda"},
-  {"category": "Geometry", "english": "Polygon", "azerbaijani": "Çoxbucaq"},
-  {"category": "Arithmetic", "english": "Ratio", "azerbaijani": "Nisbət"}
+  {"category": "Calculus", "english": "Gradient", "azerbaijani": "Qradient"}
 ]
