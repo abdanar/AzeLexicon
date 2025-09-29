@@ -7,19 +7,9 @@ subject_dir = sys.argv[1]
 subject_name = os.path.basename(subject_dir)
 terms_file = os.path.join(subject_dir, "terms.json")
 
-# Predefined allowed categories
-physics_categories = [
-    "Mechanics",
-    "Thermodynamics",
-    "Electromagnetism",
-    "Optics",
-    "Quantum Mechanics",
-    "Relativity",
-    "Nuclear Physics",
-    "Acoustics",
-    "Fluid Dynamics",
-    "Astrophysics"
-]
+# Predefined allowed categories and statuses for physics
+physics_categories = ["Classical Mechanics", "Electromagnetism", "Thermodynamics", "Quantum Mechanics", "Relativity"]
+allowed_statuses = ["✅ Complete", "❌ Missing", "⚠️ Revision"]
 
 # Check if JSON exists
 if not os.path.isfile(terms_file):
@@ -44,13 +34,21 @@ for i, term in enumerate(terms, start=1):
     english = term.get("english", "").strip()
     azerbaijani = term.get("azerbaijani", "").strip()
     category = term.get("category", "").strip()
+    status = term.get("status")
 
     if not english or not azerbaijani:
         errors.append(f"Term #{i} missing English/Azerbaijani field. Skipped.")
         continue
 
+    if not azerbaijani:
+        term["status"] = "❌ Missing"
+
     if category and category not in physics_categories:
         errors.append(f"Invalid category '{category}' in Term #{i}. Allowed: {physics_categories}")
+        continue
+    
+    if status and status not in allowed_statuses:
+        errors.append(f"Invalid status '{status}' in Term #{i}. Allowed: {allowed_statuses}")
         continue
 
     # Strict duplicate check: skip if either exists

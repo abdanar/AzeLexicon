@@ -2,106 +2,43 @@
   {
     "category": "Algebra",
     "english": "Equation",
-    "azerbaijani": "Tənlik"
-  },
-  {
-    "category": "Algebra",
-    "english": "Factor",
-    "azerbaijani": "Amil"
-  },
-  {
-    "category": "Algebra",
-    "english": "Identity",
-    "azerbaijani": "İdentik"
+    "azerbaijani": "Tənlik",
+    "status": "✅ Complete"
   },
   {
     "category": "Algebra",
     "english": "Matrix",
-    "azerbaijani": "Matris"
-  },
-  {
-    "category": "Algebra",
-    "english": "Polynomial",
-    "azerbaijani": "Çoxhədli"
-  },
-  {
-    "category": "Algebra",
-    "english": "Variable",
-    "azerbaijani": "Dəyişən"
-  },
-  {
-    "category": "Arithmetic",
-    "english": "Decimal",
-    "azerbaijani": "Ondalıq"
-  },
-  {
-    "category": "Arithmetic",
-    "english": "Fraction",
-    "azerbaijani": "Kəsr"
-  },
-  {
-    "category": "Arithmetic",
-    "english": "Percentage",
-    "azerbaijani": "Faiz"
-  },
-  {
-    "category": "Arithmetic",
-    "english": "Ratio",
-    "azerbaijani": "Nisbət"
+    "azerbaijani": "",
+    "status": ""
   },
   {
     "category": "Calculus",
     "english": "Derivative",
-    "azerbaijani": "Törəmə"
-  },
-  {
-    "category": "Calculus",
-    "english": "Gradient",
-    "azerbaijani": "Qradient"
+    "azerbaijani": "Törəmə",
+    "status": "✅ Complete"
   },
   {
     "category": "Calculus",
     "english": "Integral",
-    "azerbaijani": "İnteqral"
-  },
-  {
-    "category": "Calculus",
-    "english": "Limit",
-    "azerbaijani": "Həddi"
-  },
-  {
-    "category": "Geometry",
-    "english": "Circle",
-    "azerbaijani": "Dairə"
-  },
-  {
-    "category": "Geometry",
-    "english": "Polygon",
-    "azerbaijani": "Çoxbucaq"
-  },
-  {
-    "category": "Geometry",
-    "english": "Square",
-    "azerbaijani": "Kvadrat"
+    "azerbaijani": "",
+    "status": "❌ Missing"
   },
   {
     "category": "Geometry",
     "english": "Triangle",
-    "azerbaijani": "Üçbucaq"
+    "azerbaijani": "Üçbucaq",
+    "status": "⚠️ Revision"
   },
   {
     "category": "Statistics",
     "english": "Mean",
-    "azerbaijani": "Orta"
-  },
-  {
-    "category": "Statistics",
-    "english": "Mode",
-    "azerbaijani": "Moda"
+    "azerbaijani": "Orta",
+    "status": ""
   },
   {
     "category": "Statistics",
     "english": "Variance",
-    "azerbaijani": "Dispersiya"
+    "azerbaijani": "Dispersiya",
+    "status": "✅ Complete"
   }
 ]

@@ -1,197 +1,32 @@
 [
   {
-    "category": "Electromagnetism",
-    "english": "Capacitance",
-    "azerbaijani": "Kapasitans"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Current",
-    "azerbaijani": "Cərəyan"
+    "category": "Classical Mechanics",
+    "english": "Force",
+    "azerbaijani": "Qüvvə",
+    "status": "✅ Complete"
   },
   {
     "category": "Electromagnetism",
     "english": "Electric Field",
-    "azerbaijani": "Elektrik Sahəsi"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Inductance",
-    "azerbaijani": "İnduktivlik"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Magnetic Field",
-    "azerbaijani": "Maqnit Sahəsi"
-  },
-  {
-    "category": "Electromagnetism",
-    "english": "Voltage",
-    "azerbaijani": "Gərginlik"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Acceleration",
-    "azerbaijani": "Sürətlənmə"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Force",
-    "azerbaijani": "Qüvvə"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Kinetic Energy",
-    "azerbaijani": "Kinetik Enerji"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Momentum",
-    "azerbaijani": "Tormozluq"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Momentum Conservation",
-    "azerbaijani": "Tormozluğun Qorunması"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Potential Energy",
-    "azerbaijani": "Potensial Enerji"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Torque",
-    "azerbaijani": "Moment"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Velocity",
-    "azerbaijani": "Sürət"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fission",
-    "azerbaijani": "Fisyon"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fusion",
-    "azerbaijani": "Füzyon"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Half-life",
-    "azerbaijani": "Yarım ömür"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Radioactivity",
-    "azerbaijani": "Radioaktivlik"
-  },
-  {
-    "category": "Optics",
-    "english": "Diffraction",
-    "azerbaijani": "Difraksiya"
-  },
-  {
-    "category": "Optics",
-    "english": "Interference",
-    "azerbaijani": "Müdaxilə"
-  },
-  {
-    "category": "Optics",
-    "english": "Lens",
-    "azerbaijani": "Linza"
-  },
-  {
-    "category": "Optics",
-    "english": "Polarization",
-    "azerbaijani": "Polarizasiya"
-  },
-  {
-    "category": "Optics",
-    "english": "Refraction",
-    "azerbaijani": "Qırılma"
-  },
-  {
-    "category": "Quantum Mechanics",
-    "english": "Entanglement",
-    "azerbaijani": "Dolanma"
-  },
-  {
-    "category": "Quantum Mechanics",
-    "english": "Pauli Exclusion Principle",
-    "azerbaijani": "Pauli Qadağa Prinsipi"
-  },
-  {
-    "category": "Quantum Mechanics",
-    "english": "Superposition",
-    "azerbaijani": "Superpozisiya"
-  },
-  {
-    "category": "Quantum Mechanics",
-    "english": "Uncertainty Principle",
-    "azerbaijani": "Qeyri-Müəyyənlik Prinsipi"
-  },
-  {
-    "category": "Quantum Mechanics",
-    "english": "Wavefunction",
-    "azerbaijani": "Dalğa Funksiyası"
-  },
-  {
-    "category": "Relativity",
-    "english": "Gravitational Time Dilation",
-    "azerbaijani": "Qravitasiya Zaman Uzanması"
-  },
-  {
-    "category": "Relativity",
-    "english": "Length Contraction",
-    "azerbaijani": "Uzunluğun Qısalması"
-  },
-  {
-    "category": "Relativity",
-    "english": "Lorentz Transformation",
-    "azerbaijani": "Lorentz Transformasiyası"
-  },
-  {
-    "category": "Relativity",
-    "english": "Mass-Energy Equivalence",
-    "azerbaijani": "Kütlə-Enerji Ekvivalentliyi"
-  },
-  {
-    "category": "Relativity",
-    "english": "Time Dilation",
-    "azerbaijani": "Zamanın Uzanması"
+    "azerbaijani": "",
+    "status": ""
   },
   {
     "category": "Thermodynamics",
     "english": "Entropy",
-    "azerbaijani": "Entropiya"
+    "azerbaijani": "",
+    "status": "❌ Missing"
   },
   {
-    "category": "Thermodynamics",
-    "english": "First Law of Thermodynamics",
-    "azerbaijani": "Termodinamikanın Birinci Qanunu"
+    "category": "Quantum Mechanics",
+    "english": "Wavefunction",
+    "azerbaijani": "Dalğa Funksiyası",
+    "status": "⚠️ Revision"
   },
   {
-    "category": "Thermodynamics",
-    "english": "Heat Capacity",
-    "azerbaijani": "İstilik Tutumu"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Second Law of Thermodynamics",
-    "azerbaijani": "Termodinamikanın İkinci Qanunu"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Temperature",
-    "azerbaijani": "Temperatura"
-  },
-  {
-    "category": "Thermodynamics",
-    "english": "Third Law of Thermodynamics",
-    "azerbaijani": "Termodinamikanın Üçüncü Qanunu"
+    "category": "Relativity",
+    "english": "Time Dilation",
+    "azerbaijani": "Zamanın Uzanması",
+    "status": ""
   }
 ]

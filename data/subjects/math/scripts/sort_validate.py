@@ -7,8 +7,9 @@ subject_dir = sys.argv[1]
 subject_name = os.path.basename(subject_dir)
 terms_file = os.path.join(subject_dir, "terms.json")
 
-# Predefined allowed categories
+# Predefined allowed categories and statuses for math
 math_categories = ["Arithmetic", "Algebra", "Calculus", "Geometry", "Statistics"]
+allowed_statuses = ["✅ Complete", "❌ Missing", "⚠️ Revision"]
 
 # Check if JSON exists
 if not os.path.isfile(terms_file):
@@ -33,13 +34,21 @@ for i, term in enumerate(terms, start=1):
     english = term.get("english", "").strip()
     azerbaijani = term.get("azerbaijani", "").strip()
     category = term.get("category", "").strip()
+    status = term.get("status")
 
     if not english or not azerbaijani:
         errors.append(f"Term #{i} missing English/Azerbaijani field. Skipped.")
         continue
 
+    if not azerbaijani:
+        term["status"] = "❌ Missing"
+
     if category and category not in math_categories:
         errors.append(f"Invalid category '{category}' in Term #{i}. Allowed: {math_categories}")
+        continue
+    
+    if status and status not in allowed_statuses:
+        errors.append(f"Invalid status '{status}' in Term #{i}. Allowed: {allowed_statuses}")
         continue
 
     # Strict duplicate check: skip if either exists
@@ -65,4 +74,4 @@ if errors:
     for e in errors:
         print(f" - {e}")
     print("❌ Validation failed. Please fix duplicates or invalid categories.")
-    # sys.exit(1)  <-- remove this
+    sys.exit(1)
