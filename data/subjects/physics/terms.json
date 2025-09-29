@@ -1,5 +1,25 @@
 [
   {
+    "category": "Mechanics",
+    "english": "Potential Energy",
+    "azerbaijani": "Potensial Enerji"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Torque",
+    "azerbaijani": "Moment"
+  },
+  {
+    "category": "Mechanics",
+    "english": "Velocity",
+    "azerbaijani": "Sürət"
+  },
+  {
+    "category": "Nuclear Physics",
+    "english": "Fission",
+    "azerbaijani": "Fisyon"
+  },
+  {
     "category": "Electromagnetism",
     "english": "Capacitance",
     "azerbaijani": "Kapasitans"
@@ -53,26 +73,6 @@
     "category": "Mechanics",
     "english": "Momentum Conservation",
     "azerbaijani": "Tormozluğun Qorunması"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Potential Energy",
-    "azerbaijani": "Potensial Enerji"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Torque",
-    "azerbaijani": "Moment"
-  },
-  {
-    "category": "Mechanics",
-    "english": "Velocity",
-    "azerbaijani": "Sürət"
-  },
-  {
-    "category": "Nuclear Physics",
-    "english": "Fission",
-    "azerbaijani": "Fisyon"
   },
   {
     "category": "Nuclear Physics",
