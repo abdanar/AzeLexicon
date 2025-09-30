@@ -19,12 +19,12 @@ The final JSON entry should have the following form:
 
 ```json
 {
-  "id": "math.linalg",
-  "category": "Linear Algebra",
   "english": "equation",
   "azerbaijani": "tənlik",
   "status": "✅ Complete",
-  "part_of_speech": "noun"
+  "part_of_speech": "noun",
+  "id": "math.LA",
+  "category": "Linear Algebra"
 }
 ```
 
