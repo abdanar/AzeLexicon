@@ -1,3 +1,5 @@
+# under construction - ignore this file
+
 sait = ['a', 'ə', 'i', 'o', 'ö', 'u', 'ü']
 
 def is_samit(char):
