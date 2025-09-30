@@ -1,3 +1,11 @@
 # Subject: Mathematics
 # Category: Linear Algebra
 # Description: List of English terms only, one term per line.
+vector
+vector space
+basis
+dimension
+linear transformation
+rank
+null space
+orthogonal
