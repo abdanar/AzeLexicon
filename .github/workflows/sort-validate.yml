@@ -10,7 +10,7 @@ concurrency:
 
 jobs:
   validate-sort-generate:
-    name: Process, Validate, Sort & Generate Glossary
+    name: Process, Validate & Generate Glossary
     runs-on: ubuntu-latest
 
     permissions:
@@ -39,11 +39,11 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      # 4️⃣ Run validation & sort per subject (parallel & logs)
-      - name: Run validation & sorting
+      # 4️⃣ Run process_subject.py per subject
+      - name: Run process_subject.py
         run: |
           set -euo pipefail
-          echo "➡️ Running validate & sort scripts for all subjects..."
+          echo "➡️ Running process_subject.py for all subjects..."
           mkdir -p logs
           fail_file=$(mktemp)
           touch "$fail_file"
@@ -52,8 +52,8 @@ jobs:
             local subject="$1"
             local subject_name
             subject_name=$(basename "$subject")
-            local script="$subject/scripts/sort_validate.py"
-            local log_file="logs/${subject_name}_sort_validate.log"
+            local script="$subject/scripts/process_subject.py"
+            local log_file="logs/${subject_name}_process.log"
 
             if [ -f "$script" ]; then
               echo "::group::➡️ Processing $subject_name"
@@ -67,7 +67,7 @@ jobs:
               fi
               echo "::endgroup::"
             else
-              echo "⚠️ No sort_validate.py found for $subject_name, skipping..."
+              echo "⚠️ No process_subject.py found for $subject_name, skipping..."
             fi
           }
           export -f run_subject
@@ -116,7 +116,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/subjects/*/terms.json glossary/*.md
+          git add data/subjects glossary
 
           if ! git diff --cached --quiet; then
             git commit -m "🔄 Auto-update validated JSON and glossary"
