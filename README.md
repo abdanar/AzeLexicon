@@ -26,38 +26,40 @@ This project aims to be the **authoritative reference** for Azerbaijani in scien
 ```text
 AzeLexicon/
 ├── data/
-│   ├── general/
-│   │   ├── words.txt                  # plain list of Azerbaijani words (no translations)
-│   │   └── words-hyphenated.txt      # hyphenated version of the general word list
-│   │
-│   ├── scripts/
-│   │   ├── generate_markdown.py       # utility to generate markdown docs from terms
-│   │   └── hyphenation.py             # experimental hyphenation algorithm
-│   │
-│   └── subjects/
-│       ├── math/
-│       │   ├── terms.json             # glossary of math terms (EN ↔ AZ)
-│       │   ├── subfields/
-│       │   │   ├── linalg.txt         # collected linear algebra terms
-│       │   │   ├── topology.txt       # collected topology terms
-│       │   │   └── ...                # more subfields to be added
-│       │   └── scripts/sort_validate.py
-│       │
-│       └── ...                        # other subjects (physics, CS, chemistry, biology, etc.)
+│ ├── general/
+│ │ ├── words.txt # Plain list of Azerbaijani words (no translations)
+│ │ └── words-hyphenated.txt # Hyphenated version of the general word list
+│ │
+│ ├── scripts/
+│ │ ├── generate_markdown.py # Generates Markdown glossaries from terms.json
+│ │ └── hyphenation.py # Experimental hyphenation algorithm
+│ │
+│ └── subjects/
+│ ├── math/
+│ │ ├── README.md # Instructions for contributing to math terms
+│ │ ├── terms.json # Glossary of math terms (EN ↔ AZ)
+│ │ ├── math_terms.txt # Consolidated list of all English math terms
+│ │ ├── categories/ # Subfield-specific English terms
+│ │ │ ├── linalg.txt # Linear Algebra terms
+│ │ │ ├── prob.txt # Probability terms
+│ │ │ └── ... # More subfields can be added here
+│ │ └── scripts/
+│ │ └── process_subject.py # Script to process, validate, and sort terms
+│ │
+│ └── ... # Other subjects (physics, CS, chemistry, biology, etc.)
 │
 ├── glossary/
-│   ├── general.md                     # curated general Azerbaijani word list (human-readable)
-│   ├── math.md                        # curated glossary (Markdown) from terms.json
-│   └── ...                            # other subject glossaries
+│ ├── math.md # Generated Markdown glossary from terms.json
+│ └── ... # Glossaries for other subjects
 │
 ├── .github/workflows/
-│   └── sort-validate.yml              # 🛠 Automated Term Standardization workflow
+│ └── sort-validate.yml # Automated Term Standardization workflow
 │
 ├── LICENSE
 ├── README.md
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
-└── CONTRIBUTORS.md                     # list of contributors and maintainers
+└── CONTRIBUTORS.md # List of contributors and maintainers
 ```
 
 ## ⚙️ Automation
