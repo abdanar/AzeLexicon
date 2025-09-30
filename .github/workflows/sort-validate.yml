@@ -10,7 +10,7 @@ concurrency:
 
 jobs:
   validate-sort-generate:
-    name: Validate, Sort & Generate Glossary
+    name: Process, Validate, Sort & Generate Glossary
     runs-on: ubuntu-latest
 
     permissions:
