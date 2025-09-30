@@ -1,0 +1,28 @@
+basis
+composite
+decimal
+dimension
+distribution
+fraction
+greatest common divisor (gcd)
+histogram
+integer
+least common multiple (lcm)
+linear transformation
+mean
+median
+mode
+modulo
+null space
+orthogonal
+prime
+probability
+proportion
+random variable
+rank
+ratio
+sample space
+standard deviation
+variance
+vector
+vector space

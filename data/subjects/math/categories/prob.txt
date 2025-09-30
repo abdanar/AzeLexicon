@@ -1,13 +1,13 @@
 # Subject: Mathematics
 # Category: Probability
 # Description: List of English terms only, one term per line.
-probability
-random variable
+distribution
+histogram
 mean
 median
 mode
-variance
-standard deviation
-distribution
-histogram
+probability
+random variable
 sample space
+standard deviation
+variance

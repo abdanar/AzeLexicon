@@ -1,13 +1,13 @@
 # Subject: Mathematics
 # Category: Number Theory
 # Description: List of English terms only, one term per line.
-integer
-prime
 composite
-fraction
 decimal
-ratio
-proportion
-modulo
+fraction
 greatest common divisor (gcd)
+integer
 least common multiple (lcm)
+modulo
+prime
+proportion
+ratio

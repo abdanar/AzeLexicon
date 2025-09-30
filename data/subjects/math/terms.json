@@ -1,0 +1,226 @@
+[
+  {
+    "english": "basis",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "dimension",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "linear transformation",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "null space",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "orthogonal",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "rank",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "vector",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "vector space",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "composite",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "decimal",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "fraction",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "greatest common divisor (gcd)",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "integer",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "least common multiple (lcm)",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "modulo",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "prime",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "proportion",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "ratio",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.NT",
+    "category": "Number Theory"
+  },
+  {
+    "english": "distribution",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "histogram",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "mean",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "median",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "mode",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "probability",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "random variable",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "sample space",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "standard deviation",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  },
+  {
+    "english": "variance",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.PR",
+    "category": "Probability"
+  }
+]
