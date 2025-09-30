@@ -8,7 +8,7 @@ Fork the repository to your GitHub account and make changes in the appropriate f
 
 - **Plain Azerbaijani words** → `data/words.txt`  
 - **Hyphenated words** → `data/words-hyphenated.txt`  
-- **Academic or scientific terms** → see `guide.md` inside each subject folder in `/subjects` (e.g., `/subjects/math/guide.md`)
+- **Academic or scientific terms** → see the `README.md` inside each subject folder in `/subjects` (for example, `/subjects/math/README.md`)
 
 Commit your changes with a descriptive message, for example:
 ```bash
