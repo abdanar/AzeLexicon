@@ -13,12 +13,7 @@ If the translation is missing, add it in the `azerbaijani` field (e.g., `"tənli
 > [!CAUTION]
 > The `id` and `category` fields are already filled and **must not be changed**. If you notice any problem, please open an issue with a detailed description.
 
-> [!IMPORTANT]
-> For the **`id`** field, we primarily use the category IDs from [arxiv.org](https://arxiv.org/category_taxonomy) for mathematics. If needed, additional IDs may be added. For categories not included in arxiv.org, you can check the **`category`** field for the full category name.
-
 If the word is not in `math_terms.txt`, first add the English term to the respective category `.txt` file (not directly in `math_terms.txt`). In this example, `"equation"` should be added to `mathgeneral.txt`. Then, manually trigger the **🛠 Automated Term Standardization** workflow in the **GitHub Actions** tab. The term will appear in `terms.json` with `❌ Missing` status, after which you can add the translation as described above.
-
----
 
 The final JSON entry should have the following form:
 
@@ -31,4 +26,8 @@ The final JSON entry should have the following form:
   "status": "✅ Complete",
   "part_of_speech": "noun"
 }
+```
+
+> [!NOTE]
+> For the **`id`** field, we primarily use the category IDs from [arxiv.org](https://arxiv.org/category_taxonomy) for mathematics. If needed, additional IDs may be added. For categories not included in arxiv.org, you can check the **`category`** field for the full category name.
 
