@@ -64,7 +64,7 @@ AzeLexicon/
 
 ## ⚙️ Automation
 
-To maintain consistency and quality across the repository, all `terms.json` files are automatically sorted alphabetically and checked for duplicates by the **🛠 Automated Term Standardization workflow** (`sort-validate.yml`). Contributors are expected to update the status for each term **they are contributing** in the JSON file. The workflow automatically flags missing translations with `❌ Missing`, so there is no need to add this manually.
+To maintain consistency and quality across the repository, all `terms.json` files are automatically sorted alphabetically and checked for duplicates by the **🛠 Automated Term Standardization** workflow (`sort-validate.yml`). Contributors are expected to update the status for each term **they are contributing** in the JSON file. The workflow automatically flags missing translations with `❌ Missing`, so there is no need to add this manually.
 
 Valid statuses are:  
 - `❌ Missing` – automatically flagged by the workflow for missing translations.  
@@ -74,4 +74,4 @@ Valid statuses are:
 The workflow can be triggered manually in the **GitHub Actions** tab.
 
 > [!CAUTION]
-> Before submitting a PR, ensure that the **🛠 Automated Term Standardization workflow** completes successfully and that each contributed term’s status is updated appropriately.
+> Before submitting a pull request (PR), ensure that the **🛠 Automated Term Standardization** workflow completes successfully. For guidance on when to run the workflow, please refer to the [wiki](https://github.com/abdanar/AzeLexicon/wiki) section describing the appropriate cases. Additionally, make sure that the status of each contributed term is updated correctly.
