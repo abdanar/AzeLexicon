@@ -7,8 +7,8 @@
 
 | Category | English | Azerbaijani | Status |
 |---------|---------|------------|--------|
+| Thermodynamics | Entropy |  | ❌ Missing |
 | Classical Mechanics | Force | Qüvvə | ✅ Complete |
 | Electromagnetism | Electric Field |  | ❌ Missing |
-| Quantum Mechanics | Wavefunction | Dalğa Funksiyası | ⚠️ Revision |
 | Relativity | Time Dilation | Zamanın Uzanması |  |
-| Thermodynamics | Entropy |  | ❌ Missing |
+| Quantum Mechanics | Wavefunction | Dalğa Funksiyası | ⚠️ Revision |
