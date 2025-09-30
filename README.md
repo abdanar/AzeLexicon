@@ -36,7 +36,6 @@ AzeLexicon/
 │ │
 │ └── subjects/
 │ ├── math/
-│ │ ├── README.md # Instructions for contributing to math terms
 │ │ ├── terms.json # Glossary of math terms (EN ↔ AZ)
 │ │ ├── math_terms.txt # Consolidated list of all English math terms
 │ │ ├── categories/ # Subfield-specific English terms

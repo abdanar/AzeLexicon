@@ -7,22 +7,20 @@ import json
 # -----------------------
 
 # Mapping: filename -> id/category
-category_info_math = {
-    "algtop.txt":      {"id": "math.AT", "category": "Algebraic Topology"},
-    "comalg.txt":      {"id": "math.AC", "category": "Commutative Algebra"},
-    "diffeqn.txt":     {"id": "math.DE", "category": "Differential Equations"},
-    "funcanalysis.txt":{"id": "math.FA", "category": "Functional Analysis"},
-    "geotop.txt":      {"id": "math.GT", "category": "Geometric Topology"},
-    "grouptheory.txt": {"id": "math.GR", "category": "Group Theory"},
-    "histmath.txt":    {"id": "math.HM", "category": "History of Mathematics"},
-    "linalg.txt":      {"id": "math.LA", "category": "Linear Algebra"},
-    "mathgeneral.txt": {"id": "math.GM", "category": "General Mathematics"},
-    "numanalysis.txt": {"id": "math.NA", "category": "Numerical Analysis"},
-    "numtheory.txt":   {"id": "math.NT", "category": "Number Theory"},
-    "opalg.txt":       {"id": "math.OP", "category": "Operator Algebra"},
-    "prob.txt":        {"id": "math.PR", "category": "Probability"},
-    "qalg.txt":        {"id": "math.QA", "category": "Quantum Algebra"},
-    "spectheory.txt":  {"id": "math.ST", "category": "Spectral Theory"}
+category_info_physics = {
+    "astro-ph.txt": {"id": "astro-ph", "category": "Astrophysics"},
+    "cond-mat.txt": {"id": "cond-mat", "category": "Condensed Matter"},
+    "gr-qc.txt":    {"id": "gr-qc", "category": "General Relativity and Quantum Cosmology"},
+    "hep-ex.txt":   {"id": "hep-ex", "category": "High Energy Physics - Experiment"},
+    "hep-lat.txt":  {"id": "hep-lat", "category": "High Energy Physics - Lattice"},
+    "hep-ph.txt":   {"id": "hep-ph", "category": "High Energy Physics - Phenomenology"},
+    "hep-th.txt":   {"id": "hep-th", "category": "High Energy Physics - Theory"},
+    "math-ph.txt":  {"id": "math-ph", "category": "Mathematical Physics"},
+    "nlin.txt":     {"id": "nlin", "category": "Nonlinear Sciences"},
+    "nucl-ex.txt":  {"id": "nucl-ex", "category": "Nuclear Experiment"},
+    "nucl-th.txt":  {"id": "nucl-th", "category": "Nuclear Theory"},
+    "physics.txt":  {"id": "physics", "category": "Physics General"},
+    "quant-ph.txt": {"id": "quant-ph", "category": "Quantum Physics"},
 }
 
 allowed_statuses = ["✅ Complete", "❌ Missing", "⚠️ Revision"]
@@ -77,7 +75,7 @@ def update_terms_json(terms_json_path, words_by_file):
     terms_lookup = {term["english"]: term for term in terms_data}
 
     for file_name, words in words_by_file.items():
-        info = category_info_math.get(file_name)
+        info = category_info_physics.get(file_name)
         if not info:
             print(f"⚠️ No category info for {file_name}, skipping...")
             continue
@@ -120,7 +118,7 @@ def validate_terms_json(subject_name, terms):
     seen_english = set()
     seen_azerbaijani = set()
 
-    math_categories = {info["category"] for info in category_info_math.values()}
+    physics_categories = {info["category"] for info in category_info_physics.values()}
 
     for i, term in enumerate(terms, start=1):
         english = term.get("english", "").strip()
@@ -144,8 +142,8 @@ def validate_terms_json(subject_name, terms):
         if azerbaijani in seen_azerbaijani and term["status"] != "❌ Missing":
             errors.append(f"Duplicate Azerbaijani '{azerbaijani}' in Term #{i}")
             continue
-        if category and category not in math_categories:
-            errors.append(f"Invalid category '{category}' in Term #{i}. Allowed: {math_categories}")
+        if category and category not in physics_categories:
+            errors.append(f"Invalid category '{category}' in Term #{i}. Allowed: {physics_categories}")
             continue
 
         seen_english.add(english)
