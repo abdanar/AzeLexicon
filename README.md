@@ -17,7 +17,7 @@ The repository includes:
   A hyphenated version of the general word list. This list is not yet complete, as the **hyphenation algorithm** is under active development.  
 
 - **Academic and scientific terminology**  
-  Organized by subject (mathematics, physics, computer science, etc.). Each subject has a main file (`terms.json`) containing the **translations of English terms into Azerbaijani**. Subfields (e.g., linear algebra, topology) are used for **initial collection of terms**, which are then consolidated into the main `terms.json`.
+  Organized by subject (mathematics, physics, computer science, etc.). Each subject has a main file (`terms.json`) containing the **translations of English terms into Azerbaijani**. Subfields (e.g., linear algebra, probability) are used for **initial collection of terms**, which are then consolidated into the main `terms.json`.
 
 This project aims to be the **authoritative reference** for Azerbaijani in scientific and academic contexts.
 
