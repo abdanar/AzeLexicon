@@ -4,18 +4,18 @@ We appreciate your interest in contributing to AzeLexicon, a project dedicated t
 
 ## Contribution Process
 
-Fork the repository to your GitHub account and implement changes in the appropriate files:
+Fork the repository to your GitHub account and make changes in the appropriate files:
 
-🔹**Plain Azerbaijani words** → `data/words.txt`    
-🔹**Hyphenated words** → `data/words-hyphenated.txt`   
-🔹**Academic or scientific terms** → place in the appropriate subject folder within `data/subjects/` (e.g., `data/subjects/math/`, `data/subjects/physics/`) and update the corresponding `terms.json` file in that folder.   
+- **Plain Azerbaijani words** → `data/words.txt`  
+- **Hyphenated words** → `data/words-hyphenated.txt`  
+- **Academic or scientific terms** → see `guide.md` inside each subject folder in `/subjects` (e.g., `/subjects/math/guide.md`)
 
 Commit your changes with a descriptive message, for example:
 ```bash
 git commit -m "Add 20 new math terms in Azerbaijani"
 ```
 > [!IMPORTANT]
-> Before submitting a Pull Request (PR), ensure that the **🛠 Automated Term Standardization workflow** passes successfully.
+> Before submitting a Pull Request (PR), ensure that the **🛠 Automated Term Standardization** workflow passes successfully.
 
 Push your changes to your fork and open a Pull Request to the main branch, providing a clear description of your modifications.
 

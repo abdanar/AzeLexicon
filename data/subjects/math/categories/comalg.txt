@@ -1,0 +1,3 @@
+# Subject: Mathematics
+# Category: Commutative Algebra
+# Description: List of English terms only, one term per line.
