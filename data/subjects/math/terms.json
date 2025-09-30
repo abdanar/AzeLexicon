@@ -8,30 +8,6 @@
     "category": "Linear Algebra"
   },
   {
-    "english": "dimension",
-    "azerbaijani": "",
-    "status": "❌ Missing",
-    "part_of_speech": "",
-    "id": "math.LA",
-    "category": "Linear Algebra"
-  },
-  {
-    "english": "linear transformation",
-    "azerbaijani": "",
-    "status": "❌ Missing",
-    "part_of_speech": "",
-    "id": "math.LA",
-    "category": "Linear Algebra"
-  },
-  {
-    "english": "null space",
-    "azerbaijani": "",
-    "status": "❌ Missing",
-    "part_of_speech": "",
-    "id": "math.LA",
-    "category": "Linear Algebra"
-  },
-  {
     "english": "orthogonal",
     "azerbaijani": "",
     "status": "❌ Missing",
@@ -70,6 +46,30 @@
     "part_of_speech": "",
     "id": "math.NT",
     "category": "Number Theory"
+  },
+  {
+    "english": "dimension",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "linear transformation",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
+  },
+  {
+    "english": "null space",
+    "azerbaijani": "",
+    "status": "❌ Missing",
+    "part_of_speech": "",
+    "id": "math.LA",
+    "category": "Linear Algebra"
   },
   {
     "english": "decimal",
