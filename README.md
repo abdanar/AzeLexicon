@@ -45,7 +45,7 @@ AzeLexicon/
 │ │ └── scripts/
 │ │ └── process_subject.py # Script to process, validate, and sort terms
 │ │
-│ └── ... # Other subjects (physics, CS, chemistry, biology, etc.)
+│ └── ... # Other subjects (physics, chemistry, biology, etc.)
 │
 ├── glossary/
 │ ├── math.md # Generated Markdown glossary from terms.json
