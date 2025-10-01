@@ -1,11 +1,27 @@
 # Subject: Mathematics
 # Category: Linear Algebra
 # Description: List of English terms only, one term per line.
-basis
-dimension
-linear transformation
-null space
-orthogonal
-rank
-vector
-vector space
+matrix
+submatrix
+array
+entry
+row
+column
+elementary operation
+column operation
+Gaussian elimination
+pivotal element
+pivotal equation
+pivot
+augmented matrix
+coefficient matrix
+square matrix
+row vector
+column vector
+system of linear equations
+linear systems
+elementary row operation
+triangularize
+back substitution
+tridiagonal
+triangularization

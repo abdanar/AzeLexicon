@@ -1,3 +1,12 @@
 # Subject: Mathematics
 # Category: Numerical Analysis
 # Description: List of English terms only, one term per line.
+step size
+approximate
+grid point
+finite difference
+subintervals
+floating-point number
+roundoff error
+precision
+rounding

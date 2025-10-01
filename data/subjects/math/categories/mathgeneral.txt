@@ -1,0 +1,40 @@
+# Subject: Mathematics
+# Category: General
+# Description: List of English terms only, one term per line.
+equation
+formula
+number
+solution
+unknown
+constant
+coefficient
+equivalent
+infinite
+finite
+unique
+value
+operation
+nonzero
+plus
+term
+subtract
+triangularize
+substitution
+substitute
+scalar
+symbol
+addition
+subtraction
+multiplication
+division
+count
+expression
+interchange
+sequence
+point
+approximate
+positive
+function
+accurate
+exact
+divide
